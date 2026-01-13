@@ -1,0 +1,73 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Guam eSIM",
+  "seo_meta_title": "Guam eSIM Deals – Starting at $11.99 | Pirate Mobile",
+  "meta_description": "Get your Guam eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How can I purchase a Guam eSIM from Pirate Mobile?",
+      "answer": "Simply visit our website, choose the Guam eSIM plan that suits your travel needs, and complete the purchase. You’ll receive a QR code via email, which you can scan to activate your eSIM instantly."
+    },
+    {
+      "question": "Can I activate the Guam eSIM before arriving in Guam?",
+      "answer": "Yes, you can activate your Pirate Mobile Guam eSIM before your trip. This ensures you’re connected as soon as you land in Guam, saving time and hassle."
+    },
+    {
+      "question": "Will the Guam eSIM work on all devices?",
+      "answer": "The Guam eSIM will work on eSIM-compatible devices. Check your device’s settings to see if it supports eSIM, or refer to our compatibility guide on the Pirate Mobile website."
+    },
+    {
+      "question": "What happens if I run out of data while in Guam?",
+      "answer": "If you run out of data, you can easily top up your plan through the Pirate Mobile website. This ensures you stay connected without interruption during your trip."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guam eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/guam",
+      "priceCurrency": "USD",
+      "lowPrice": "11.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase a Guam eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simply visit our website, choose the Guam eSIM plan that suits your travel needs, and complete the purchase. You’ll receive a QR code via email, which you can scan to activate your eSIM instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I activate the Guam eSIM before arriving in Guam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can activate your Pirate Mobile Guam eSIM before your trip. This ensures you’re connected as soon as you land in Guam, saving time and hassle."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will the Guam eSIM work on all devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Guam eSIM will work on eSIM-compatible devices. Check your device’s settings to see if it supports eSIM, or refer to our compatibility guide on the Pirate Mobile website."
+      }
+    }]
+  }
+}

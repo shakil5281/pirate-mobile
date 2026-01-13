@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Vanuatu",
+  "seo_meta_title": "Get Your Vanuatu eSIM Now – Starting at $24.99",
+  "meta_description": "Get instant connectivity in Vanuatu with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I purchase a Pirate Mobile eSIM for Vanuatu?",
+      "answer": "To get a Pirate Mobile eSIM for Vanuatu, visit our website and choose a plan that fits your needs. After completing the purchase, you will receive a QR code via email. Scan this code in your device settings to activate your eSIM instantly."
+    },
+    {
+      "question": "Can I use the Pirate Mobile eSIM for voice calls in Vanuatu?",
+      "answer": "Yes, you can use your Pirate Mobile eSIM for voice calls in Vanuatu, provided your device supports this feature. While our primary service focuses on data, we ensure that you have the option for voice connectivity if needed."
+    },
+    {
+      "question": "What are the data limits on the Pirate Mobile eSIM plans for Vanuatu?",
+      "answer": "Pirate Mobile offers a variety of data plans for Vanuatu, each with different data limits. You can choose a plan that suits your data usage needs, whether for light browsing or heavy streaming. Check our website for detailed information on each plan."
+    },
+    {
+      "question": "Are there any additional fees when using Pirate Mobile’s eSIM in Vanuatu?",
+      "answer": "When you purchase a Pirate Mobile eSIM for Vanuatu, the price you pay covers your selected data plan. However, if you exceed your data limit, additional fees may apply. It’s advisable to monitor your usage to avoid unexpected charges."
+    },
+    {
+      "question": "How do I know if my device is compatible with the Pirate Mobile eSIM in Vanuatu?",
+      "answer": "Most modern smartphones and tablets support eSIM technology. To ensure compatibility with Pirate Mobile’s eSIM for Vanuatu, you can check your device settings or refer to our website for a list of supported devices."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Vanuatu eSIm",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/vanuatu",
+      "priceCurrency": "USD",
+      "lowPrice": "24.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase a Pirate Mobile eSIM for Vanuatu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get a Pirate Mobile eSIM for Vanuatu, visit our website and choose a plan that fits your needs. After completing the purchase, you will receive a QR code via email. Scan this code in your device settings to activate your eSIM instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Pirate Mobile eSIM for voice calls in Vanuatu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use your Pirate Mobile eSIM for voice calls in Vanuatu, provided your device supports this feature. While our primary service focuses on data, we ensure that you have the option for voice connectivity if needed."
+      }
+    },{
+      "@type": "Question",
+      "name": "What are the data limits on the Pirate Mobile eSIM plans for Vanuatu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers a variety of data plans for Vanuatu, each with different data limits. You can choose a plan that suits your data usage needs, whether for light browsing or heavy streaming. Check our website for detailed information on each plan."
+      }
+    },{
+      "@type": "Question",
+      "name": "Are there any additional fees when using Pirate Mobile’s eSIM in Vanuatu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you purchase a Pirate Mobile eSIM for Vanuatu, the price you pay covers your selected data plan. However, if you exceed your data limit, additional fees may apply. It’s advisable to monitor your usage to avoid unexpected charges."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I know if my device is compatible with the Pirate Mobile eSIM in Vanuatu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones and tablets support eSIM technology. To ensure compatibility with Pirate Mobile’s eSIM for Vanuatu, you can check your device settings or refer to our website for a list of supported devices."
+      }
+    }]
+  }
+}

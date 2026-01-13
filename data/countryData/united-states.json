@@ -1,0 +1,170 @@
+{
+    "title": "Buy eSIM for the United States",
+    "seo_meta_title": "United States eSIM for Travelers – From $3.59 | Pirate Mobile",
+    "meta_description": "Traveling to the United States? Stay connected with Pirate Mobile’s eSIMs – fast activation, affordable rates, and nationwide coverage.",
+    "faqs": [
+      {
+        "question": "How do I activate my eSIM for use in the United States?",
+        "answer": "To activate your eSIM in the U.S., scan the QR code provided in your confirmation email using your device's eSIM settings. Once scanned, follow the on-screen instructions to finalize the activation. Your eSIM should be ready to use immediately after activation."
+      },
+      {
+        "question": "When will my U.S. eSIM data plan start?",
+        "answer": "Your U.S. eSIM data plan will begin as soon as the eSIM is activated on your device. You can choose to activate it immediately or schedule the activation for a future date based on your travel plans."
+      },
+      {
+        "question": "Can I request a refund after purchasing an eSIM?",
+        "answer": "Refunds are not available once the eSIM has been delivered and activated. However, if you experience technical issues, please contact our support team for assistance."
+      },
+      {
+        "question": "How do I manage multiple eSIM profiles on my device?",
+        "answer": "You can manage multiple eSIM profiles by navigating to your device's settings. Under the cellular or network settings, you'll find options to switch between different eSIM profiles or set a default for data, calls, and messages."
+      },
+      {
+        "question": "What is the validity period of my eSIM, and when does it expire?",
+        "answer": "The validity period of your eSIM depends on the specific plan you purchased. Typically, it ranges from 7 to 30 days. The eSIM will expire at the end of this period, starting from the date of activation."
+      },
+      {
+        "question": "How can I renew my eSIM package or add more data?",
+        "answer": "To renew your eSIM package or add more data, visit our website and select the 'Renew' or 'Add Data' option in your account dashboard. Follow the prompts to purchase additional data or extend your plan's validity."
+      },
+      {
+        "question": "What is the fair usage policy for unlimited eSIM data plans in the United States?",
+        "answer": "Our unlimited eSIM data plans are subject to a fair usage policy to ensure network stability. While there is no hard data cap, excessive usage that impacts network performance may result in reduced speeds or temporary suspension of service. Please use your data responsibly."
+      }
+    ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM For United States",
+    "image": "https://www.piratemobile.gg/_next/image?url=%2Fimages%2Ffooter%2Fmain_logo.png&w=256&q=75",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/united-states",
+      "priceCurrency": "USD",
+      "lowPrice": "$3.59"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "localBusinessSchema": {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "name": "Buy eSIM for the United States",
+    "image": "https://www.piratemobile.gg/_next/image?url=%2Fimages%2Ffooter%2Fmain_logo.png&w=256&q=75",
+    "@id": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "url": "https://www.piratemobile.gg/esim/united-states",
+    "telephone": "34655877579",
+    "priceRange": "$3.59",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "postalCode": "",
+      "addressCountry": "US"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    }
+  },
+  "serviceSchema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Buy eSIM for the United States",
+    "description": "Buy a prepaid eSIM for the United States with affordable data plans from Pirate Mobile. Perfect for tourists, business travelers, and digital nomads looking for a cheap and flexible way to stay connected across the US.",
+    "url": "https://www.piratemobile.gg/esim/united-states",
+    "serviceType": "Mobile Data Service",
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "Pirate Mobile",
+      "url": "https://www.piratemobile.gg"
+    },
+    "keywords": "cheap esim usa, cheapest esim plan usa, cheapest us esim, cheapest esim usa, cheap esim plans usa, cheap us esim, esim usa pay as you go, cheap+esim, cheapest usa esim, cheapest esim for usa, esim deals usa"
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "1. How do I activate my eSIM for use in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To activate your eSIM in the U.S., scan the QR code provided in your confirmation email using your device's eSIM settings. Once scanned, follow the on-screen instructions to finalize the activation. Your eSIM should be ready to use immediately after activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "2. When will my U.S. eSIM data plan start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your U.S. eSIM data plan will begin as soon as the eSIM is activated on your device. You can choose to activate it immediately or schedule the activation for a future date based on your travel plans."
+      }
+    },{
+      "@type": "Question",
+      "name": "3. Can I request a refund after purchasing an eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refunds are not available once the eSIM has been delivered and activated. However, if you experience technical issues, please contact our support team for assistance."
+      }
+    },{
+      "@type": "Question",
+      "name": "4. How do I manage multiple eSIM profiles on my device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can manage multiple eSIM profiles by navigating to your device's settings. Under the cellular or network settings, you'll find options to switch between different eSIM profiles or set a default for data, calls, and messages."
+      }
+    },{
+      "@type": "Question",
+      "name": "5. What is the validity period of my eSIM, and when does it expire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The validity period of your eSIM depends on the specific plan you purchased. Typically, it ranges from 7 to 30 days. The eSIM will expire at the end of this period, starting from the date of activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "6. How can I renew my eSIM package or add more data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To renew your eSIM package or add more data, visit our website and select the \"Renew\" or \"Add Data\" option in your account dashboard. Follow the prompts to purchase additional data or extend your plan's validity."
+      }
+    }]
+  },
+  "networks": [
+    {
+    "brandName": "Verizon",
+    "logo": "brandLogo/US/verizon.svg"
+    },
+    {
+      "brandName": "AT&T",
+    "logo": "brandLogo/US/att.svg"
+    },
+    {
+      "brandName": "T-Mobile",
+    "logo": "brandLogo/US/tmobile.svg"
+    }
+  ]
+}

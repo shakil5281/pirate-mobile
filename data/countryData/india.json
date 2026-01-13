@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with India eSIM",
+  "seo_meta_title": "India eSIM Deals – Starting at $14.99 | Best Prices",
+  "meta_description": "Get your India eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is an eSIM, and why should I use it in India?",
+      "answer": "An eSIM is a digital SIM card that eliminates the need for a physical SIM. With Pirate Mobile’s eSIM, you can enjoy seamless connectivity across India without the hassle of purchasing and switching physical SIM cards."
+    },
+    {
+      "question": "How do I purchase and activate an eSIM for India from Pirate Mobile?",
+      "answer": "Purchase your India eSIM directly from our website. After completing your purchase, you’ll receive a QR code via email. Scan this QR code using your device’s settings to activate the eSIM."
+    },
+    {
+      "question": "Is my device compatible with Pirate Mobile’s India eSIM?",
+      "answer": "Most modern devices with eSIM capability are compatible. Check our compatibility list or your device’s specifications to confirm it supports eSIM technology."
+    },
+    {
+      "question": "Can I use the India eSIM for both data and voice services?",
+      "answer": "Pirate Mobile’s India eSIM primarily provides data services. For voice calls and SMS, consider using VoIP apps or check if your plan includes these services."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "India eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/india",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is an eSIM, and why should I use it in India?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM card that eliminates the need for a physical SIM. With Pirate Mobile’s eSIM, you can enjoy seamless connectivity across India without the hassle of purchasing and switching physical SIM cards."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I purchase and activate an eSIM for India from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Purchase your India eSIM directly from our website. After completing your purchase, you’ll receive a QR code via email. Scan this QR code using your device’s settings to activate the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with Pirate Mobile’s India eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern devices with eSIM capability are compatible. Check our compatibility list or your device’s specifications to confirm it supports eSIM technology."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the India eSIM for both data and voice services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s India eSIM primarily provides data services. For voice calls and SMS, consider using VoIP apps or check if your plan includes these services."
+      }
+    }]
+  }
+}

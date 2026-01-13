@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Iran",
+  "seo_meta_title": "Iran eSIM Deals – Starting at $39.99 | Best Prices",
+  "meta_description": "Get your Iran eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is an eSIM, and how does it work in Iran?",
+      "answer": "An eSIM is a digital SIM card embedded in your device that eliminates the need for a physical SIM. In Iran, Pirate Mobile’s eSIM provides you with instant and seamless connectivity across major networks without swapping SIM cards."
+    },
+    {
+      "question": "How can I purchase an eSIM for Iran from Pirate Mobile?",
+      "answer": "To purchase an eSIM for Iran, visit our website, select the appropriate plan, and complete the purchase. You’ll receive a QR code via email that you can scan to activate your eSIM."
+    },
+    {
+      "question": "Is my device compatible with the eSIM for Iran?",
+      "answer": "Most modern smartphones and tablets that support eSIM technology are compatible. Check your device specifications or our compatibility list to ensure it supports eSIM."
+    },
+    {
+      "question": "How do I activate my Iran eSIM once I receive it?",
+      "answer": "After receiving the QR code, open your device’s settings, scan the QR code, and follow the activation steps provided. Activation is quick and straightforward."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Iran eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/iran",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is an eSIM, and how does it work in Iran?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM card embedded in your device that eliminates the need for a physical SIM. In Iran, Pirate Mobile’s eSIM provides you with instant and seamless connectivity across major networks without swapping SIM cards."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I purchase an eSIM for Iran from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To purchase an eSIM for Iran, visit our website, select the appropriate plan, and complete the purchase. You’ll receive a QR code via email that you can scan to activate your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with the eSIM for Iran?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones and tablets that support eSIM technology are compatible. Check your device specifications or our compatibility list to ensure it supports eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Iran eSIM once I receive it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After receiving the QR code, open your device’s settings, scan the QR code, and follow the activation steps provided. Activation is quick and straightforward."
+      }
+    }]
+  }
+}

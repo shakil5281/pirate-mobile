@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Uruguay",
+  "seo_meta_title": "Get Your Uruguay eSIM Now – Starting at $4.99",
+  "meta_description": "Get instant connectivity in Uruguay with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How can I purchase a Pirate Mobile eSIM for Uruguay?",
+      "answer": "You can purchase a Pirate Mobile eSIM for Uruguay by visiting our website. Choose your preferred data plan, complete the payment, and you will receive a QR code via email to activate your eSIM instantly."
+    },
+    {
+      "question": "Do I need a special phone to use Pirate Mobile’s Uruguay eSIM?",
+      "answer": "To use Pirate Mobile’s Uruguay eSIM, you need a phone that is eSIM-compatible, such as newer iPhone, Samsung, or Google Pixel models. Most recent smartphones support eSIM technology, but you can check the list of compatible devices on Pirate Mobile’s website."
+    },
+    {
+      "question": "Can I use my Pirate Mobile Uruguay eSIM alongside my home SIM card?",
+      "answer": "Yes, Pirate Mobile’s eSIM allows dual-SIM functionality on compatible phones. You can keep your home SIM active for calls and texts while using the Pirate Mobile eSIM for local data in Uruguay."
+    },
+    {
+      "question": "What are the advantages of using Pirate Mobile's Uruguay eSIM over a local SIM card?",
+      "answer": "With Pirate Mobile’s Uruguay eSIM, you can avoid the hassle of finding and buying a local SIM card. Pirate Mobile offers immediate activation before you arrive, transparent pricing, and flexible data packages tailored for travelers, saving you both time and effort."
+    },
+    {
+      "question": "What happens if I accidentally delete my Uruguay eSIM from Pirate Mobile?",
+      "answer": "If you delete your Pirate Mobile Uruguay eSIM, don’t panic. Contact our customer support team, and we’ll help you reactivate your eSIM by sending you a new QR code. The process is quick, so you won’t experience prolonged downtime."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Uruguay eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/uruguay",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase a Pirate Mobile eSIM for Uruguay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase a Pirate Mobile eSIM for Uruguay by visiting our website. Choose your preferred data plan, complete the payment, and you will receive a QR code via email to activate your eSIM instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Do I need a special phone to use Pirate Mobile’s Uruguay eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To use Pirate Mobile’s Uruguay eSIM, you need a phone that is eSIM-compatible, such as newer iPhone, Samsung, or Google Pixel models. Most recent smartphones support eSIM technology, but you can check the list of compatible devices on Pirate Mobile’s website."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Pirate Mobile Uruguay eSIM alongside my home SIM card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s eSIM allows dual-SIM functionality on compatible phones. You can keep your home SIM active for calls and texts while using the Pirate Mobile eSIM for local data in Uruguay."
+      }
+    },{
+      "@type": "Question",
+      "name": "What are the advantages of using Pirate Mobile's Uruguay eSIM over a local SIM card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "With Pirate Mobile’s Uruguay eSIM, you can avoid the hassle of finding and buying a local SIM card. Pirate Mobile offers immediate activation before you arrive, transparent pricing, and flexible data packages tailored for travelers, saving you both time and effort."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I accidentally delete my Uruguay eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you delete your Pirate Mobile Uruguay eSIM, don’t panic. Contact our customer support team, and we’ll help you reactivate your eSIM by sending you a new QR code. The process is quick, so you won’t experience prolonged downtime."
+      }
+    }]
+  }
+}

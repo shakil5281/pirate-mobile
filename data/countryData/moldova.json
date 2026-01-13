@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Moldova",
+  "seo_meta_title": "Buy Moldova eSIM – Starting at $9.99",
+  "meta_description": "Get connected instantly in Moldova with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "How do I activate my Moldova eSIM?",
+      "answer": "After purchasing, you’ll receive a QR code. Simply scan it using your device’s settings under 'Mobile Data' or 'Cellular' to activate your eSIM."
+    },
+    {
+      "question": "Is my device compatible with the Moldova eSIM?",
+      "answer": "Most recent smartphones support eSIM technology. Check your device specifications or our compatibility list to ensure it works."
+    },
+    {
+      "question": "Can I use the Moldova eSIM for voice calls?",
+      "answer": "Yes, the Moldova eSIM supports voice calls along with data services, depending on the plan you choose."
+    },
+    {
+      "question": "How do I top up my eSIM data plan in Moldova?",
+      "answer": "You can easily top up your data through the Pirate Mobile website or app by selecting your desired data package."
+    },
+    {
+      "question": "What if I delete my Moldova eSIM profile?",
+      "answer": "If you accidentally delete your eSIM, contact Pirate Mobile support for assistance. You may be able to recover or reinstall it."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Moldova esim",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/moldova",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I activate my Moldova eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, you’ll receive a QR code. Simply scan it using your device’s settings under “Mobile Data” or “Cellular” to activate your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with the Moldova eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most recent smartphones support eSIM technology. Check your device specifications or our compatibility list to ensure it works."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Moldova eSIM for voice calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Moldova eSIM supports voice calls along with data services, depending on the plan you choose."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I top up my eSIM data plan in Moldova?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily top up your data through the Pirate Mobile website or app by selecting your desired data package."
+      }
+    },{
+      "@type": "Question",
+      "name": "What if I delete my Moldova eSIM profile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you accidentally delete your eSIM, contact Pirate Mobile support for assistance. You may be able to recover or reinstall it."
+      }
+    }]
+  }
+}

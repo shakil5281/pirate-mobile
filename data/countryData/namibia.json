@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Namibia",
+  "seo_meta_title": "Get eSIM Namibia Now – Starting at $34.99",
+  "meta_description": "Stay connected in Namibia with Pirate Mobile's eSIM! Enjoy instant activation, flexible data plans, and seamless connectivity without a physical SIM card.",
+  "faqs": [
+    {
+      "question": "How do I know if my device supports a Namibia eSIM?",
+      "answer": "Most modern smartphones, including recent models from Apple and Samsung, support eSIM functionality. Check your device's settings or manufacturer specifications for confirmation."
+    },
+    {
+      "question": "Can I purchase a Namibia eSIM before arriving in the country?",
+      "answer": "Yes, you can buy and activate your Namibia eSIM online through Pirate Mobile before your trip, ensuring you have connectivity as soon as you arrive."
+    },
+    {
+      "question": "Are there specific data plans available for travelers in Namibia?",
+      "answer": "Yes, we offer tailored data plans designed specifically for travelers in Namibia, allowing you to choose the best option based on your needs."
+    },
+    {
+      "question": "How do I switch from a physical SIM to a Namibia eSIM?",
+      "answer": "To switch, purchase the eSIM from Pirate Mobile, then activate it by scanning the QR code provided. You can keep your physical SIM active until you're ready to switch."
+    },
+    {
+      "question": "What should I do if I experience connectivity issues with my Namibia eSIM?",
+      "answer": "If you encounter any connectivity problems, first restart your device. If the issue persists, contact Pirate Mobile's customer support for troubleshooting assistance."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "esim Namibia",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/namibia",
+      "priceCurrency": "USD",
+      "lowPrice": "34.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I know if my device supports a Namibia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones, including recent models from Apple and Samsung, support eSIM functionality. Check your device's settings or manufacturer specifications for confirmation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I purchase a Namibia eSIM before arriving in the country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can buy and activate your Namibia eSIM online through Pirate Mobile before your trip, ensuring you have connectivity as soon as you arrive."
+      }
+    },{
+      "@type": "Question",
+      "name": "Are there specific data plans available for travelers in Namibia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we offer tailored data plans designed specifically for travelers in Namibia, allowing you to choose the best option based on your needs."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I switch from a physical SIM to a Namibia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To switch, purchase the eSIM from Pirate Mobile, then activate it by scanning the QR code provided. You can keep your physical SIM active until you're ready to switch."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I experience connectivity issues with my Namibia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you encounter any connectivity problems, first restart your device. If the issue persists, contact Pirate Mobile's customer support for troubleshooting assistance."
+      }
+    }]
+  }
+}

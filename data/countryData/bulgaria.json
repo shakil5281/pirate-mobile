@@ -1,0 +1,75 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Bulgaria eSIM",
+  "seo_meta_title": "Bulgaria eSIM Deals – Starting at $3.99 | Pirate Mobile",
+  "meta_description": "Traveling to Bulgaria? Stay connected with Pirate Mobile’s eSIMs – fast activation, affordable rates, and nationwide coverage.",
+  "faqs": [
+    {
+      "question": "Will Pirate Mobile’s Bulgaria eSIM work in rural areas and smaller towns?",
+      "answer": "Pirate Mobile partners with top Bulgarian networks to ensure wide coverage, including rural areas and smaller towns, so you stay connected wherever you travel in Bulgaria."
+    },
+    {
+      "question": "Can I switch between different data plans while using the Bulgaria eSIM?",
+      "answer": "Yes, if you need more data or a different plan during your trip, you can upgrade or switch plans through the Pirate Mobile platform without interrupting your service."
+    },
+    {
+      "question": "Is it possible to use multiple eSIMs on one device in Bulgaria?",
+      "answer": "If your device supports multiple eSIM profiles, you can add the Pirate Mobile eSIM for Bulgaria alongside other eSIMs or a physical SIM card for other countries."
+    },
+    {
+      "question": "What are the data limits for Pirate Mobile’s Bulgaria eSIM plans?",
+      "answer": "We offer flexible data plans for Bulgaria, ranging from low data options for casual use to high data packages for heavy internet users. Check our website for specific plan details."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bulgaria eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/bulgaria",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Will Pirate Mobile’s Bulgaria eSIM work in rural areas and smaller towns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile partners with top Bulgarian networks to ensure wide coverage, including rural areas and smaller towns, so you stay connected wherever you travel in Bulgaria."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I switch between different data plans while using the Bulgaria eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you need more data or a different plan during your trip, you can upgrade or switch plans through the Pirate Mobile platform without interrupting your service."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is it possible to use multiple eSIMs on one device in Bulgaria?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your device supports multiple eSIM profiles, you can add the Pirate Mobile eSIM for Bulgaria alongside other eSIMs or a physical SIM card for other countries."
+      }
+    }]
+  }
+
+
+}

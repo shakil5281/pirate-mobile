@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Puerto Rico",
+  "seo_meta_title": "Buy Puerto Rico eSIM Now – Starting at $4.99",
+  "meta_description": "Get connected instantly in Puerto Rico with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "How can I purchase an eSIM for Puerto Rico?",
+      "answer": "You can easily purchase a Puerto Rico eSIM through the Pirate Mobile website. Select the Puerto Rico eSIM option, choose your preferred data plan, and complete the checkout process. Once your purchase is confirmed, you will receive a QR code via email for activation."
+    },
+    {
+      "question": "What data plans are available for the Puerto Rico eSIM?",
+      "answer": "Pirate Mobile offers a range of data plans for Puerto Rico, including daily, weekly, and monthly options. Each plan comes with different data limits to suit various needs, whether you're staying for a short visit or an extended period."
+    },
+    {
+      "question": "Can I use my Puerto Rico eSIM in other Caribbean countries?",
+      "answer": "The Puerto Rico eSIM is optimized for use within Puerto Rico. While it may work in some neighboring Caribbean countries, it's advisable to check the specifics of your data plan regarding roaming capabilities and any potential additional charges."
+    },
+    {
+      "question": "How do I activate my eSIM once I arrive in Puerto Rico?",
+      "answer": "Activating your Puerto Rico eSIM is straightforward. After purchasing, you’ll receive a QR code via email. On your device, go to your settings, select 'Mobile Data' or 'Cellular,' then choose 'Add Mobile Plan.' Scan the QR code, follow the prompts, and your eSIM will be activated for immediate use."
+    },
+    {
+      "question": "What should I do if I face connectivity issues with my Puerto Rico eSIM?",
+      "answer": "If you encounter connectivity problems, first check that your eSIM is activated and that your device settings are correct. Restart your device and ensure that your software is up to date. If issues persist, contact Pirate Mobile customer support for assistance."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Puerto Rico eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/puerto-rico",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase an eSIM for Puerto Rico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily purchase a Puerto Rico eSIM through the Pirate Mobile website. Select the Puerto Rico eSIM option, choose your preferred data plan, and complete the checkout process. Once your purchase is confirmed, you will receive a QR code via email for activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "What data plans are available for the Puerto Rico eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers a range of data plans for Puerto Rico, including daily, weekly, and monthly options. Each plan comes with different data limits to suit various needs, whether you're staying for a short visit or an extended period."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Puerto Rico eSIM in other Caribbean countries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Puerto Rico eSIM is optimized for use within Puerto Rico. While it may work in some neighboring Caribbean countries, it's advisable to check the specifics of your data plan regarding roaming capabilities and any potential additional charges."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my eSIM once I arrive in Puerto Rico?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Activating your Puerto Rico eSIM is straightforward. After purchasing, you’ll receive a QR code via email. On your device, go to your settings, select “Mobile Data” or “Cellular,” then choose “Add Mobile Plan.” Scan the QR code, follow the prompts, and your eSIM will be activated for immediate use."
+      }
+    }]
+  }
+}

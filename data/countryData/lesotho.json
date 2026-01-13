@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Lesotho",
+  "seo_meta_title": "Buy Lesotho eSIM – Starting at $4.99 | Best Prices",
+  "meta_description": "Get instant connectivity in Lesotho with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I purchase and activate an eSIM for Lesotho through Pirate Mobile?",
+      "answer": "To get an eSIM for Lesotho, visit our website, select the appropriate plan, and complete your purchase. You will receive a QR code via email. Scan this QR code in your device’s settings to activate your eSIM."
+    },
+    {
+      "question": "What types of devices support the Lesotho eSIM?",
+      "answer": "Most modern smartphones, tablets, and some laptops that support eSIM technology are compatible. Check your device’s specifications or our compatibility list on the website to ensure it works with our eSIM."
+    },
+    {
+      "question": "Can I use the Lesotho eSIM for voice calls and text messages?",
+      "answer": "Pirate Mobile’s eSIM is primarily for data services. For voice calls and text messaging, consider using VoIP services or check if your plan includes these features."
+    },
+    {
+      "question": "What data plans are available with the Lesotho eSIM, and can I top up?",
+      "answer": "We offer various data plans depending on your needs. Details of each plan are available on our website. You can easily top up your data if you need more during your stay."
+    },
+    {
+      "question": "What should I do if I encounter issues with my eSIM in Lesotho?",
+      "answer": "Restart your device or re-scan the QR code if you face issues. If problems persist, contact Pirate Mobile’s customer support for assistance."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lesotho eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/lesotho",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase and activate an eSIM for Lesotho through Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get an eSIM for Lesotho, visit our website, select the appropriate plan, and complete your purchase. You will receive a QR code via email. Scan this QR code in your device’s settings to activate your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "What types of devices support the Lesotho eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones, tablets, and some laptops that support eSIM technology are compatible. Check your device’s specifications or our compatibility list on the website to ensure it works with our eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Lesotho eSIM for voice calls and text messages?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIM is primarily for data services. For voice calls and text messaging, consider using VoIP services or check if your plan includes these features."
+      }
+    },{
+      "@type": "Question",
+      "name": "What data plans are available with the Lesotho eSIM, and can I top up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer various data plans depending on your needs. Details of each plan are available on our website. You can easily top up your data if you need more during your stay."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I encounter issues with my eSIM in Lesotho?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Restart your device or re-scan the QR code if you face issues. If problems persist, contact Pirate Mobile’s customer support for assistance."
+      }
+    }]
+  }
+}

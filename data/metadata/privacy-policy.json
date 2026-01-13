@@ -1,0 +1,26 @@
+{
+  "title": "Privacy Policy | Pirate Mobile - eSIM Travel Connectivity",
+  "description": "Learn how Pirate Mobile protects your privacy and handles your personal data when using our eSIM services for international travel.",
+  "keywords": "privacy policy, data protection, eSIM privacy, travel data security, GDPR compliance, user privacy",
+  "ogTitle": "Privacy Policy | Pirate Mobile",
+  "ogDescription": "Learn how Pirate Mobile protects your privacy and handles your personal data when using our eSIM services.",
+  "ogImage": "/images/og/privacy-policy.jpg",
+  "twitterTitle": "Privacy Policy | Pirate Mobile",
+  "twitterDescription": "Learn how Pirate Mobile protects your privacy and handles your personal data when using our eSIM services.",
+  "twitterImage": "/images/og/privacy-policy.jpg",
+  "canonical": "https://piratemobile.gg/privacy-policy",
+  "robots": "index, follow",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Privacy Policy",
+    "description": "Privacy Policy for Pirate Mobile eSIM services",
+    "url": "https://piratemobile.gg/privacy-policy",
+    "dateModified": "2024-12-15",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pirate Mobile",
+      "url": "https://piratemobile.gg"
+    }
+  }
+}

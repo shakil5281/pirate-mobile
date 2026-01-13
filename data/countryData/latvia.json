@@ -1,0 +1,102 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Latvia",
+  "seo_meta_title": "Buy Latvia eSIM – Starting at $4.99 | Best Prices",
+  "meta_description": "Get instant connectivity in Latvia with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I purchase and activate an eSIM for Latvia through Pirate Mobile?",
+      "answer": "Purchase your eSIM plan from the Pirate Mobile website. After completing your purchase, you'll receive a QR code via email. Scan this QR code in your device’s settings to activate your eSIM for Latvia."
+    },
+    {
+      "question": "What types of devices are compatible with the Latvia eSIM?",
+      "answer": "Most modern smartphones, tablets, and some laptops that support eSIM technology are compatible. Verify your device’s specifications or consult our compatibility list to ensure it supports eSIM."
+    },
+    {
+      "question": "Can I use the eSIM for voice calls and text messaging in Latvia?",
+      "answer": "Pirate Mobile’s eSIM primarily offers data services. For voice calls and text messages, consider using VoIP services or check if your plan includes these features."
+    },
+    {
+      "question": "What data plans are available for Latvia, and can I top up if needed?",
+      "answer": "We offer various data plans for Latvia. Check our website for details on available plans. If you run out of data, you can easily top up your plan through the Pirate Mobile website."
+    },
+    {
+      "question": "What should I do if I encounter issues with my eSIM in Latvia?",
+      "answer": "If you experience problems, try restarting your device or re-scanning the QR code. For persistent issues, contact Pirate Mobile’s customer support for assistance."
+    },
+    {
+      "question": "Can I use the Latvia eSIM for travel to nearby countries?",
+      "answer": "The Latvia eSIM is designed for use within Latvia. For travel to neighboring countries, consider purchasing a regional or global eSIM plan."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Latvia",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/laos",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase and activate an eSIM for Latvia through Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Purchase your eSIM plan from the Pirate Mobile website. After completing your purchase, you'll receive a QR code via email. Scan this QR code in your device’s settings to activate your eSIM for Latvia."
+      }
+    },{
+      "@type": "Question",
+      "name": "What types of devices are compatible with the Latvia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones, tablets, and some laptops that support eSIM technology are compatible. Verify your device’s specifications or consult our compatibility list to ensure it supports eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the eSIM for voice calls and text messaging in Latvia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIM primarily offers data services. For voice calls and text messages, consider using VoIP services or check if your plan includes these features."
+      }
+    },{
+      "@type": "Question",
+      "name": "What data plans are available for Latvia, and can I top up if needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer various data plans for Latvia. Check our website for details on available plans. If you run out of data, you can easily top up your plan through the Pirate Mobile website."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I encounter issues with my eSIM in Latvia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience problems, try restarting your device or re-scanning the QR code. For persistent issues, contact Pirate Mobile’s customer support for assistance."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Latvia eSIM for travel to nearby countries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Latvia eSIM is designed for use within Latvia. For travel to neighboring countries, consider purchasing a regional or global eSIM plan."
+      }
+    }]
+  }
+}

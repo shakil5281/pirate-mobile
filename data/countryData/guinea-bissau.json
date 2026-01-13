@@ -1,0 +1,70 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Guinea Bissau",
+  "seo_meta_title": "Guinea Bissau eSIM Deals – Starting at $23.99",
+  "meta_description": "Get your Guinea Bissau eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "Can I purchase and activate my eSIM before arriving in Guinea Bissau?",
+      "answer": "Yes, Pirate Mobile allows you to purchase and activate your eSIM before arriving, so you're instantly connected as soon as you reach Guinea Bissau."
+    },
+    {
+      "question": "Is the eSIM service reliable in remote areas of Guinea Bissau?",
+      "answer": "Pirate Mobile partners with top local network providers to ensure strong coverage in both urban and rural areas of Guinea Bissau. However, coverage may vary in very remote regions."
+    },
+    {
+      "question": "How can I extend my eSIM plan if I need more data during my stay in Guinea Bissau?",
+      "answer": "You can easily top up your data or extend your plan through the Pirate Mobile website. Just log in to your account and choose the extension option."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guinea Bissau eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/guinea-bissau",
+      "priceCurrency": "USD",
+      "lowPrice": "23.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I purchase and activate my eSIM before arriving in Guinea Bissau?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile allows you to purchase and activate your eSIM before arriving, so you're instantly connected as soon as you reach Guinea Bissau."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the eSIM service reliable in remote areas of Guinea Bissau?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile partners with top local network providers to ensure strong coverage in both urban and rural areas of Guinea Bissau. However, coverage may vary in very remote regions."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I extend my eSIM plan if I need more data during my stay in Guinea Bissau?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily top up your data or extend your plan through the Pirate Mobile website. Just log in to your account and choose the extension option."
+      }
+    }]
+  }
+
+}

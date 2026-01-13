@@ -1,0 +1,25 @@
+{
+    "title": "Available eSIM Countries – Pirate Mobile",
+    "seo_meta_title": "eSIM Destinations | All Supported Countries | Pirate Mobile",
+    "meta_description": "Browse all countries where Pirate Mobile offers eSIM connectivity. Find your travel destination and get the best plans.",
+    "openGraph": {
+      "title": "eSIM Destinations | All Supported Countries | Pirate Mobile",
+      "description": "Browse all countries where Pirate Mobile offers eSIM connectivity. Find your travel destination and get the best plans.",
+      "images": ["/og/countries-cover.jpg"],
+      "url": "https://www.piratemobile.gg/countries"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "eSIM Destinations | All Supported Countries | Pirate Mobile",
+      "description": "Browse all countries where Pirate Mobile offers eSIM connectivity. Find your travel destination and get the best plans.",
+      "images": ["/og/countries-cover.jpg"]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Available eSIM Countries – Pirate Mobile",
+      "url": "https://www.piratemobile.gg/countries",
+      "description": "All countries where Pirate Mobile offers eSIM plans."
+    }
+  }
+  

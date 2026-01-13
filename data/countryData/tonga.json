@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Tonga",
+  "seo_meta_title": "Get Your Tonga eSIM Now – Starting at $29.99",
+  "meta_description": "Get instant connectivity in Tonga with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I purchase and activate Pirate Mobile’s Tonga eSIM?",
+      "answer": "You can purchase the Tonga eSIM directly from Pirate Mobile's website. Once you complete the purchase, Pirate Mobile will send you a QR code via email. To activate it, simply go to your phone’s settings, scan the QR code, and your eSIM will be ready for use."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s Tonga eSIM if I still have a physical SIM card installed?",
+      "answer": "Yes, Pirate Mobile’s Tonga eSIM works alongside your physical SIM card. This dual-SIM capability allows you to use your regular number while accessing data through the eSIM for local internet coverage in Tonga."
+    },
+    {
+      "question": "Is Pirate Mobile’s Tonga eSIM a good choice for tourists?",
+      "answer": "Absolutely! Pirate Mobile’s Tonga eSIM is perfect for tourists. It eliminates the hassle of finding a local SIM provider upon arrival, allowing you to stay connected as soon as you land in Tonga. With flexible data plans, it’s convenient for short-term or extended stays."
+    },
+    {
+      "question": "What should I do if my Pirate Mobile Tonga eSIM stops working during my trip?",
+      "answer": "If you encounter any issues with your Tonga eSIM from Pirate Mobile, reach out to our customer support team immediately. We’ll help you troubleshoot the problem, and if needed, we can provide a replacement QR code to get you back online as soon as possible."
+    },
+    {
+      "question": "Does Pirate Mobile’s Tonga eSIM provide good coverage across all of Tonga?",
+      "answer": "Pirate Mobile partners with local carriers in Tonga to ensure widespread network coverage. While major islands and cities have strong signals, some of the more remote islands may have limited connectivity. However, Pirate Mobile strives to offer the best possible service throughout Tonga."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tonga eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/tonga",
+      "priceCurrency": "USD",
+      "lowPrice": "29.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase and activate Pirate Mobile’s Tonga eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase the Tonga eSIM directly from Pirate Mobile's website. Once you complete the purchase, Pirate Mobile will send you a QR code via email. To activate it, simply go to your phone’s settings, scan the QR code, and your eSIM will be ready for use."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use Pirate Mobile’s Tonga eSIM if I still have a physical SIM card installed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s Tonga eSIM works alongside your physical SIM card. This dual-SIM capability allows you to use your regular number while accessing data through the eSIM for local internet coverage in Tonga."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is Pirate Mobile’s Tonga eSIM a good choice for tourists?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! Pirate Mobile’s Tonga eSIM is perfect for tourists. It eliminates the hassle of finding a local SIM provider upon arrival, allowing you to stay connected as soon as you land in Tonga. With flexible data plans, it’s convenient for short-term or extended stays."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if my Pirate Mobile Tonga eSIM stops working during my trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you encounter any issues with your Tonga eSIM from Pirate Mobile, reach out to our customer support team immediately. We’ll help you troubleshoot the problem, and if needed, we can provide a replacement QR code to get you back online as soon as possible."
+      }
+    },{
+      "@type": "Question",
+      "name": "Does Pirate Mobile’s Tonga eSIM provide good coverage across all of Tonga?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile partners with local carriers in Tonga to ensure widespread network coverage. While major islands and cities have strong signals, some of the more remote islands may have limited connectivity. However, Pirate Mobile strives to offer the best possible service throughout Tonga."
+      }
+    }]
+  }
+}

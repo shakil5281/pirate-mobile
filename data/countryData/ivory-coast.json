@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Ivory Coast",
+  "seo_meta_title": "Ivory Coast eSIM Deals – Starting at $19.99 | Best Prices",
+  "meta_description": "Get your Ivory Coast eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How do I activate an Ivory Coast eSIM from Pirate Mobile?",
+      "answer": "After purchasing the eSIM, you will receive a QR code. Scan the code in your phone’s settings under the cellular or mobile network options to activate it."
+    },
+    {
+      "question": "What should I do if I face issues with my Ivory Coast eSIM?",
+      "answer": "If you experience any issues, contact Pirate Mobile’s customer support for assistance. We provide 24/7 support to ensure a smooth experience."
+    },
+    {
+      "question": "Is there a refund policy for the Ivory Coast eSIM?",
+      "answer": "Refunds are typically not available once the eSIM is activated. However, please refer to Pirate Mobile's terms and conditions for specific details."
+    },
+    {
+      "question": "Is my phone compatible with the Ivory Coast eSIM?",
+      "answer": "Most newer smartphones support eSIM functionality. Check your device's settings or manufacturer’s specifications to see if your phone is eSIM-compatible."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Ivory Coast eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/ivory-coast",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I activate an Ivory Coast eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing the eSIM, you will receive a QR code. Scan the code in your phone’s settings under the cellular or mobile network options to activate it."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I face issues with my Ivory Coast eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you experience any issues, contact Pirate Mobile’s customer support for assistance. We provide 24/7 support to ensure a smooth experience."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is there a refund policy for the Ivory Coast eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Refunds are typically not available once the eSIM is activated. However, please refer to Pirate Mobile's terms and conditions for specific details."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my phone compatible with the Ivory Coast eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most newer smartphones support eSIM functionality. Check your device's settings or manufacturer’s specifications to see if your phone is eSIM-compatible."
+      }
+    }]
+  }
+}

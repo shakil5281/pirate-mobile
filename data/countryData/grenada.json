@@ -1,0 +1,70 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Grenada eSIM",
+  "seo_meta_title": "Grenada eSIM Deals – Starting at $14.99 | Pirate Mobile",
+  "meta_description": "Get your Grenada eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How can I purchase a Grenada eSIM from Pirate Mobile?",
+      "answer": "You can purchase your Grenada eSIM directly from our website. Simply select the Grenada eSIM plan, complete the payment, and receive your eSIM QR code via email for instant activation."
+    },
+    {
+      "question": "Will Pirate Mobile’s Grenada eSIM provide coverage across all areas of Grenada?",
+      "answer": "Yes, Pirate Mobile’s Grenada eSIM connects to the best available networks across the country, ensuring reliable coverage whether you’re in St. George's or more remote parts of the island."
+    },
+    {
+      "question": "How soon can I activate my Grenada eSIM after purchasing it?",
+      "answer": "Your Grenada eSIM can be activated immediately after purchase. Simply scan the QR code sent to your email, and your eSIM will be ready to use."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Grenada eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/grenada",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase a Grenada eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase your Grenada eSIM directly from our website. Simply select the Grenada eSIM plan, complete the payment, and receive your eSIM QR code via email for instant activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will Pirate Mobile’s Grenada eSIM provide coverage across all areas of Grenada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s Grenada eSIM connects to the best available networks across the country, ensuring reliable coverage whether you’re in St. George's or more remote parts of the island."
+      }
+    },{
+      "@type": "Question",
+      "name": "How soon can I activate my Grenada eSIM after purchasing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your Grenada eSIM can be activated immediately after purchase. Simply scan the QR code sent to your email, and your eSIM will be ready to use."
+      }
+    }]
+  }
+
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Philippines",
+  "seo_meta_title": "Buy Philippines eSIM Now – Starting at $9.99",
+  "meta_description": "Stay connected while traveling in Philippines with Pirate Mobile’s eSIM. Enjoy hassle-free activation, flexible data plans, and seamless connectivity.",
+  "faqs": [
+    {
+      "question": "What is a Philippines eSIM, and how does it benefit me?",
+      "answer": "A Philippines eSIM is a digital SIM card that allows you to access mobile services without the need for a physical SIM card. It offers the flexibility to switch between mobile networks, manage multiple phone numbers, and activate new plans instantly, perfect for travelers and locals alike."
+    },
+    {
+      "question": "How do I purchase a Philippines eSIM from Pirate Mobile?",
+      "answer": "You can purchase a Philippines eSIM directly from the Pirate Mobile website. Choose the Philippines as your destination, select the data plan that suits your needs, and after completing the purchase, you will receive a QR code via email to activate your eSIM."
+    },
+    {
+      "question": "Is the Philippines eSIM compatible with all smartphones?",
+      "answer": "The eSIM service is only compatible with eSIM-enabled devices. Most modern smartphones, including newer models of iPhones, Google Pixel, and Samsung Galaxy, support eSIMs. Please ensure your phone is eSIM-compatible before purchasing."
+    },
+    {
+      "question": "Can I make local calls and send texts with a Philippines eSIM?",
+      "answer": "Yes, with Pirate Mobile's Philippines eSIM, you can access data services and may have the option for voice calls and SMS, depending on the plan you choose. Make sure to review the plan details on the Pirate Mobile website to see what is included."
+    },
+    {
+      "question": "Can I use my Philippines eSIM outside of the Philippines?",
+      "answer": "The Philippines eSIM is designed for use within the Philippines. However, some data plans might offer international roaming options, allowing limited usage in neighboring countries. Check the plan's terms for any included roaming services."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Philippines eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/philippines",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is a Philippines eSIM, and how does it benefit me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Philippines eSIM is a digital SIM card that allows you to access mobile services without the need for a physical SIM card. It offers the flexibility to switch between mobile networks, manage multiple phone numbers, and activate new plans instantly, perfect for travelers and locals alike."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I purchase a Philippines eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase a Philippines eSIM directly from the Pirate Mobile website. Choose the Philippines as your destination, select the data plan that suits your needs, and after completing the purchase, you will receive a QR code via email to activate your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Philippines eSIM compatible with all smartphones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The eSIM service is only compatible with eSIM-enabled devices. Most modern smartphones, including newer models of iPhones, Google Pixel, and Samsung Galaxy, support eSIMs. Please ensure your phone is eSIM-compatible before purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I make local calls and send texts with a Philippines eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with Pirate Mobile's Philippines eSIM, you can access data services and may have the option for voice calls and SMS, depending on the plan you choose. Make sure to review the plan details on the Pirate Mobile website to see what is included."
+      }
+    }]
+  }
+}

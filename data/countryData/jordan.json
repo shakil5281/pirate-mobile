@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Jordan",
+  "seo_meta_title": "Get Jordan eSIM Now – From $9.99",
+  "meta_description": "Traveling to Jordan? Get Pirate Mobile’s eSIM for easy activation, affordable data plans, and the freedom to switch networks effortlessly.",
+  "faqs": [
+    {
+      "question": "What makes Pirate Mobile’s eSIM for Jordan different from local SIM cards?",
+      "answer": "Pirate Mobile’s eSIM for Jordan offers the flexibility of immediate activation without needing to visit a local store. Plus, you can set it up before arriving in Jordan, ensuring you’re connected the moment you land, without the hassle of searching for local SIM providers."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s eSIM in Jordan for data only, or are voice calls supported?",
+      "answer": "Pirate Mobile’s eSIM for Jordan is designed primarily for data, but if your device supports it, you may be able to configure voice services. Contact Pirate Mobile’s customer service to inquire about call capabilities with your specific plan."
+    },
+    {
+      "question": "How long does it take to activate Pirate Mobile’s eSIM in Jordan?",
+      "answer": "Activation with Pirate Mobile’s eSIM for Jordan is instant. Once you scan the QR code provided via email, your eSIM will be activated within minutes, allowing you to enjoy data services immediately."
+    },
+    {
+      "question": "What devices are compatible with Pirate Mobile’s Jordan eSIM?",
+      "answer": "Pirate Mobile’s Jordan eSIM is compatible with most modern smartphones and tablets that support eSIM technology. This includes devices like iPhones, Google Pixels, and newer Samsung models. You can check Pirate Mobile’s website for a full list of compatible devices."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s Jordan eSIM on multiple devices?",
+      "answer": "Pirate Mobile’s eSIM for Jordan is tied to a single device, and once it’s activated on that device, it cannot be transferred to another. Ensure you select the correct device when scanning the QR code to activate your eSIM."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jordan eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/jordan",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What makes Pirate Mobile’s eSIM for Jordan different from local SIM cards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIM for Jordan offers the flexibility of immediate activation without needing to visit a local store. Plus, you can set it up before arriving in Jordan, ensuring you’re connected the moment you land, without the hassle of searching for local SIM providers."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use Pirate Mobile’s eSIM in Jordan for data only, or are voice calls supported?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIM for Jordan is designed primarily for data, but if your device supports it, you may be able to configure voice services. Contact Pirate Mobile’s customer service to inquire about call capabilities with your specific plan."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long does it take to activate Pirate Mobile’s eSIM in Jordan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Activation with Pirate Mobile’s eSIM for Jordan is instant. Once you scan the QR code provided via email, your eSIM will be activated within minutes, allowing you to enjoy data services immediately."
+      }
+    },{
+      "@type": "Question",
+      "name": "What devices are compatible with Pirate Mobile’s Jordan eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Jordan eSIM is compatible with most modern smartphones and tablets that support eSIM technology. This includes devices like iPhones, Google Pixels, and newer Samsung models. You can check Pirate Mobile’s website for a full list of compatible devices."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use Pirate Mobile’s Jordan eSIM on multiple devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIM for Jordan is tied to a single device, and once it’s activated on that device, it cannot be transferred to another. Ensure you select the correct device when scanning the QR code to activate your eSIM."
+      }
+    }]
+  }
+}

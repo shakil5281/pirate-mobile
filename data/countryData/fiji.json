@@ -1,0 +1,74 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Fiji eSIM",
+  "seo_meta_title": "Fiji eSIM Deals – Starting at $33.99 | Pirate Mobile",
+  "meta_description": "Get your Fiji eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is a Fiji eSIM and how does it work?",
+      "answer": "A Fiji eSIM is a digital SIM card that allows you to connect to mobile networks in Fiji without needing a physical SIM. It activates instantly, providing you with reliable data and connectivity throughout your stay."
+    },
+    {
+      "question": "How do I purchase a Fiji eSIM from Pirate Mobile?",
+      "answer": "Simply visit our website, choose the Fiji eSIM plan that fits your needs, and complete your purchase. You’ll receive a QR code via email to scan and activate the eSIM on your device."
+    },
+    {
+      "question": "Is my device compatible with Pirate Mobile’s Fiji eSIM?",
+      "answer": "Most modern devices with eSIM capability are compatible. Verify your device’s compatibility by checking our list of supported devices or your device’s settings."
+    },
+    {
+      "question": "How do I activate the Fiji eSIM on my device?",
+      "answer": "After receiving your eSIM QR code, go to your device’s settings, scan the QR code, and follow the instructions to activate. It’s a quick and straightforward process."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fiji eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/fiji",
+      "priceCurrency": "USD",
+      "lowPrice": "33.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is a Fiji eSIM and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Fiji eSIM is a digital SIM card that allows you to connect to mobile networks in Fiji without needing a physical SIM. It activates instantly, providing you with reliable data and connectivity throughout your stay."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I purchase a Fiji eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simply visit our website, choose the Fiji eSIM plan that fits your needs, and complete your purchase. You’ll receive a QR code via email to scan and activate the eSIM on your device."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with Pirate Mobile’s Fiji eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern devices with eSIM capability are compatible. Verify your device’s compatibility by checking our list of supported devices or your device’s settings."
+      }
+    }]
+  }
+
+}

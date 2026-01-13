@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Guatemala eSIM",
+  "seo_meta_title": "Guatemala eSIM Deals – Starting at $14.99 | Pirate Mobile",
+  "meta_description": "Get your Guatemala eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How do I purchase a Guatemala eSIM from Pirate Mobile?",
+      "answer": "Simply visit our website, select the Guatemala eSIM plan that fits your travel needs, complete the purchase, and you’ll receive an eSIM QR code via email for instant activation."
+    },
+    {
+      "question": "Is the Pirate Mobile Guatemala eSIM compatible with my smartphone?",
+      "answer": "Most modern smartphones with eSIM capability support our Guatemala eSIM. Check your device settings or refer to our compatibility list on the Pirate Mobile website to confirm."
+    },
+    {
+      "question": "How quickly can I activate the Guatemala eSIM once I arrive?",
+      "answer": "You can activate the Guatemala eSIM instantly by scanning the QR code provided. There’s no need to wait for a physical SIM card or visit local stores."
+    },
+    {
+      "question": "Can I use my Guatemala eSIM for both data and voice calls?",
+      "answer": "The Guatemala eSIM primarily provides data services. If you need to make calls, you can use apps like WhatsApp or Skype, or check if your plan supports voice services."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guatemala eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/guatemala",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase a Guatemala eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simply visit our website, select the Guatemala eSIM plan that fits your travel needs, complete the purchase, and you’ll receive an eSIM QR code via email for instant activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Pirate Mobile Guatemala eSIM compatible with my smartphone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones with eSIM capability support our Guatemala eSIM. Check your device settings or refer to our compatibility list on the Pirate Mobile website to confirm."
+      }
+    },{
+      "@type": "Question",
+      "name": "How quickly can I activate the Guatemala eSIM once I arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can activate the Guatemala eSIM instantly by scanning the QR code provided. There’s no need to wait for a physical SIM card or visit local stores."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Guatemala eSIM for both data and voice calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Guatemala eSIM primarily provides data services. If you need to make calls, you can use apps like WhatsApp or Skype, or check if your plan supports voice services."
+      }
+    }]
+  }
+}

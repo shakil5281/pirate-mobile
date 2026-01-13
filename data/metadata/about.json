@@ -1,0 +1,25 @@
+{
+    "title": "About Us | Pirate Mobile: The Leaders in eSIM Technology",
+    "seo_meta_title": "About Us | Pirate Mobile: The Leaders in eSIM Technology",
+    "meta_description": "Get to know Pirate Mobile, the company at the forefront of eSIM innovation, committed to delivering cutting-edge mobile solutions for the modern world.",
+    "openGraph": {
+      "title": "About Us | Pirate Mobile: The Leaders in eSIM Technology",
+      "description": "Get to know Pirate Mobile, the company at the forefront of eSIM innovation, committed to delivering cutting-edge mobile solutions for the modern world.",
+      "images": ["/og/about-cover.jpg"],
+      "url": "https://www.piratemobile.gg/about"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "About Us | Pirate Mobile: The Leaders in eSIM Technology",
+      "description": "Get to know Pirate Mobile, the company at the forefront of eSIM innovation, committed to delivering cutting-edge mobile solutions for the modern world.",
+      "images": ["/og/about-cover.jpg"]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "About Pirate Mobile",
+      "url": "https://www.piratemobile.gg/about",
+      "description": "Get to know Pirate Mobile, the company at the forefront of eSIM innovation, committed to delivering cutting-edge mobile solutions for the modern world.."
+    }
+  }
+  

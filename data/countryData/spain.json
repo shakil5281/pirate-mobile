@@ -1,0 +1,122 @@
+{
+  "title": "Get Your Spain eSIM Today - From $3.99",
+  "seo_meta_title": "Spain eSIM for Travelers | Pirate Mobile",
+  "meta_description": "Get your Spain eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is a Spain eSIM, and how does it work?",
+      "answer": "A Spain eSIM is a digital SIM card that allows you to activate a mobile plan for Spain without needing a physical SIM card. Pirate Mobile provides easy setup and reliable service across Spain."
+    },
+    {
+      "question": "How can I purchase a Spain eSIM from Pirate Mobile?",
+      "answer": "Simply visit our website, select the Spain eSIM plan, complete the purchase, and you’ll receive a QR code via email to activate your eSIM instantly."
+    },
+    {
+      "question": "Is my device compatible with Pirate Mobile's Spain eSIM?",
+      "answer": "Pirate Mobile’s Spain eSIM works with most eSIM-enabled devices. Check your phone's settings or specifications to confirm eSIM compatibility."
+    },
+    {
+      "question": "Can I use Pirate Mobile's Spain eSIM with my current number?",
+      "answer": "Yes, you can retain your current number by forwarding calls from your main number to your Pirate Mobile Spain eSIM."
+    },
+    {
+      "question": "How long does the Spain eSIM last?",
+      "answer": "The duration of the Spain eSIM depends on the plan you select, with options ranging from a few days to several weeks."
+    },
+    {
+      "question": "Can I top up my Spain eSIM if I need more data?",
+      "answer": "Yes, topping up your Spain eSIM is easy. Just visit our website and select a new data package for Spain."
+    },
+    {
+      "question": "What should I do if I experience issues with my Spain eSIM?",
+      "answer": "If you encounter any problems, contact Pirate Mobile’s customer support via our website, and we’ll help resolve the issue quickly."
+    },
+    {
+      "question": "Is the Spain eSIM secure to use?",
+      "answer": "Yes, Pirate Mobile ensures that all our eSIMs are secure, providing safe and reliable connectivity in Spain."
+    },
+    {
+      "question": "How do I activate the Spain eSIM once purchased?",
+      "answer": "After purchasing, scan the QR code we send you via email, follow the instructions on your device, and your Spain eSIM will be activated."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Spain eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/spain",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+"faqSchema": {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is a Spain eSIM, and how does it work?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A Spain eSIM is a digital SIM card that allows you to activate a mobile plan for Spain without needing a physical SIM card. Pirate Mobile provides easy setup and reliable service across Spain."
+    }
+  },{
+    "@type": "Question",
+    "name": "How can I purchase a Spain eSIM from Pirate Mobile?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Simply visit our website, select the Spain eSIM plan, complete the purchase, and you’ll receive a QR code via email to activate your eSIM instantly."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is my device compatible with Pirate Mobile's Spain eSIM?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pirate Mobile’s Spain eSIM works with most eSIM-enabled devices. Check your phone's settings or specifications to confirm eSIM compatibility."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I use Pirate Mobile's Spain eSIM with my current number?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, you can retain your current number by forwarding calls from your main number to your Pirate Mobile Spain eSIM."
+    }
+  },{
+    "@type": "Question",
+    "name": "How long does the Spain eSIM last?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The duration of the Spain eSIM depends on the plan you select, with options ranging from a few days to several weeks."
+    }
+  },{
+    "@type": "Question",
+    "name": "Can I top up my Spain eSIM if I need more data?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, topping up your Spain eSIM is easy. Just visit our website and select a new data package for Spain."
+    }
+  },{
+    "@type": "Question",
+    "name": "What should I do if I experience issues with my Spain eSIM?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you encounter any problems, contact Pirate Mobile’s customer support via our website, and we’ll help resolve the issue quickly."
+    }
+  }]
+}
+
+}

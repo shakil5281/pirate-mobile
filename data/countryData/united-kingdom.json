@@ -1,0 +1,162 @@
+{
+  "title": "Prepaid eSIM for the United Kingdom",
+  "seo_meta_title": "Travel eSIM for United Kingdom - From $3.59 | Pirate Mobile",
+  "meta_description": "Get your UK eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How do I activate my eSIM for use in the United Kingdom?",
+      "answer": "To activate your UK eSIM, simply scan the QR code provided in your purchase confirmation email. After scanning, follow the prompts on your device to complete the setup. Once done, your eSIM will be ready for use in the UK."
+    },
+    {
+      "question": "When does my UK eSIM data plan become active?",
+      "answer": "Your UK eSIM data plan is activated the moment you install and activate the eSIM on your device. You can choose to activate it immediately or at a later time that suits your travel schedule."
+    },
+    {
+      "question": "Is it possible to cancel or get a refund after buying a UK eSIM?",
+      "answer": "Once your UK eSIM has been issued and activated, refunds are not possible. However, if you encounter any issues with your eSIM, please reach out to our support team for assistance."
+    },
+    {
+      "question": "How can I switch between different eSIMs on my device while in the UK?",
+      "answer": "To switch between eSIM profiles on your device, go to your device's mobile network settings. From there, you can select the desired eSIM profile and set it as active for data, calls, or messages."
+    },
+    {
+      "question": "What is the duration of my UK eSIM plan, and when will it expire?",
+      "answer": "The duration of your UK eSIM plan is based on the package you selected, usually ranging from 7 to 30 days. The eSIM will automatically expire at the end of the chosen period, starting from the date of activation."
+    },
+    {
+      "question": "How can I top up my data or extend the validity of my UK eSIM?",
+      "answer": "To add more data or extend the validity of your UK eSIM, log in to your account on our website and choose the 'Top Up' or 'Extend Plan' option. Follow the instructions to purchase additional data or extend your plan's validity."
+    },
+    {
+      "question": "Are there any usage limits on the unlimited UK eSIM data plans?",
+      "answer": "Our unlimited UK eSIM data plans come with a fair usage policy to maintain network performance for all users. While you can enjoy unlimited data, excessive usage may result in reduced speeds or temporary service limitations. Please use your data responsibly."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "UK eSIM",
+    "image": "https://www.piratemobile.gg/_next/image?url=%2Fimages%2Ffooter%2Fmain_logo.png&w=256&q=75",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/united-kingdom",
+      "priceCurrency": "USD",
+      "lowPrice": "$3.49"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "localBusinessSchema": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Buy eSIM United Kingdom Now - From $3.59",
+    "image": "https://www.piratemobile.gg/_next/image?url=%2Fimages%2Ffooter%2Fmain_logo.png&w=256&q=75",
+    "@id": "",
+    "url": "https://www.piratemobile.gg/esim/united-kingdom",
+    "telephone": "+34655877579",
+    "priceRange": "3.59",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "",
+      "addressLocality": "",
+      "postalCode": "",
+      "addressCountry": "GB"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    }
+  },
+  "serviceSchema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Travel eSIM for United Kingdom | Prepaid eSIM for United Kingdom",
+    "description": "Purchase a prepaid eSIM for the United Kingdom from Pirate Mobile and stay connected effortlessly. Enjoy affordable mobile data without swapping physical SIM cards—perfect for tourists and business travelers.",
+    "url": "https://www.piratemobile.gg/esim/united-kingdom",
+    "serviceType": "Mobile Data Service",
+    "areaServed": {
+      "@type": "Country",
+      "name": "United Kingdom"
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "Pirate Mobile",
+      "url": "https://www.piratemobile.gg"
+    },
+    "keywords": "uk esim prepaid, payg esim uk, buy esim, cheap uk esim, esim buy uk, cheap esim united kingdom, united kingdom esim, travel esim uk, prepaid esim uk, esim card uk, e sim uk, buy esim online uk, best esim for uk, prepaid data sim uk, esim data plan uk, digital sim uk, esim united kingdom, uk travel sim, e-sim for uk travel, mobile data uk esim, esim for tourists uk"
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "1. How do I activate my eSIM for use in the United Kingdom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To activate your UK eSIM, simply scan the QR code provided in your purchase confirmation email. After scanning, follow the prompts on your device to complete the setup. Once done, your eSIM will be ready for use in the UK."
+      }
+    },{
+      "@type": "Question",
+      "name": "2. When does my UK eSIM data plan become active?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your UK eSIM data plan is activated the moment you install and activate the eSIM on your device. You can choose to activate it immediately or at a later time that suits your travel schedule."
+      }
+    },{
+      "@type": "Question",
+      "name": "3. Is it possible to cancel or get a refund after buying a UK eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once your UK eSIM has been issued and activated, refunds are not possible. However, if you encounter any issues with your eSIM, please reach out to our support team for assistance."
+      }
+    },{
+      "@type": "Question",
+      "name": "4. How can I switch between different eSIMs on my device while in the UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To switch between eSIM profiles on your device, go to your device's mobile network settings. From there, you can select the desired eSIM profile and set it as active for data, calls, or messages."
+      }
+    },{
+      "@type": "Question",
+      "name": "5. What is the duration of my UK eSIM plan, and when will it expire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of your UK eSIM plan is based on the package you selected, usually ranging from 7 to 30 days. The eSIM will automatically expire at the end of the chosen period, starting from the date of activation."
+      }
+    }]
+  },
+  "networks": [
+    {
+      "brandName": "Three UK",
+      "logo": "brandLogo/UK/three.svg"
+    },
+    {
+      "brandName": "O2 UK",
+      "logo": "brandLogo/UK/02.svg"
+    },
+    {
+      "brandName": "Vodafone UK",
+      "logo": "brandLogo/UK/vodafone.svg"
+    }
+  ]
+}

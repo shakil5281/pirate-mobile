@@ -1,0 +1,30 @@
+{
+  "title": "Download Pirate Mobile App – Global eSIM Solutions",
+  "seo_meta_title": "Download Pirate Mobile App | eSIM for Travel & Business",
+  "meta_description": "Download the Pirate Mobile app for instant eSIM activation, global connectivity, and seamless travel experiences. Available on iOS and Android.",
+  "openGraph": {
+    "title": "Download Pirate Mobile App | eSIM for Travel & Business",
+    "description": "Download the Pirate Mobile app for instant eSIM activation, global connectivity, and seamless travel experiences. Available on iOS and Android.",
+    "images": ["/og/download-app-cover.jpg"],
+    "url": "https://www.piratemobile.gg/download-app"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Download Pirate Mobile App | eSIM for Travel & Business",
+    "description": "Download the Pirate Mobile app for instant eSIM activation, global connectivity, and seamless travel experiences. Available on iOS and Android.",
+    "images": ["/og/download-app-cover.jpg"]
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "Pirate Mobile",
+    "description": "Global eSIM connectivity app for travelers and business users",
+    "operatingSystem": ["iOS", "Android"],
+    "applicationCategory": "TravelApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  }
+}

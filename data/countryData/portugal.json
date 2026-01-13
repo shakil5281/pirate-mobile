@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Portugal",
+  "seo_meta_title": "Buy Portugal eSIM Now – Starting at $4.99",
+  "meta_description": "Stay connected while traveling in Portugal with Pirate Mobile’s eSIM. Enjoy hassle-free activation, flexible data plans, and seamless connectivity.",
+  "faqs": [
+    {
+      "question": "How do I get a Portugal eSIM from Pirate Mobile?",
+      "answer": "You can easily purchase a Portugal eSIM from Pirate Mobile's website. Simply choose the Portugal eSIM option, select a data plan, and complete the purchase. After payment, you’ll receive a QR code via email that you can scan to activate the eSIM on your device."
+    },
+    {
+      "question": "Can I use the Portugal eSIM for voice calls and SMS?",
+      "answer": "The Portugal eSIM from Pirate Mobile is primarily designed for data usage. However, you may be able to use apps like WhatsApp, Skype, or Viber for voice calls and messaging. If your plan includes these features, they will be specified when you purchase the eSIM."
+    },
+    {
+      "question": "Is my device compatible with a Portugal eSIM?",
+      "answer": "Most modern smartphones, including the latest iPhone, Samsung Galaxy, and Google Pixel models, support eSIM. Check your device’s settings under 'Mobile Data' or 'Cellular' to see if it has eSIM capability. Pirate Mobile’s Portugal eSIM works with any eSIM-compatible device."
+    },
+    {
+      "question": "How do I activate my Portugal eSIM after purchasing it?",
+      "answer": "After purchasing your Portugal eSIM, you will receive a QR code via email. On your eSIM-compatible device, go to your mobile settings, choose 'Add Mobile Plan,' and scan the QR code. Your eSIM will be activated and ready for use within minutes."
+    },
+    {
+      "question": "What should I do if I run out of data on my Portugal eSIM?",
+      "answer": "If you run out of data on your Portugal eSIM, you can easily top up through your Pirate Mobile account. Log in, navigate to your eSIM plan, and select a data top-up option that suits your needs to maintain continuous internet access."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Portugal eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/portugal",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I get a Portugal eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily purchase a Portugal eSIM from Pirate Mobile's website. Simply choose the Portugal eSIM option, select a data plan, and complete the purchase. After payment, you’ll receive a QR code via email that you can scan to activate the eSIM on your device."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Portugal eSIM for voice calls and SMS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Portugal eSIM from Pirate Mobile is primarily designed for data usage. However, you may be able to use apps like WhatsApp, Skype, or Viber for voice calls and messaging. If your plan includes these features, they will be specified when you purchase the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with a Portugal eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones, including the latest iPhone, Samsung Galaxy, and Google Pixel models, support eSIM. Check your device’s settings under “Mobile Data” or “Cellular” to see if it has eSIM capability. Pirate Mobile’s Portugal eSIM works with any eSIM-compatible device."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Portugal eSIM after purchasing it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing your Portugal eSIM, you will receive a QR code via email. On your eSIM-compatible device, go to your mobile settings, choose “Add Mobile Plan,” and scan the QR code. Your eSIM will be activated and ready for use within minutes."
+      }
+    }]
+  }
+}

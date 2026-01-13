@@ -1,0 +1,73 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Guadeloupe eSIM",
+  "seo_meta_title": "Guadeloupe eSIM Deals – Starting at $8.99 | Pirate Mobile",
+  "meta_description": "Get your Guadeloupe eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How does Pirate Mobile’s Guadeloupe eSIM work?",
+      "answer": "Pirate Mobile’s Guadeloupe eSIM allows you to activate a mobile data plan digitally without needing a physical SIM card. Simply scan the provided QR code, and you’re connected."
+    },
+    {
+      "question": "Is the Guadeloupe eSIM activated before I arrive?",
+      "answer": "Yes, you can activate the eSIM before arriving in Guadeloupe, so you have instant connectivity as soon as you land. You just need an internet connection to complete the setup."
+    },
+    {
+      "question": "Can I top up my data on Pirate Mobile’s Guadeloupe eSIM?",
+      "answer": "Yes, you can easily top up your data through Pirate Mobile’s website if you run out during your stay in Guadeloupe."
+    },
+    {
+      "question": "How long does the Guadeloupe eSIM remain active?",
+      "answer": "The duration depends on the plan you select. We offer flexible options, from short-term travel plans to longer data packages that last several weeks."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guadeloupe eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/guadeloupe",
+      "priceCurrency": "USD",
+      "lowPrice": "8.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How does Pirate Mobile’s Guadeloupe eSIM work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Guadeloupe eSIM allows you to activate a mobile data plan digitally without needing a physical SIM card. Simply scan the provided QR code, and you’re connected."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Guadeloupe eSIM activated before I arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can activate the eSIM before arriving in Guadeloupe, so you have instant connectivity as soon as you land. You just need an internet connection to complete the setup."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I top up my data on Pirate Mobile’s Guadeloupe eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can easily top up your data through Pirate Mobile’s website if you run out during your stay in Guadeloupe."
+      }
+    }]
+  }
+}

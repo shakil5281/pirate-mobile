@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Gibraltar eSIM",
+  "seo_meta_title": "Gibraltar eSIM Deals – Starting at $9.99 | Pirate Mobile",
+  "meta_description": "Get your Gibraltar eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is an eSIM, and why should I use one for Gibraltar?",
+      "answer": "An eSIM is a digital SIM that allows you to connect to mobile networks without a physical SIM card. Using Pirate Mobile’s eSIM for Gibraltar ensures seamless connectivity, instant activation, and no need to handle physical SIMs."
+    },
+    {
+      "question": "How can I purchase a Gibraltar eSIM from Pirate Mobile?",
+      "answer": "Simply visit our website, select the Gibraltar eSIM plan that suits you, and complete the purchase process. You will receive a QR code via email for easy activation."
+    },
+    {
+      "question": "Will the Gibraltar eSIM work with my device?",
+      "answer": "The Gibraltar eSIM is compatible with most modern devices that support eSIM technology. Verify your device’s compatibility on our website or contact our support team if you’re unsure."
+    },
+    {
+      "question": "How do I activate my Gibraltar eSIM?",
+      "answer": "After receiving the QR code, go to your device’s settings, scan the QR code, and follow the activation instructions. It’s a straightforward process that ensures you’re connected quickly."
+    },
+    {
+      "question": "Can I use the Gibraltar eSIM for calls and texts, or just data?",
+      "answer": "The Gibraltar eSIM primarily offers data services. For voice calls and text messages, consider using VoIP applications or check if your plan includes these features."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Gibraltar eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/gibraltar",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is an eSIM, and why should I use one for Gibraltar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM that allows you to connect to mobile networks without a physical SIM card. Using Pirate Mobile’s eSIM for Gibraltar ensures seamless connectivity, instant activation, and no need to handle physical SIMs."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I purchase a Gibraltar eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simply visit our website, select the Gibraltar eSIM plan that suits you, and complete the purchase process. You will receive a QR code via email for easy activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will the Gibraltar eSIM work with my device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Gibraltar eSIM is compatible with most modern devices that support eSIM technology. Verify your device’s compatibility on our website or contact our support team if you’re unsure."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Gibraltar eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After receiving the QR code, go to your device’s settings, scan the QR code, and follow the activation instructions. It’s a straightforward process that ensures you’re connected quickly."
+      }
+    }]
+  }
+}

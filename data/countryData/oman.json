@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Oman",
+  "seo_meta_title": "Buy Oman eSIM Now – Starting at $ 9.99",
+  "meta_description": "Traveling to Oman? Get Pirate Mobile’s eSIM for easy activation, affordable data plans, and the freedom to switch networks effortlessly.",
+  "faqs": [
+    {
+      "question": "How can I activate my eSIM for use in Oman?",
+      "answer": "To activate your eSIM for Oman, first purchase it from Pirate Mobile. After your purchase, you will receive a QR code via email. Simply go to your device's settings, select 'Mobile Data' or 'Cellular,' and tap 'Add Mobile Plan.' Scan the QR code, follow the on-screen instructions, and your eSIM will be activated within minutes. This straightforward process allows you to start using data and making calls almost immediately after arrival."
+    },
+    {
+      "question": "Is it possible to keep my existing phone number while using the Oman eSIM?",
+      "answer": "Yes, you can keep your existing phone number while using the Oman eSIM. Your device can support dual SIM functionality, meaning you can have both your traditional SIM and the eSIM active at the same time. This feature is particularly beneficial for travelers who want to maintain contact with friends and family back home while enjoying local rates for data and calls in Oman."
+    },
+    {
+      "question": "What data plans are available for the Oman eSIM?",
+      "answer": "Pirate Mobile offers a variety of data plans for the Oman eSIM, including options tailored for short visits and longer stays. You can select from daily, weekly, or monthly plans, each with different data limits. This ensures you can choose a plan that best fits your travel needs, whether you're a light user or require substantial data for navigation and streaming."
+    },
+    {
+      "question": "Can I use my Oman eSIM in neighboring countries?",
+      "answer": "Some of our eSIM plans may include roaming features that allow you to use data in neighboring countries. However, the specifics can vary by plan. It’s advisable to review your chosen plan's details before traveling outside Oman to ensure you have the coverage you need. This way, you can avoid unexpected roaming charges and enjoy seamless connectivity during your travels."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Oman eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/oman",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I activate my eSIM for use in Oman?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To activate your eSIM for Oman, first purchase it from Pirate Mobile. After your purchase, you will receive a QR code via email. Simply go to your device's settings, select “Mobile Data” or “Cellular,” and tap “Add Mobile Plan.” Scan the QR code, follow the on-screen instructions, and your eSIM will be activated within minutes. This straightforward process allows you to start using data and making calls almost immediately after arrival."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is it possible to keep my existing phone number while using the Oman eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can keep your existing phone number while using the Oman eSIM. Your device can support dual SIM functionality, meaning you can have both your traditional SIM and the eSIM active at the same time. This feature is particularly beneficial for travelers who want to maintain contact with friends and family back home while enjoying local rates for data and calls in Oman."
+      }
+    },{
+      "@type": "Question",
+      "name": "What data plans are available for the Oman eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers a variety of data plans for the Oman eSIM, including options tailored for short visits and longer stays. You can select from daily, weekly, or monthly plans, each with different data limits. This ensures you can choose a plan that best fits your travel needs, whether you're a light user or require substantial data for navigation and streaming."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Oman eSIM in neighboring countries?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Some of our eSIM plans may include roaming features that allow you to use data in neighboring countries. However, the specifics can vary by plan. It’s advisable to review your chosen plan's details before traveling outside Oman to ensure you have the coverage you need. This way, you can avoid unexpected roaming charges and enjoy seamless connectivity during your travels."
+      }
+    }]
+  }
+}

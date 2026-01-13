@@ -1,0 +1,81 @@
+{
+  "title": "Connect Seamlessly Across the Globe with eSIM Cambodia",
+  "seo_meta_title": "eSIM Cambodia Deals – Starting at $27.99 | Pirate Mobile",
+  "meta_description": "Traveling to Cambodia? Stay connected with Pirate Mobile’s eSIMs – fast activation, affordable rates, and nationwide coverage.",
+  "faqs": [
+    {
+      "question": "Will my Cambodia eSIM allow access to local streaming platforms and websites?",
+      "answer": "Yes, Pirate Mobile’s eSIM gives you full access to local Cambodian websites, streaming services, and apps, just as if you were using a local SIM card."
+    },
+    {
+      "question": "Can I schedule the activation of my Cambodia eSIM for a future date?",
+      "answer": "While immediate activation is the default, you can choose to activate your eSIM at a later time by scanning the QR code when you’re ready to start using the service."
+    },
+    {
+      "question": "Can I keep my home country’s number while using Pirate Mobile’s Cambodia eSIM?",
+      "answer": "Yes, Pirate Mobile’s eSIM works independently of your home SIM, allowing you to retain your original number for calls and texts while using our eSIM for data."
+    },
+    {
+      "question": "Is there an option to renew or extend my Cambodia eSIM plan if I run out of data?",
+      "answer": "Yes, you can easily top up or extend your Cambodia eSIM plan through the Pirate Mobile website, ensuring continuous data access during your stay."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Cambodia",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/cambodia",
+      "priceCurrency": "USD",
+      "lowPrice": "27.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Will my Cambodia eSIM allow access to local streaming platforms and websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s eSIM gives you full access to local Cambodian websites, streaming services, and apps, just as if you were using a local SIM card."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I schedule the activation of my Cambodia eSIM for a future date?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While immediate activation is the default, you can choose to activate your eSIM at a later time by scanning the QR code when you’re ready to start using the service."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my home country’s number while using Pirate Mobile’s Cambodia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s eSIM works independently of your home SIM, allowing you to retain your original number for calls and texts while using our eSIM for data."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is there an option to renew or extend my Cambodia eSIM plan if I run out of data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can easily top up or extend your Cambodia eSIM plan through the Pirate Mobile website, ensuring continuous data access during your stay."
+      }
+    }]
+  }
+
+}

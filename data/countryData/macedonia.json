@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Macedonia",
+  "seo_meta_title": "Buy Macedonia eSIM – Starting at $9.99 | Pirate Mobile",
+  "meta_description": "Looking for a hassle-free way to stay connected in Macedonia? Pirate Mobile’s eSIM offers flexible data plans and instant activation. No physical SIM needed!",
+  "faqs": [
+    {
+      "question": "How can I purchase a Macedonia eSIM from Pirate Mobile?",
+      "answer": "You can easily purchase a Macedonia eSIM by visiting Pirate Mobile's website, selecting your preferred data plan, and receiving a QR code to activate the eSIM."
+    },
+    {
+      "question": "Can I use the Macedonia eSIM for short-term travel or longer stays?",
+      "answer": "Yes, Pirate Mobile offers flexible eSIM data plans suitable for both short-term travelers and longer stays in Macedonia."
+    },
+    {
+      "question": "Is the Macedonia eSIM compatible with my phone?",
+      "answer": "Macedonia eSIMs are compatible with most eSIM-enabled devices, including the latest iPhone, Samsung, Google Pixel, and other popular models. Please check your device settings to confirm compatibility."
+    },
+    {
+      "question": "How do I activate my Macedonia eSIM once I receive it?",
+      "answer": "After purchasing, you will receive a QR code via email. Simply scan the code in your phone’s cellular settings to activate the eSIM and enjoy instant connectivity."
+    },
+    {
+      "question": "Can I keep my current phone number while using the Macedonia eSIM?",
+      "answer": "Yes, your Macedonia eSIM will work alongside your existing number, allowing you to stay connected without needing to swap physical SIM cards."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Macedonia eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/macedonia",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase a Macedonia eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily purchase a Macedonia eSIM by visiting Pirate Mobile's website, selecting your preferred data plan, and receiving a QR code to activate the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Macedonia eSIM for short-term travel or longer stays?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile offers flexible eSIM data plans suitable for both short-term travelers and longer stays in Macedonia."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Macedonia eSIM compatible with my phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Macedonia eSIMs are compatible with most eSIM-enabled devices, including the latest iPhone, Samsung, Google Pixel, and other popular models. Please check your device settings to confirm compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Macedonia eSIM once I receive it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, you will receive a QR code via email. Simply scan the code in your phone’s cellular settings to activate the eSIM and enjoy instant connectivity."
+      }
+    }]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "devices": [
+    {
+      "brand": "Apple",
+      "models": [
+        {
+          "name": "iPhone 15 Pro Max",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 15 Pro",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 15",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 15 Plus",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 14 Pro Max",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 14 Pro",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 14",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 14 Plus",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 13 Pro Max",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 13 Pro",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 13",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 13 mini",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 12 Pro Max",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 12 Pro",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 12",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 12 mini",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 11 Pro Max",
+          "year": "2019",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 11 Pro",
+          "year": "2019",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone 11",
+          "year": "2019",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "iPhone XS Max",
+          "year": "2018",
+          "esimSupport": true,
+          "dualSim": false
+        },
+        {
+          "name": "iPhone XS",
+          "year": "2018",
+          "esimSupport": true,
+          "dualSim": false
+        },
+        {
+          "name": "iPhone XR",
+          "year": "2018",
+          "esimSupport": true,
+          "dualSim": false
+        }
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "models": [
+        {
+          "name": "Galaxy S24 Ultra",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S24+",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S24",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S23 Ultra",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S23+",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S23",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S22 Ultra",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S22+",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S22",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S21 Ultra",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S21+",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S21",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S20 Ultra",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S20+",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy S20",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy Note 20 Ultra",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy Note 20",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy Z Fold 5",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy Z Flip 5",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Galaxy A54 5G",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        }
+      ]
+    },
+    {
+      "brand": "Google Pixel",
+      "models": [
+        {
+          "name": "Pixel 8 Pro",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 8",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 7 Pro",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 7",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 6 Pro",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 6",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 5",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 4a 5G",
+          "year": "2020",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 4",
+          "year": "2019",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Pixel 3a",
+          "year": "2019",
+          "esimSupport": true,
+          "dualSim": true
+        }
+      ]
+    },
+    {
+      "brand": "Honor",
+      "models": [
+        {
+          "name": "Honor Magic 6 Pro",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Honor Magic 6",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Honor Magic 5 Pro",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Honor Magic 5",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Honor 90",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Honor 80 Pro",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Honor 80",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        }
+      ]
+    },
+    {
+      "brand": "Huawei",
+      "models": [
+        {
+          "name": "Huawei P60 Pro",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei P60",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei Mate 60 Pro",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei Mate 60",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei P50 Pro",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei P50",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei Mate 50 Pro",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Huawei Mate 50",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        }
+      ]
+    },
+    {
+      "brand": "OnePlus",
+      "models": [
+        {
+          "name": "OnePlus 12",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "OnePlus 11",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "OnePlus 10 Pro",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "OnePlus 10",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "OnePlus 9 Pro",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "OnePlus 9",
+          "year": "2021",
+          "esimSupport": true,
+          "dualSim": true
+        }
+      ]
+    },
+    {
+      "brand": "Xiaomi",
+      "models": [
+        {
+          "name": "Xiaomi 14 Ultra",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 14 Pro",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 14",
+          "year": "2024",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 13 Ultra",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 13 Pro",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 13",
+          "year": "2023",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 12 Ultra",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 12 Pro",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        },
+        {
+          "name": "Xiaomi 12",
+          "year": "2022",
+          "esimSupport": true,
+          "dualSim": true
+        }
+      ]
+    }
+  ]
+}

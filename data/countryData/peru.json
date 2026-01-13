@@ -1,0 +1,88 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Peru",
+  "seo_meta_title": "Buy Peru eSIM Now – Starting at $9.99",
+  "meta_description": "Traveling to Peru? Get Pirate Mobile’s eSIM for easy activation, affordable data plans, and the freedom to switch networks effortlessly.",
+  "faqs": [
+    {
+      "question": "Can I purchase a Peru eSIM before arriving in the country?",
+      "answer": "Yes, you can purchase a Peru eSIM from Pirate Mobile before your trip. After purchasing, you'll receive a QR code via email, which can be activated anytime, even before you arrive in Peru, ensuring seamless connectivity the moment you land."
+    },
+    {
+      "question": "How do I activate the Peru eSIM on my device?",
+      "answer": "After purchasing, you’ll receive a QR code in your email. To activate, go to the mobile settings on your eSIM-compatible device, select 'Add Cellular Plan,' and scan the QR code. Once added, your Peru eSIM will be ready to use upon arrival."
+    },
+    {
+      "question": "What devices support Pirate Mobile’s Peru eSIM?",
+      "answer": "Pirate Mobile’s Peru eSIM works with most modern smartphones, tablets, and devices that have eSIM compatibility. This includes most iPhones (iPhone XS and newer), Google Pixel models, and select Samsung Galaxy phones. Check your device settings to ensure eSIM support before purchasing."
+    },
+    {
+      "question": "Can I use the Peru eSIM for voice calls and texts, or is it data-only?",
+      "answer": "Pirate Mobile offers both data-only and full-service plans that include voice and text options. Depending on the plan you choose, you can have access to data services, local phone numbers, and international calling, ensuring you stay fully connected while in Peru."
+    },
+    {
+      "question": "Is it possible to use the Peru eSIM alongside my home SIM card?",
+      "answer": "Yes, you can use the Peru eSIM alongside your existing home SIM. eSIM-compatible devices allow you to manage multiple SIM profiles at once, so you can maintain your home number while using the Peru eSIM for local data and calls. You can switch between plans or set one as the default."
+    },
+    {
+      "question": "How much data can I get with a Peru eSIM, and what are the plan options?",
+      "answer": "Pirate Mobile offers several data plans for the Peru eSIM, ranging from short-term daily plans to more extensive monthly plans with higher data limits. You can choose a plan based on your needs and usage. If you run out of data, you can easily top up through our website."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Peru eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/peru",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I purchase a Peru eSIM before arriving in the country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can purchase a Peru eSIM from Pirate Mobile before your trip. After purchasing, you'll receive a QR code via email, which can be activated anytime, even before you arrive in Peru, ensuring seamless connectivity the moment you land."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate the Peru eSIM on my device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, you’ll receive a QR code in your email. To activate, go to the mobile settings on your eSIM-compatible device, select \"Add Cellular Plan,\" and scan the QR code. Once added, your Peru eSIM will be ready to use upon arrival."
+      }
+    },{
+      "@type": "Question",
+      "name": "What devices support Pirate Mobile’s Peru eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Peru eSIM works with most modern smartphones, tablets, and devices that have eSIM compatibility. This includes most iPhones (iPhone XS and newer), Google Pixel models, and select Samsung Galaxy phones. Check your device settings to ensure eSIM support before purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Peru eSIM for voice calls and texts, or is it data-only?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers both data-only and full-service plans that include voice and text options. Depending on the plan you choose, you can have access to data services, local phone numbers, and international calling, ensuring you stay fully connected while in Peru."
+      }
+    }]
+  }
+}

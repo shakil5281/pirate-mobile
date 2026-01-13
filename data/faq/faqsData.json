@@ -1,0 +1,176 @@
+[
+  {
+    "title": "General eSIM Questions",
+    "description": "Here are some common questions our customers frequently ask about eSIMs.",
+    "faqs": [
+      {
+        "question": "What is an eSIM?",
+        "answer": "An eSIM (embedded SIM) is a digital SIM that lets you connect to a mobile network without using a physical SIM card. You simply scan a QR code or download the eSIM profile onto your device, and you’re ready to go."
+      },
+      {
+        "question": "How does an eSIM work?",
+        "answer": "An eSIM works just like a regular SIM card, but it’s built into your phone. After you activate it, your device connects to a mobile network so you can use data, make calls (if supported), or send texts (if supported)."
+      },
+      {
+        "question": "Is my phone compatible with eSIM?",
+        "answer": "Most newer smartphones (like iPhones from XS and up, and many Samsung Galaxy, Google Pixel, and other models) support eSIM. Check your device’s settings or the manufacturer’s website to confirm."
+      },
+      {
+        "question": "Can I have an eSIM and a physical SIM at the same time?",
+        "answer": "Yes! Many phones allow dual SIM use. That means you can have a physical SIM and an eSIM active at the same time — perfect for travelers who want to keep their home number while using a local data plan."
+      },
+      {
+        "question": "How do I activate an eSIM?",
+        "answer": "After you buy your eSIM, you’ll get a QR code by email. Open your phone’s settings, go to the SIM or mobile data section, and scan the QR code to install the eSIM profile."
+      },
+      {
+        "question": "Can I switch an eSIM to a different phone?",
+        "answer": "Once an eSIM is installed on a device, it usually can’t be moved. You would need to get a new eSIM profile if you want to switch to another phone."
+      },
+      {
+        "question": "Is eSIM safe to use?",
+        "answer": "Yes. eSIM technology is secure. It uses encrypted profiles and connects to local networks directly, so you don’t have to worry about hidden roaming charges or data leaks."
+      },
+      {
+        "question": "What happens if I delete my eSIM?",
+        "answer": "If you delete the eSIM profile from your phone, you’ll need to contact your eSIM provider for help. In most cases, you would need to buy a new eSIM if the profile is removed."
+      },
+      {
+        "question": "Can I use an eSIM for calls and texts?",
+        "answer": "Many eSIMs are data-only (great for using maps, apps, and the internet). If you need calls and texts, you can use apps like WhatsApp, Skype, or FaceTime. Some eSIMs do support voice and SMS, but it depends on the provider."
+      },
+      {
+        "question": "Is eSIM installation immediate?",
+        "answer": "Yes. After purchase, you receive a QR code. Scan it in your phone’s settings (e.g., Settings → Cellular → Add eSIM), and it activates right away. If you’re already in the destination country, it connects instantly."
+      },
+      {
+        "question": "Can I use multiple eSIM plans at once?",
+        "answer": "It depends on your device. Some phones allow two active eSIMs; most allow multiple stored profiles with one active at a time."
+      },
+      {
+        "question": "Can I make calls and send texts with an eSIM?",
+        "answer": "Most eSIMs are data-only. Use apps like WhatsApp, Skype, or FaceTime for calls and messaging. Some eSIM providers do offer voice/SMS-compatible plans, so check before purchasing."
+      }
+    ]
+  },
+  {
+    "title": "FAQs About USA eSIM",
+    "description": "These are some of the frequently asked questions about using eSIMs in the USA.",
+    "faqs": [
+      {
+        "question": "Do I need to buy a USA eSIM before traveling to the U.S.?",
+        "answer": "It’s best to buy and install your eSIM a day before departure. This way, it starts working as soon as you land, so you can use maps, book rides, and browse the web without waiting in airport lines."
+      },
+      {
+        "question": "Which devices are compatible with a USA eSIM?",
+        "answer": "Most smartphones made from 2019 onward support eSIM, including newer iPhones, Samsung Galaxy, and Google Pixel models. You can check compatibility by looking for a 'DIGITAL SIM' or 'eSIM IMEI' in your device settings."
+      },
+      {
+        "question": "Can I use both a physical SIM and a USA eSIM simultaneously?",
+        "answer": "Yes! Many phones support dual SIMs. You can keep your home number on the physical SIM while using the eSIM for U.S. mobile data."
+      },
+      {
+        "question": "Does the USA eSIM support phone calls and texts?",
+        "answer": "Most USA eSIM plans are data-only. You won’t get a U.S. phone number, but you can use messaging apps like WhatsApp, FaceTime, or Skype to make calls and send messages using your data."
+      },
+      {
+        "question": "Will I face roaming charges with a USA eSIM?",
+        "answer": "No roaming charges. A USA eSIM connects you directly to local U.S. networks as if you're permanently on one, so there’s no roaming, even though you’re a visitor."
+      },
+      {
+        "question": "Can I top up my USA eSIM once I'm in the U.S.?",
+        "answer": "Most plans are prepaid and can't be reloaded. However, some providers do offer top-ups or additional packages if you need more data during your stay—check before you buy."
+      },
+      {
+        "question": "What should I do if my USA eSIM doesn't activate?",
+        "answer": "Make sure your device is unlocked and that Mobile Data and Data Roaming are enabled in settings. If it still doesn’t work, restart your phone or download the APN settings manually. For further help, contact your eSIM provider’s support team."
+      },
+      {
+        "question": "When does my USA eSIM plan start working?",
+        "answer": "Generally, eSIM plans start as soon as you activate them. However, check your provider’s policy; some start work upon installation, while others begin when you first connect to the local network."
+      },
+      {
+        "question": "Are USA eSIMs secure?",
+        "answer": "Yes. eSIMs are encrypted and embedded in your device, making them harder to tamper with than physical SIM cards. They also help you avoid sharing personal data at local kiosks or stores."
+      }
+    ]
+  },
+  {
+    "title": "Travel & Roaming",
+    "description": "Common questions about using eSIMs while traveling internationally.",
+    "faqs": [
+      {
+        "question": "Can I use my eSIM in multiple countries?",
+        "answer": "It depends on your eSIM plan. Some plans are country-specific, while others offer multi-country coverage. Check the plan details before purchasing to ensure it covers your travel destinations."
+      },
+      {
+        "question": "Do I need to activate my eSIM before traveling?",
+        "answer": "Yes, it's recommended to activate your eSIM before you travel. This ensures it's ready to work as soon as you arrive at your destination, avoiding any connectivity issues."
+      },
+      {
+        "question": "Will I face roaming charges with an eSIM?",
+        "answer": "No, eSIMs connect you directly to local networks, eliminating roaming charges. You pay a fixed price for your data plan, regardless of where you use it within the covered area."
+      },
+      {
+        "question": "Can I use my eSIM immediately upon arrival?",
+        "answer": "Yes, if activated before travel, your eSIM will connect automatically to local networks as soon as you land, providing instant internet access."
+      },
+      {
+        "question": "What if my eSIM doesn't work in a specific country?",
+        "answer": "Contact our support team immediately. We can help troubleshoot the issue or provide alternative solutions. Most connectivity issues can be resolved quickly."
+      }
+    ]
+  },
+  {
+    "title": "Device Compatibility",
+    "description": "Questions about which devices support eSIM technology.",
+    "faqs": [
+      {
+        "question": "Which iPhone models support eSIM?",
+        "answer": "iPhone XS, iPhone XS Max, iPhone XR, and all newer models support eSIM. This includes iPhone 11, 12, 13, 14, and 15 series."
+      },
+      {
+        "question": "Do Android phones support eSIM?",
+        "answer": "Yes, many Android phones support eSIM, including Samsung Galaxy S20 and newer, Google Pixel 3 and newer, and many other flagship models from various manufacturers."
+      },
+      {
+        "question": "How do I check if my device supports eSIM?",
+        "answer": "Go to your device settings and look for 'Cellular' or 'Mobile Data' options. If you see 'Add Cellular Plan' or 'Add eSIM', your device supports eSIM technology."
+      },
+      {
+        "question": "Can I use eSIM on tablets and laptops?",
+        "answer": "Yes, many tablets and laptops support eSIM, including iPad Pro, iPad Air, iPad mini, and various Windows laptops with eSIM capability."
+      },
+      {
+        "question": "What if my device doesn't support eSIM?",
+        "answer": "If your device doesn't support eSIM, you can still use our services with a physical SIM card. Contact us to explore alternative options."
+      }
+    ]
+  },
+  {
+    "title": "Billing & Support",
+    "description": "Questions about payments, billing, and customer support.",
+    "faqs": [
+      {
+        "question": "How do I pay for my eSIM plan?",
+        "answer": "You can pay using credit cards, debit cards, PayPal, or other supported payment methods. All transactions are secure and processed through encrypted channels."
+      },
+      {
+        "question": "Can I get a refund if I'm not satisfied?",
+        "answer": "We offer refunds within 24 hours of purchase if the eSIM hasn't been activated. Once activated, refunds are subject to our terms and conditions."
+      },
+      {
+        "question": "How can I contact customer support?",
+        "answer": "You can reach our support team 24/7 through WhatsApp, email, or phone. We also offer live chat support on our website during business hours."
+      },
+      {
+        "question": "Do you offer technical support?",
+        "answer": "Yes, our technical support team helps with eSIM installation, troubleshooting connectivity issues, and device compatibility questions."
+      },
+      {
+        "question": "What languages does your support team speak?",
+        "answer": "Our support team speaks multiple languages including English, Spanish, French, German, and several others to assist customers worldwide."
+      }
+    ]
+  }
+]

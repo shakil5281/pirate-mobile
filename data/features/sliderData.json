@@ -1,0 +1,59 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "title": "Pirate Mobile App Now Available on iOS and Android",
+      "image": "/images/slider/app-availability.png",
+      "description": "Download our mobile app and get instant access to eSIM data plans worldwide",
+      "features": [
+        "Available on iOS and Android",
+        "Instant eSIM activation",
+        "200+ countries supported"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Choose Your Destination Across 200+ Countries",
+      "image": "/images/slider/destination-selection.png",
+      "description": "Browse and select from our extensive list of supported countries and regions",
+      "features": [
+        "200+ countries and regions",
+        "Easy search functionality",
+        "Top picks and recommendations"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pirate Mobile Offers Flexible Data Plans in 200+ Destinations",
+      "image": "/images/slider/data-plans.png",
+      "description": "Choose from a variety of data plans tailored to your travel needs",
+      "features": [
+        "Flexible data plans",
+        "Regular and unlimited options",
+        "Competitive pricing"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Instant eSIM Activation in Just 3 Steps",
+      "image": "/images/slider/activation-process.png",
+      "description": "Get your eSIM activated instantly with our simple 3-step process",
+      "features": [
+        "Scan QR code",
+        "Install eSIM profile",
+        "Start using immediately"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Stay Connected with Global Coverage",
+      "image": "/images/slider/global-coverage.png",
+      "description": "Experience seamless connectivity across 200+ countries with our global network",
+      "features": [
+        "Global network coverage",
+        "High-speed data",
+        "Reliable connection"
+      ]
+    }
+  ]
+}

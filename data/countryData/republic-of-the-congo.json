@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Republic of the Congo",
+  "seo_meta_title": "Buy Republic of the Congo eSIM Now – Starting at $19.99",
+  "meta_description": "Get connected instantly in the Republic of the Congo with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "How do I get an eSIM for the Republic of the Congo?",
+      "answer": "You can easily get a Republic of the Congo eSIM by visiting the Pirate Mobile website, selecting your preferred data plan, and completing the purchase. Once done, a QR code will be sent to your email for activation."
+    },
+    {
+      "question": "Can I use the Republic of the Congo eSIM for both calls and data?",
+      "answer": "Yes, the eSIM from Pirate Mobile offers data services and supports voice calls and SMS, depending on the selected plan. Make sure to choose a plan that covers your specific needs for calls or data."
+    },
+    {
+      "question": "Is the Republic of the Congo eSIM compatible with all phones?",
+      "answer": "No, the eSIM is only compatible with eSIM-enabled devices, such as newer iPhone models, Samsung Galaxy phones, Google Pixel, and other smartphones that support eSIM technology. Check your device settings to confirm compatibility."
+    },
+    {
+      "question": "How long is the Republic of the Congo eSIM valid?",
+      "answer": "The validity of your Republic of the Congo eSIM depends on the data plan you choose. Pirate Mobile offers various options, ranging from daily to monthly plans. Once your data limit is reached or the plan expires, you can top up or purchase a new eSIM."
+    },
+    {
+      "question": "Can I use the Republic of the Congo eSIM for roaming?",
+      "answer": "The Republic of the Congo eSIM is designed for use within the country. Some plans may offer limited roaming capabilities, but it's best to check the plan details or contact Pirate Mobile customer support for specific roaming information."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Republic of the Congo eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/republic-of-the-congo",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I get an eSIM for the Republic of the Congo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily get a Republic of the Congo eSIM by visiting the Pirate Mobile website, selecting your preferred data plan, and completing the purchase. Once done, a QR code will be sent to your email for activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Republic of the Congo eSIM for both calls and data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the eSIM from Pirate Mobile offers data services and supports voice calls and SMS, depending on the selected plan. Make sure to choose a plan that covers your specific needs for calls or data."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Republic of the Congo eSIM compatible with all phones?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, the eSIM is only compatible with eSIM-enabled devices, such as newer iPhone models, Samsung Galaxy phones, Google Pixel, and other smartphones that support eSIM technology. Check your device settings to confirm compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long is the Republic of the Congo eSIM valid?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The validity of your Republic of the Congo eSIM depends on the data plan you choose. Pirate Mobile offers various options, ranging from daily to monthly plans. Once your data limit is reached or the plan expires, you can top up or purchase a new eSIM."
+      }
+    }]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Macao",
+  "seo_meta_title": "Buy Macao eSIM – Starting at $4.99 | Pirate Mobile",
+  "meta_description": "Looking for a hassle-free way to stay connected in Macao? Pirate Mobile’s eSIM offers flexible data plans and instant activation. No physical SIM needed!",
+  "faqs": [
+    {
+      "question": "Can I use the Macao eSIM with my current phone number?",
+      "answer": "Yes, the Macao eSIM can be used alongside your existing phone number, allowing you to have two numbers on the same phone – one for your home network and one for local Macao services."
+    },
+    {
+      "question": "How do I activate the Macao eSIM from Pirate Mobile?",
+      "answer": "Once you purchase the Macao eSIM, you will receive a QR code via email. Simply scan the code using your phone's settings, and the eSIM will be activated within minutes."
+    },
+    {
+      "question": "Is the Macao eSIM compatible with all devices?",
+      "answer": "The Macao eSIM is compatible with most eSIM-enabled devices, including iPhones, newer Samsung Galaxy models, Google Pixel phones, and other eSIM-capable devices. Check your phone's settings to see if it supports eSIM."
+    },
+    {
+      "question": "Can I top up data on my Macao eSIM?",
+      "answer": "Yes, you can top up additional data on your Macao eSIM through the Pirate Mobile platform if you need more data during your stay in Macao."
+    },
+    {
+      "question": "How long is the Macao eSIM valid for?",
+      "answer": "The validity of the Macao eSIM depends on the data package you choose. Typically, packages are valid for 7, 15, or 30 days, but this can vary based on the plan selected."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Macao eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/macao",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I use the Macao eSIM with my current phone number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Macao eSIM can be used alongside your existing phone number, allowing you to have two numbers on the same phone – one for your home network and one for local Macao services."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate the Macao eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you purchase the Macao eSIM, you will receive a QR code via email. Simply scan the code using your phone's settings, and the eSIM will be activated within minutes."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Macao eSIM compatible with all devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Macao eSIM is compatible with most eSIM-enabled devices, including iPhones, newer Samsung Galaxy models, Google Pixel phones, and other eSIM-capable devices. Check your phone's settings to see if it supports eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I top up data on my Macao eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can top up additional data on your Macao eSIM through the Pirate Mobile platform if you need more data during your stay in Macao."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long is the Macao eSIM valid for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The validity of the Macao eSIM depends on the data package you choose. Typically, packages are valid for 7, 15, or 30 days, but this can vary based on the plan selected."
+      }
+    }]
+  }
+}

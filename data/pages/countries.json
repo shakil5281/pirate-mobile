@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "title": "Destinations — 190+ Countries",
+    "description": "Browse eSIM plans by country and region.",
+    "openGraph": {
+      "title": "Destinations — 190+ Countries",
+      "description": "Find the perfect eSIM plan for your trip."
+    }
+  },
+  "countries": [
+    {
+      "name": "Belgium",
+      "price": "3.59",
+      "duration": "7 days"
+    },
+    {
+      "name": "Egypt",
+      "price": "3.59",
+      "duration": "7 days"
+    },
+    {
+      "name": "France",
+      "price": "3.59",
+      "duration": "7 days"
+    },
+    {
+      "name": "Germany",
+      "price": "3.59",
+      "duration": "7 days"
+    },
+    {
+      "name": "Japan",
+      "price": "3.59",
+      "duration": "7 days"
+    },
+    {
+      "name": "Spain",
+      "price": "4.99",
+      "duration": "10 days"
+    },
+    {
+      "name": "Italy",
+      "price": "4.99",
+      "duration": "10 days"
+    },
+    {
+      "name": "United Kingdom",
+      "price": "5.99",
+      "duration": "14 days"
+    },
+    {
+      "name": "United States",
+      "price": "6.99",
+      "duration": "14 days"
+    },
+    {
+      "name": "Canada",
+      "price": "5.99",
+      "duration": "14 days"
+    },
+    {
+      "name": "Australia",
+      "price": "7.99",
+      "duration": "21 days"
+    },
+    {
+      "name": "South Korea",
+      "price": "4.99",
+      "duration": "10 days"
+    }
+  ],
+  "popular": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Japan",
+    "Spain",
+    "Italy",
+    "United Kingdom",
+    "United States"
+  ],
+  "regional": [
+    "Egypt",
+    "Japan",
+    "South Korea",
+    "Australia"
+  ]
+}

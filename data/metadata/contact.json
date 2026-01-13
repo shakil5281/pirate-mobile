@@ -1,0 +1,25 @@
+{
+    "title": "Contact Pirate Mobile – Support & Partnerships",
+    "seo_meta_title": "Contact Us | Pirate Mobile Support & Sales",
+    "meta_description": "Get in touch with Pirate Mobile. Contact our team for support, sales, partnerships, or press inquiries. We're here to help!",
+    "openGraph": {
+      "title": "Contact Us | Pirate Mobile Support & Sales",
+      "description": "Get in touch with Pirate Mobile. Contact our team for support, sales, partnerships, or press inquiries.",
+      "images": ["/og/contact-cover.jpg"],
+      "url": "https://www.piratemobile.gg/contact"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Contact Us | Pirate Mobile Support & Sales",
+      "description": "Get in touch with Pirate Mobile. Contact our team for support, sales, partnerships, or press inquiries.",
+      "images": ["/og/contact-cover.jpg"]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Contact Pirate Mobile",
+      "url": "https://www.piratemobile.gg/contact",
+      "description": "Get in touch with Pirate Mobile. Contact our team for support, sales, partnerships, or press inquiries."
+    }
+  }
+  

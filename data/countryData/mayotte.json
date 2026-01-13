@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Mayotte",
+  "seo_meta_title": "Buy Mayotte eSIM – Starting at $4.99",
+  "meta_description": "Get connected instantly in Mayotte with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "Do I need a special device to use the Mayotte eSIM?",
+      "answer": "Yes, not all devices support eSIM technology. Currently, most newer models of smartphones, such as iPhones (from iPhone XS onward), Samsung Galaxy devices (from Galaxy S20 onward), and Google Pixel devices (from Pixel 3 onward), are eSIM compatible. To check if your phone supports eSIM, go to your phone’s settings and look for 'Add Cellular Plan' or check your model’s specifications. If your phone supports eSIM, you can easily activate your Pirate Mobile eSIM for Mayotte."
+    },
+    {
+      "question": "How do I purchase and activate an eSIM for Mayotte?",
+      "answer": "You can purchase your eSIM for Mayotte on Pirate Mobile's website. After purchase, you’ll receive a QR code to scan and activate the eSIM on your device."
+    },
+    {
+      "question": "Can I use the Mayotte eSIM for data only, or does it include calls and texts?",
+      "answer": "Pirate Mobile’s Mayotte eSIM typically provides data services, but some plans may offer additional options for voice calls and SMS. Be sure to check the details of your specific plan."
+    },
+    {
+      "question": "Can I use the eSIM while keeping my physical SIM in the phone?",
+      "answer": "Yes, with dual SIM devices, you can use the Mayotte eSIM alongside your physical SIM. This allows you to manage two numbers or networks on the same device."
+    },
+    {
+      "question": "What if I accidentally delete my Mayotte eSIM? Can I recover it?",
+      "answer": "If you delete your Mayotte eSIM, you’ll need to contact Pirate Mobile to request a replacement or reactivation. In most cases, a new QR code will be issued."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Mayotte",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/mayotte",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Do I need a special device to use the Mayotte eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, not all devices support eSIM technology. Currently, most newer models of smartphones, such as iPhones (from iPhone XS onward), Samsung Galaxy devices (from Galaxy S20 onward), and Google Pixel devices (from Pixel 3 onward), are eSIM compatible. To check if your phone supports eSIM, go to your phone’s settings and look for \"Add Cellular Plan\" or check your model’s specifications. If your phone supports eSIM, you can easily activate your Pirate Mobile eSIM for Mayotte."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I purchase and activate an eSIM for Mayotte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase your eSIM for Mayotte on Pirate Mobile's website. After purchase, you’ll receive a QR code to scan and activate the eSIM on your device."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Mayotte eSIM for data only, or does it include calls and texts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Mayotte eSIM typically provides data services, but some plans may offer additional options for voice calls and SMS. Be sure to check the details of your specific plan."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the eSIM while keeping my physical SIM in the phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with dual SIM devices, you can use the Mayotte eSIM alongside your physical SIM. This allows you to manage two numbers or networks on the same device."
+      }
+    },{
+      "@type": "Question",
+      "name": "What if I accidentally delete my Mayotte eSIM? Can I recover it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you delete your Mayotte eSIM, you’ll need to contact Pirate Mobile to request a replacement or reactivation. In most cases, a new QR code will be issued."
+      }
+    }]
+  }
+}

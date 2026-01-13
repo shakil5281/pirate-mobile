@@ -1,0 +1,74 @@
+{
+  "title": "Connect Seamlessly Across the Globe with eSIM Brunei",
+  "seo_meta_title": "Buy eSIM Brunei Now - Pirate eSIM",
+  "meta_description": "Get Brunei eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How quickly can I activate my Pirate Mobile eSIM in Brunei?",
+      "answer": "You can activate your Pirate Mobile eSIM almost instantly by scanning the QR code sent to your email. Activation takes just a few minutes."
+    },
+    {
+      "question": "Will the Pirate Mobile eSIM work on my smartwatch in Brunei?",
+      "answer": "Yes, as long as your smartwatch supports eSIM functionality, you can use Pirate Mobile’s Brunei eSIM for data connectivity on your smartwatch."
+    },
+    {
+      "question": "Are there any roaming charges with Pirate Mobile's Brunei eSIM?",
+      "answer": "No, Pirate Mobile offers local data plans for Brunei, so there are no additional roaming charges. You pay for what you use with no hidden fees."
+    },
+    {
+      "question": "Can I buy a Pirate Mobile eSIM for Brunei if I am not yet in the country?",
+      "answer": "Absolutely! You can purchase and activate your Brunei eSIM from anywhere in the world. This way, you’re connected as soon as you arrive."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Brunei",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/brunei",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema":{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How quickly can I activate my Pirate Mobile eSIM in Brunei?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can activate your Pirate Mobile eSIM almost instantly by scanning the QR code sent to your email. Activation takes just a few minutes."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will the Pirate Mobile eSIM work on my smartwatch in Brunei?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, as long as your smartwatch supports eSIM functionality, you can use Pirate Mobile’s Brunei eSIM for data connectivity on your smartwatch."
+      }
+    },{
+      "@type": "Question",
+      "name": "Are there any roaming charges with Pirate Mobile's Brunei eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Pirate Mobile offers local data plans for Brunei, so there are no additional roaming charges. You pay for what you use with no hidden fees."
+      }
+    }]
+  }
+
+}

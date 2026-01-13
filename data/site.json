@@ -1,0 +1,23 @@
+{
+  "site": {
+    "name": "Pirate Mobile",
+    "title": "Pirate Mobile — Global eSIM for 190+ Countries",
+    "description": "Stay connected worldwide with fast, secure eSIM data. No roaming fees, instant activation.",
+    "url": "https://pirate-mobile.example.com",
+    "keywords": ["eSIM", "global data", "travel", "international", "roaming"],
+    "openGraph": {
+      "title": "Pirate Mobile — Global eSIM for 190+ Countries",
+      "description": "Fast, secure eSIM data plans for travelers. Connect instantly in 190+ countries.",
+      "type": "website",
+      "images": [
+        { "url": "/vercel.svg", "width": 1200, "height": 630, "alt": "Pirate Mobile" }
+      ]
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pirate Mobile",
+      "description": "Global eSIM data for travelers",
+      "images": ["/vercel.svg"]
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with eSIM Canada",
+  "seo_meta_title": "eSIM Canada Deals – Starting at $6.99 | Pirate Mobile",
+  "meta_description": "Traveling to Canada? Stay connected with Pirate Mobile’s eSIMs – fast activation, affordable rates, and nationwide coverage.",
+  "faqs": [
+    {
+      "question": "Will Pirate Mobile’s Canada eSIM work in rural and remote areas of Canada?",
+      "answer": "Pirate Mobile partners with leading networks in Canada, ensuring broad coverage, including in rural and remote areas. However, network quality may vary depending on the specific region."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s Canada eSIM while traveling between Canadian provinces?",
+      "answer": "Absolutely! Pirate Mobile’s Canada eSIM offers seamless coverage across all Canadian provinces, so you can stay connected as you travel from one region to another."
+    },
+    {
+      "question": "What kind of support does Pirate Mobile offer if I face issues with my eSIM in Canada?",
+      "answer": "Pirate Mobile offers 24/7 customer support through our website. If you encounter any issues, our team is available to assist you with troubleshooting and any other concerns."
+    },
+    {
+      "question": "Is there a limit to how many times I can top up my Canada eSIM?",
+      "answer": "There is no limit to the number of times you can top up your data. Simply visit Pirate Mobile’s website to add more data as needed during your stay in Canada."
+    },
+    {
+      "question": "Can I switch from a physical SIM to Pirate Mobile’s eSIM while in Canada?",
+      "answer": "Yes, if your device supports eSIM, you can easily switch from your physical SIM to Pirate Mobile’s eSIM at any time. Simply follow the activation steps provided."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Canada",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/canada",
+      "priceCurrency": "USD",
+      "lowPrice": "6.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Q2: Will Pirate Mobile’s Canada eSIM work in rural and remote areas of Canada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A2: Pirate Mobile partners with leading networks in Canada, ensuring broad coverage, including in rural and remote areas. However, network quality may vary depending on the specific region."
+      }
+    },{
+      "@type": "Question",
+      "name": "Q3: Can I use Pirate Mobile’s Canada eSIM while traveling between Canadian provinces?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A3: Absolutely! Pirate Mobile’s Canada eSIM offers seamless coverage across all Canadian provinces, so you can stay connected as you travel from one region to another."
+      }
+    },{
+      "@type": "Question",
+      "name": "Q4: What kind of support does Pirate Mobile offer if I face issues with my eSIM in Canada?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A4: Pirate Mobile offers 24/7 customer support through our website. If you encounter any issues, our team is available to assist you with troubleshooting and any other concerns."
+      }
+    },{
+      "@type": "Question",
+      "name": "Q5: Is there a limit to how many times I can top up my Canada eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A5: There is no limit to the number of times you can top up your data. Simply visit Pirate Mobile’s website to add more data as needed during your stay in Canada."
+      }
+    }]
+  }
+}

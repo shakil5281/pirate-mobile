@@ -1,0 +1,36 @@
+{
+  "title": "Key Benefits & Features",
+  "subtitle": "Discover why Pirate Mobile eSIM is the perfect solution for seamless connectivity worldwide.",
+  "features": [
+    {
+      "id": 1,
+      "title": "Global Coverage",
+      "description": "Stay online in over 190 countries with one eSIM. Perfect for travelers, remote workers, and digital nomads.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Group%201171275307.svg?updatedAt=1761217404898"
+    },
+    {
+      "id": 2,
+      "title": "Instant Setup",
+      "description": "Get connected in minutes. No need for a physical SIM or complicated installation.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Group%201175303.svg?updatedAt=1761217495077"
+    },
+    {
+      "id": 3,
+      "title": "Affordable Data",
+      "description": "Enjoy local rates with no hidden fees. Save on roaming charges while traveling abroad.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Group%201175304.svg?updatedAt=1761217515168"
+    },
+    {
+      "id": 4,
+      "title": "Secure Connection",
+      "description": "Your data stays private and reliable wherever you go. Surf, work, and stream safely.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Group%201005639.svg?updatedAt=1761217549357"
+    },
+    {
+      "id": 5,
+      "title": "Easy Management",
+      "description": "Purchase plans, activate eSIMs, and monitor usage directly from the app. Simple and convenient.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Group%201175305.svg?updatedAt=1761217566916"
+    }
+  ]
+}

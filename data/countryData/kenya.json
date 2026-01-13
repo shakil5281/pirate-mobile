@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Kenya",
+  "seo_meta_title": "Kenya eSIM Deals – Starting at $14.99 | Best Prices",
+  "meta_description": "Traveling to Kenya? Need eSIM? Stay connected with Pirate Mobile’s eSIMs – fast activation, affordable rates, and nationwide coverage.",
+  "faqs": [
+    {
+      "question": "Which devices are compatible with Kenya eSIM?",
+      "answer": "Most modern smartphones like iPhones, Google Pixel, and newer Samsung Galaxy models support eSIM. Check your device's settings or specifications for eSIM compatibility."
+    },
+    {
+      "question": "How do I activate my Kenya eSIM from Pirate Mobile?",
+      "answer": "Once you purchase the eSIM, you will receive a QR code via email. Scan the code in your device’s settings to activate the eSIM profile and get connected instantly."
+    },
+    {
+      "question": "Can I use a Kenya eSIM with my current physical SIM?",
+      "answer": "Yes, you can use a Kenya eSIM alongside your physical SIM card if your device supports dual-SIM functionality. This allows you to use both your local and Kenya eSIM simultaneously."
+    },
+    {
+      "question": "Is the Kenya eSIM suitable for short-term travelers?",
+      "answer": "Absolutely! Pirate Mobile’s Kenya eSIM is perfect for short-term visitors, tourists, and business travelers who need hassle-free, instant connectivity during their stay."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Kenya eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/kenya",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Which devices are compatible with Kenya eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones like iPhones, Google Pixel, and newer Samsung Galaxy models support eSIM. Check your device's settings or specifications for eSIM compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Kenya eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you purchase the eSIM, you will receive a QR code via email. Scan the code in your device’s settings to activate the eSIM profile and get connected instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use a Kenya eSIM with my current physical SIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use a Kenya eSIM alongside your physical SIM card if your device supports dual-SIM functionality. This allows you to use both your local and Kenya eSIM simultaneously."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Kenya eSIM suitable for short-term travelers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! Pirate Mobile’s Kenya eSIM is perfect for short-term visitors, tourists, and business travelers who need hassle-free, instant connectivity during their stay."
+      }
+    }]
+  }
+}

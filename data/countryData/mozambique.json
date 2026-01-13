@@ -1,0 +1,102 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Mozambique",
+  "seo_meta_title": "Get Mozambique eSIM Now – Starting at $44.9",
+  "meta_description": "Stay connected in Mozambique with Pirate Mobile's eSIM! Enjoy instant activation, flexible data plans, and seamless connectivity without a physical SIM card.",
+  "faqs": [
+    {
+      "question": "What advantages does a Mozambique eSIM offer over a traditional SIM card?",
+      "answer": "A Mozambique eSIM allows for easy activation without needing a physical card, offers flexible data plans, and lets you switch between carriers without changing SIMs."
+    },
+    {
+      "question": "How can I purchase a Mozambique eSIM from Pirate Mobile?",
+      "answer": "You can buy a Mozambique eSIM directly from the Pirate Mobile website. Simply select your plan, complete your purchase, and receive your QR code via email."
+    },
+    {
+      "question": "What types of data plans are available for the Mozambique eSIM?",
+      "answer": "We offer various data plans tailored for different needs, including short-term travel plans and long-term data packages. Check our website for current options."
+    },
+    {
+      "question": "Do I need to unlock my phone to use a Mozambique eSIM?",
+      "answer": "No, you do not need to unlock your phone for the eSIM to work, but your device must be eSIM-compatible. Check your settings to ensure compatibility."
+    },
+    {
+      "question": "Can I manage my Mozambique eSIM from my device?",
+      "answer": "Yes, you can easily manage your eSIM settings, including data usage and plan changes, directly from your device's settings menu."
+    },
+    {
+      "question": "What should I do if I experience connectivity issues with my Mozambique eSIM?",
+      "answer": "If you encounter connectivity problems, try restarting your device. If issues persist, contact Pirate Mobile customer support for assistance."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Mozambique esim",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/mozambique",
+      "priceCurrency": "USD",
+      "lowPrice": "44.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What advantages does a Mozambique eSIM offer over a traditional SIM card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Mozambique eSIM allows for easy activation without needing a physical card, offers flexible data plans, and lets you switch between carriers without changing SIMs."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I purchase a Mozambique eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can buy a Mozambique eSIM directly from the Pirate Mobile website. Simply select your plan, complete your purchase, and receive your QR code via email."
+      }
+    },{
+      "@type": "Question",
+      "name": "What types of data plans are available for the Mozambique eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer various data plans tailored for different needs, including short-term travel plans and long-term data packages. Check our website for current options."
+      }
+    },{
+      "@type": "Question",
+      "name": "Do I need to unlock my phone to use a Mozambique eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need to unlock your phone for the eSIM to work, but your device must be eSIM-compatible. Check your settings to ensure compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I manage my Mozambique eSIM from my device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can easily manage your eSIM settings, including data usage and plan changes, directly from your device's settings menu."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I experience connectivity issues with my Mozambique eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you encounter connectivity problems, try restarting your device. If issues persist, contact Pirate Mobile customer support for assistance."
+      }
+    }]
+  }
+}

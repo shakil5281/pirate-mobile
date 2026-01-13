@@ -1,0 +1,74 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Haiti eSIM",
+  "seo_meta_title": "Haiti eSIM Deals – Starting at $14.99 | Best Prices",
+  "meta_description": "Get your Haiti eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How can I purchase a Haiti eSIM from Pirate Mobile?",
+      "answer": "You can purchase your Haiti eSIM directly from our website. Simply choose the plan that fits your travel needs, and we will send the eSIM QR code to your email for instant activation."
+    },
+    {
+      "question": "Can I use my Pirate Mobile Haiti eSIM before arriving in Haiti?",
+      "answer": "Yes, you can activate the eSIM before arriving in Haiti. This ensures you have immediate connectivity upon landing, eliminating the hassle of finding local SIM cards."
+    },
+    {
+      "question": "What is the coverage like with Pirate Mobile’s Haiti eSIM?",
+      "answer": "Pirate Mobile partners with top local network providers in Haiti to offer reliable coverage across the country, ensuring strong connectivity in both urban and rural areas."
+    },
+    {
+      "question": "Can I keep my existing phone number while using the Haiti eSIM?",
+      "answer": "Yes, you can continue using your existing phone number alongside your Haiti eSIM by keeping your primary SIM card for calls and using the eSIM for data."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Haiti eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/haiti",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema":{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase a Haiti eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase your Haiti eSIM directly from our website. Simply choose the plan that fits your travel needs, and we will send the eSIM QR code to your email for instant activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Pirate Mobile Haiti eSIM before arriving in Haiti?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can activate the eSIM before arriving in Haiti. This ensures you have immediate connectivity upon landing, eliminating the hassle of finding local SIM cards."
+      }
+    },{
+      "@type": "Question",
+      "name": "What is the coverage like with Pirate Mobile’s Haiti eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile partners with top local network providers in Haiti to offer reliable coverage across the country, ensuring strong connectivity in both urban and rural areas."
+      }
+    }]
+  }
+
+}

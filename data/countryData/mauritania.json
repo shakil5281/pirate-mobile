@@ -1,0 +1,102 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Mauritania",
+  "seo_meta_title": "Buy Mauritania eSIM – Starting at $19.99",
+  "meta_description": "Get connected instantly in Mauritania with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "How do I activate my Mauritania eSIM?",
+      "answer": "After purchasing your eSIM, scan the QR code provided by Pirate Mobile in your device settings to activate it. Follow the on-screen instructions to complete the setup."
+    },
+    {
+      "question": "Is my phone compatible with a Mauritania eSIM?",
+      "answer": "Most newer smartphones, including recent models from Apple, Samsung, and Google, support eSIM. Check your device specifications to confirm compatibility."
+    },
+    {
+      "question": "Can I use a Mauritania eSIM for both data and calls?",
+      "answer": "Yes, the Mauritania eSIM supports data services and may include options for voice calls, depending on the plan you choose."
+    },
+    {
+      "question": "What data plans are available for the Mauritania eSIM?",
+      "answer": "Pirate Mobile offers various flexible data plans tailored for short-term and long-term travelers. Choose the plan that best fits your needs."
+    },
+    {
+      "question": "Can I keep my existing physical SIM while using the eSIM?",
+      "answer": "Yes, you can use both a physical SIM and an eSIM simultaneously, allowing you to switch between networks as needed."
+    },
+    {
+      "question": "What should I do if I lose my Mauritania eSIM?",
+      "answer": "If your eSIM is lost or deleted, contact Pirate Mobile's customer support for assistance. You may be able to recover or obtain a replacement eSIM."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Mauritania eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/mauritania",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I activate my Mauritania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing your eSIM, scan the QR code provided by Pirate Mobile in your device settings to activate it. Follow the on-screen instructions to complete the setup."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my phone compatible with a Mauritania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most newer smartphones, including recent models from Apple, Samsung, and Google, support eSIM. Check your device specifications to confirm compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use a Mauritania eSIM for both data and calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Mauritania eSIM supports data services and may include options for voice calls, depending on the plan you choose."
+      }
+    },{
+      "@type": "Question",
+      "name": "What data plans are available for the Mauritania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers various flexible data plans tailored for short-term and long-term travelers. Choose the plan that best fits your needs."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my existing physical SIM while using the eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use both a physical SIM and an eSIM simultaneously, allowing you to switch between networks as needed."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I lose my Mauritania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your eSIM is lost or deleted, contact Pirate Mobile's customer support for assistance. You may be able to recover or obtain a replacement eSIM."
+      }
+    }]
+  }
+}

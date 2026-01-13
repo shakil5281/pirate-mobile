@@ -1,0 +1,99 @@
+{
+  "title": "Get Your eSIM Tunisia Today - From $3.99",
+  "seo_meta_title": "eSIM Tunisia for Travelers | Pirate Mobile",
+  "meta_description": "Get your Tunisia eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is an eSIM, and how does it work in Tunisia?",
+      "answer": "An eSIM is a digital SIM that allows you to activate a mobile plan without a physical SIM card. With Pirate Mobile, you can use an eSIM in Tunisia to stay connected easily."
+    },
+    {
+      "question": "How can I purchase a Tunisia eSIM from Pirate Mobile?",
+      "answer": "Simply visit our website, choose the Tunisia eSIM plan, and complete your purchase. You’ll receive a QR code via email to activate your eSIM instantly."
+    },
+    {
+      "question": "Is my device compatible with Pirate Mobile's Tunisia eSIM?",
+      "answer": "Pirate Mobile’s eSIMs are compatible with most eSIM-enabled devices. Please verify your device's compatibility before purchasing."
+    },
+    {
+      "question": "How long can I use the Tunisia eSIM?",
+      "answer": "The validity period of the Tunisia eSIM depends on the specific plan you select, ranging from several days to weeks."
+    },
+    {
+      "question": "Can I add more data to my Tunisia eSIM if needed?",
+      "answer": "Yes, you can easily top up your Tunisia eSIM with additional data through our website."
+    },
+    {
+      "question": "What should I do if I experience issues with my Tunisia eSIM?",
+      "answer": "If you encounter any problems, please reach out to Pirate Mobile’s customer support via our website, and we’ll assist you promptly."
+    },
+    {
+      "question": "How secure is the Tunisia eSIM from Pirate Mobile?",
+      "answer": "Pirate Mobile’s eSIMs are highly secure, ensuring your data and communication are protected while you’re in Tunisia."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Tunisia",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/tunisia",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is an eSIM, and how does it work in Tunisia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM that allows you to activate a mobile plan without a physical SIM card. With Pirate Mobile, you can use an eSIM in Tunisia to stay connected easily."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I purchase a Tunisia eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Simply visit our website, choose the Tunisia eSIM plan, and complete your purchase. You’ll receive a QR code via email to activate your eSIM instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with Pirate Mobile's Tunisia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIMs are compatible with most eSIM-enabled devices. Please verify your device's compatibility before purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long can I use the Tunisia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The validity period of the Tunisia eSIM depends on the specific plan you select, ranging from several days to weeks."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I add more data to my Tunisia eSIM if needed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can easily top up your Tunisia eSIM with additional data through our website."
+      }
+    }]
+  }
+}

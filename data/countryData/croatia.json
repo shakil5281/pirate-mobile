@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Croatia eSIM",
+  "seo_meta_title": "Croatia eSIM Deals – Starting at $3.99 | Pirate Mobile",
+  "meta_description": "Get your Croatia eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How can I get a Croatia eSIM from Pirate Mobile?",
+      "answer": "You can purchase a Croatia eSIM directly from our Pirate Mobile website. Simply select the eSIM plan that suits your needs, complete the payment, and receive your eSIM via email with a QR code for easy activation."
+    },
+    {
+      "question": "Is Pirate Mobile’s Croatia eSIM compatible with all devices?",
+      "answer": "Pirate Mobile’s Croatia eSIM is compatible with most eSIM-enabled smartphones, tablets, and smartwatches. Check your device settings or visit our website for a list of compatible devices."
+    },
+    {
+      "question": "Can I activate my Croatia eSIM before arriving in the country?",
+      "answer": "Yes, you can activate your Croatia eSIM before you arrive, allowing you to have instant connectivity the moment you land. Just scan the QR code and follow the setup instructions."
+    },
+    {
+      "question": "Does Pirate Mobile’s Croatia eSIM provide unlimited data?",
+      "answer": "Our eSIM plans vary in terms of data limits. Some plans offer large data packages, but unlimited data is not available. Choose a plan that best fits your travel needs and top up if needed."
+    },
+    {
+      "question": "Can I share data using my Croatia eSIM?",
+      "answer": "Yes, you can share your Croatia eSIM data with other devices through tethering or a mobile hotspot, depending on your device's capabilities and the data plan you choose."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Colombia eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/croatia",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Q1: How can I get a Croatia eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase a Croatia eSIM directly from our Pirate Mobile website. Simply select the eSIM plan that suits your needs, complete the payment, and receive your eSIM via email with a QR code for easy activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is Pirate Mobile’s Croatia eSIM compatible with all devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Croatia eSIM is compatible with most eSIM-enabled smartphones, tablets, and smartwatches. Check your device settings or visit our website for a list of compatible devices."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I activate my Croatia eSIM before arriving in the country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can activate your Croatia eSIM before you arrive, allowing you to have instant connectivity the moment you land. Just scan the QR code and follow the setup instructions."
+      }
+    },{
+      "@type": "Question",
+      "name": "Does Pirate Mobile’s Croatia eSIM provide unlimited data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our eSIM plans vary in terms of data limits. Some plans offer large data packages, but unlimited data is not available. Choose a plan that best fits your travel needs and top up if needed."
+      }
+    }]
+  }
+}

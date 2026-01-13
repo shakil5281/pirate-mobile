@@ -1,0 +1,36 @@
+[
+  {
+    "domain": "example.com",
+    "cookies": [
+      {
+        "name": "sessionId",
+        "host": "example.com",
+        "duration": "Session",
+        "type": "First Party",
+        "category": "Functional Cookies",
+        "description": "Used to maintain user session across the site."
+      },
+      {
+        "name": "analyticsId",
+        "host": "example.com",
+        "duration": "30 Days",
+        "type": "First Party",
+        "category": "Performance Cookies",
+        "description": "Used to collect site usage statistics."
+      }
+    ]
+  },
+  {
+    "domain": "tracking.example.com",
+    "cookies": [
+      {
+        "name": "trkUser",
+        "host": "tracking.example.com",
+        "duration": "365 Days",
+        "type": "Third Party",
+        "category": "Marketing Cookies",
+        "description": "Used for marketing tracking."
+      }
+    ]
+  }
+]

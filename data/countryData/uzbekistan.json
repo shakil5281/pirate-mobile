@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Uzbekistan",
+  "seo_meta_title": "Get Your Uzbekistan eSIM Now – Starting at $4.99",
+  "meta_description": "Get instant connectivity in Uzbekistan with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I get a Pirate Mobile eSIM for Uzbekistan?",
+      "answer": "Obtaining a Pirate Mobile eSIM for Uzbekistan is straightforward. Visit Pirate Mobile’s website, select your desired plan, and you will receive a QR code via email. Simply scan the QR code in your device settings, and your eSIM will be activated, ready for use as soon as you land in Uzbekistan."
+    },
+    {
+      "question": "Can I use my Pirate Mobile eSIM in Uzbekistan for calls as well as data?",
+      "answer": "While Pirate Mobile’s eSIM primarily provides data services in Uzbekistan, it can also be configured for calls if your device supports it. For the best experience, check your plan details or contact Pirate Mobile’s customer support for options regarding voice services."
+    },
+    {
+      "question": "What kind of data plans does Pirate Mobile offer for Uzbekistan?",
+      "answer": "Pirate Mobile offers a variety of data plans for Uzbekistan, ranging from short-term to long-term options, catering to different data needs. Whether you’re a tourist or on a business trip, you can find a plan that suits your usage, allowing you to stay connected without overpaying."
+    },
+    {
+      "question": "Is there a limit on data usage with Pirate Mobile’s Uzbekistan eSIM?",
+      "answer": "Yes, data plans offered by Pirate Mobile for Uzbekistan typically come with specific data limits. However, you can easily top up your data or choose a larger plan if you anticipate higher usage. Check the details on Pirate Mobile’s website for the most accurate and up-to-date offerings."
+    },
+    {
+      "question": "What devices are compatible with Pirate Mobile’s Uzbekistan eSIM?",
+      "answer": "Pirate Mobile’s eSIM for Uzbekistan is compatible with a range of newer devices, including the latest smartphones and tablets that support eSIM technology. To ensure compatibility, check the device specifications on the Pirate Mobile website or contact customer support if you're unsure."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Uzbekistan eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/uzbekistan",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I get a Pirate Mobile eSIM for Uzbekistan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Obtaining a Pirate Mobile eSIM for Uzbekistan is straightforward. Visit Pirate Mobile’s website, select your desired plan, and you will receive a QR code via email. Simply scan the QR code in your device settings, and your eSIM will be activated, ready for use as soon as you land in Uzbekistan."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Pirate Mobile eSIM in Uzbekistan for calls as well as data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Pirate Mobile’s eSIM primarily provides data services in Uzbekistan, it can also be configured for calls if your device supports it. For the best experience, check your plan details or contact Pirate Mobile’s customer support for options regarding voice services."
+      }
+    },{
+      "@type": "Question",
+      "name": "What kind of data plans does Pirate Mobile offer for Uzbekistan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers a variety of data plans for Uzbekistan, ranging from short-term to long-term options, catering to different data needs. Whether you’re a tourist or on a business trip, you can find a plan that suits your usage, allowing you to stay connected without overpaying."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is there a limit on data usage with Pirate Mobile’s Uzbekistan eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, data plans offered by Pirate Mobile for Uzbekistan typically come with specific data limits. However, you can easily top up your data or choose a larger plan if you anticipate higher usage. Check the details on Pirate Mobile’s website for the most accurate and up-to-date offerings."
+      }
+    },{
+      "@type": "Question",
+      "name": "What devices are compatible with Pirate Mobile’s Uzbekistan eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s eSIM for Uzbekistan is compatible with a range of newer devices, including the latest smartphones and tablets that support eSIM technology. To ensure compatibility, check the device specifications on the Pirate Mobile website or contact customer support if you're unsure."
+      }
+    }]
+  }
+}

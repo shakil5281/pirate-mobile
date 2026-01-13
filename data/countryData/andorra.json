@@ -1,0 +1,85 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Andorra eSIM Services",
+  "seo_meta_title": "Buy Andorra eSIM Now - From $14.99 | Pirate Mobile",
+  "meta_description": "Stay connected in Andorra with Pirate Mobile's eSIM. Easy activation, instant setup, and reliable service for your travels.",
+  "faqs": [
+    {
+      "question": "What is an eSIM and how does it work in Andorra?",
+      "answer": "An eSIM is a digital SIM card that eliminates the need for a physical SIM. Pirate Mobile’s eSIM provides you with instant and reliable connectivity throughout Andorra."
+    },
+    {
+      "question": "How can I buy an Andorra eSIM from Pirate Mobile?",
+      "answer": "Visit our website, select the Andorra eSIM plan, and complete your purchase. You’ll receive a QR code via email for immediate activation."
+    },
+    {
+      "question": "Is the Andorra eSIM compatible with my device?",
+      "answer": "Pirate Mobile’s Andorra eSIM is compatible with most eSIM-enabled smartphones and tablets. Check your device’s compatibility before purchasing."
+    },
+    {
+      "question": "How do I activate my Andorra eSIM?",
+      "answer": "After purchase, scan the QR code sent to your email and follow the activation instructions on your device to start using your Andorra eSIM."
+    },
+    {
+      "question": "Can I use the Andorra eSIM for calls and texts, or just data?",
+      "answer": "Pirate Mobile’s Andorra eSIM supports data usage. For calls and texts, ensure that your plan includes these features or use VoIP services as needed."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Andorra eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/andorra",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is an eSIM and how does it work in Andorra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM card that eliminates the need for a physical SIM. Pirate Mobile’s eSIM provides you with instant and reliable connectivity throughout Andorra."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I buy an Andorra eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visit our website, select the Andorra eSIM plan, and complete your purchase. You’ll receive a QR code via email for immediate activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Andorra eSIM compatible with my device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Andorra eSIM is compatible with most eSIM-enabled smartphones and tablets. Check your device’s compatibility before purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Andorra eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchase, scan the QR code sent to your email and follow the activation instructions on your device to start using your Andorra eSIM."
+      }
+    }]
+  }
+
+}

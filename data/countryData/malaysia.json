@@ -1,0 +1,95 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Malaysia",
+  "seo_meta_title": "Get Your eSIM Malaysia – Starting at $4.99",
+  "meta_description": "Get connected instantly in Malaysia with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "Is my phone compatible with a Malaysia eSIM?",
+      "answer": "Most newer smartphones, including iPhone models from the XR onwards, Samsung Galaxy S series, and Google Pixel phones, support eSIM. Check your phone’s settings to confirm compatibility."
+    },
+    {
+      "question": "How do I activate my Malaysia eSIM?",
+      "answer": "After purchasing an eSIM from Pirate Mobile, you’ll receive a QR code. Simply scan it in your phone’s settings under the 'Mobile Network' or 'Cellular' section to activate the eSIM."
+    },
+    {
+      "question": "Can I use a Malaysia eSIM for both data and calls?",
+      "answer": "Yes, Pirate Mobile’s Malaysia eSIM can be used for both data and voice services, depending on the plan you choose."
+    },
+    {
+      "question": "Can I use the Malaysia eSIM alongside my regular SIM card?",
+      "answer": "Yes, if your phone supports dual SIM, you can use your physical SIM and the eSIM at the same time, allowing you to manage two numbers on one device."
+    },
+    {
+      "question": "What happens if I delete my Malaysia eSIM by accident?",
+      "answer": "If you delete your eSIM, contact Pirate Mobile’s customer support. We can assist you in reactivating the eSIM or issuing a new QR code for reinstallation."
+    },
+    {
+      "question": "Can I top up or change my eSIM data plan?",
+      "answer": "Yes, you can easily top up or change your data plan by visiting Pirate Mobile’s website. The new data will be applied to your eSIM without any hassle."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM malaysia",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/malaysia",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Is my phone compatible with a Malaysia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most newer smartphones, including iPhone models from the XR onwards, Samsung Galaxy S series, and Google Pixel phones, support eSIM. Check your phone’s settings to confirm compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Malaysia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing an eSIM from Pirate Mobile, you’ll receive a QR code. Simply scan it in your phone’s settings under the \"Mobile Network\" or \"Cellular\" section to activate the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use a Malaysia eSIM for both data and calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s Malaysia eSIM can be used for both data and voice services, depending on the plan you choose."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Malaysia eSIM alongside my regular SIM card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if your phone supports dual SIM, you can use your physical SIM and the eSIM at the same time, allowing you to manage two numbers on one device."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I delete my Malaysia eSIM by accident?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you delete your eSIM, contact Pirate Mobile’s customer support. We can assist you in reactivating the eSIM or issuing a new QR code for reinstallation."
+      }
+    }]
+  }
+}

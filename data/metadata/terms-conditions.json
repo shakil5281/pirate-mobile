@@ -1,0 +1,26 @@
+{
+  "title": "Terms & Conditions | Pirate Mobile - eSIM Travel Services",
+  "description": "Read our terms and conditions for using Pirate Mobile eSIM services. Understand your rights and obligations when using our travel connectivity solutions.",
+  "keywords": "terms and conditions, eSIM terms, travel services agreement, user agreement, service terms, legal terms",
+  "ogTitle": "Terms & Conditions | Pirate Mobile",
+  "ogDescription": "Read our terms and conditions for using Pirate Mobile eSIM services.",
+  "ogImage": "/images/og/terms-conditions.jpg",
+  "twitterTitle": "Terms & Conditions | Pirate Mobile",
+  "twitterDescription": "Read our terms and conditions for using Pirate Mobile eSIM services.",
+  "twitterImage": "/images/og/terms-conditions.jpg",
+  "canonical": "https://piratemobile.gg/terms-conditions",
+  "robots": "index, follow",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Terms & Conditions",
+    "description": "Terms and Conditions for Pirate Mobile eSIM services",
+    "url": "https://piratemobile.gg/terms-conditions",
+    "dateModified": "2024-12-15",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Pirate Mobile",
+      "url": "https://piratemobile.gg"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Costa Rica eSIM",
+  "seo_meta_title": "Costa Rica eSIM Deals – Starting at $6.99 | Pirate Mobile",
+  "meta_description": "Get your Costa Rica eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How do I purchase a Costa Rica eSIM from Pirate Mobile?",
+      "answer": "Visit Pirate Mobile’s website, choose the Costa Rica eSIM plan that fits your needs, complete the purchase, and you’ll receive a QR code for instant activation."
+    },
+    {
+      "question": "Will the Costa Rica eSIM work with my smartphone?",
+      "answer": "Most eSIM-compatible devices will work with Pirate Mobile’s Costa Rica eSIM. Check your device’s settings to ensure it supports eSIM technology before purchasing."
+    },
+    {
+      "question": "How do I activate my Pirate Mobile Costa Rica eSIM?",
+      "answer": "Once you’ve purchased your eSIM, simply scan the QR code with your phone’s camera, follow the on-screen instructions, and activate your plan instantly."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s Costa Rica eSIM for voice calls and texts?",
+      "answer": "Pirate Mobile’s Costa Rica eSIM mainly provides data services. You can use internet-based apps for voice calls and messaging, or check if your plan includes additional services."
+    },
+    {
+      "question": "How long is the Costa Rica eSIM valid for?",
+      "answer": "The duration of your eSIM plan depends on the package you choose. We offer flexible plans ranging from a few days to several weeks, based on your travel needs."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Colombia eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/costa-rica",
+      "priceCurrency": "USD",
+      "lowPrice": "6.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase a Costa Rica eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visit Pirate Mobile’s website, choose the Costa Rica eSIM plan that fits your needs, complete the purchase, and you’ll receive a QR code for instant activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will the Costa Rica eSIM work with my smartphone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most eSIM-compatible devices will work with Pirate Mobile’s Costa Rica eSIM. Check your device’s settings to ensure it supports eSIM technology before purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Pirate Mobile Costa Rica eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you’ve purchased your eSIM, simply scan the QR code with your phone’s camera, follow the on-screen instructions, and activate your plan instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use Pirate Mobile’s Costa Rica eSIM for voice calls and texts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Costa Rica eSIM mainly provides data services. You can use internet-based apps for voice calls and messaging, or check if your plan includes additional services."
+      }
+    }]
+  }
+}

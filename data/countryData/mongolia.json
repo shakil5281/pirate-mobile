@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Mongolia",
+  "seo_meta_title": "Buy Mongolia eSIM – Starting at $24.99",
+  "meta_description": "Get connected instantly in Mongolia with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "How do I purchase and activate the eSIM for Mongolia?",
+      "answer": "You can purchase your Mongolia eSIM directly from the Pirate Mobile website. Once you've completed your purchase, you'll receive a QR code via email. To activate, go to the settings on your eSIM-compatible device, select the option to add a mobile plan, and scan the QR code. After that, your eSIM will be activated, and you can start using mobile data immediately. The process is fast and doesn't require any physical setup, unlike traditional SIM cards."
+    },
+    {
+      "question": "Will the Mongolia eSIM work on all devices?",
+      "answer": "eSIM technology is supported by most modern smartphones, including the latest iPhones (iPhone XR and newer), Samsung Galaxy devices (from Galaxy S20 and up), Google Pixels, and other Android devices. However, it’s essential to check whether your phone is eSIM-compatible and unlocked to use international networks. Some older models or carrier-locked devices might not support eSIM functionality."
+    },
+    {
+      "question": "Can I keep my physical SIM card and use the Mongolia eSIM simultaneously?",
+      "answer": "Yes, one of the biggest advantages of using an eSIM is the ability to keep your physical SIM card active while using the eSIM. This dual-SIM capability allows you to maintain your original phone number while using the Mongolia eSIM for data, calls, and SMS. This is especially convenient for international travelers who want to stay connected to their home network for important calls or messages while using local data on the eSIM."
+    },
+    {
+      "question": "What happens if I run out of data on my Mongolia eSIM?",
+      "answer": "If you run out of data on your Mongolia eSIM, Pirate Mobile makes it easy to top up your data plan. Simply visit our website, log into your account, and purchase an additional data package. The new data will be added to your existing eSIM profile without any need for reactivation. Alternatively, you can opt for an auto-renewal plan to ensure you always have data available during your stay in Mongolia."
+    },
+    {
+      "question": "Is there customer support available for eSIM Mongolia?",
+      "answer": "Yes, Pirate Mobile offers 24/7 customer support. Reach out via our website for any questions or issues regarding your eSIM service."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "esim Mongolia",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/mongolia",
+      "priceCurrency": "USD",
+      "lowPrice": "24.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase and activate the eSIM for Mongolia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase your Mongolia eSIM directly from the Pirate Mobile website. Once you've completed your purchase, you'll receive a QR code via email. To activate, go to the settings on your eSIM-compatible device, select the option to add a mobile plan, and scan the QR code. After that, your eSIM will be activated, and you can start using mobile data immediately. The process is fast and doesn't require any physical setup, unlike traditional SIM cards."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will the Mongolia eSIM work on all devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "eSIM technology is supported by most modern smartphones, including the latest iPhones (iPhone XR and newer), Samsung Galaxy devices (from Galaxy S20 and up), Google Pixels, and other Android devices. However, it’s essential to check whether your phone is eSIM-compatible and unlocked to use international networks. Some older models or carrier-locked devices might not support eSIM functionality."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my physical SIM card and use the Mongolia eSIM simultaneously?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, one of the biggest advantages of using an eSIM is the ability to keep your physical SIM card active while using the eSIM. This dual-SIM capability allows you to maintain your original phone number while using the Mongolia eSIM for data, calls, and SMS. This is especially convenient for international travelers who want to stay connected to their home network for important calls or messages while using local data on the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I run out of data on my Mongolia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you run out of data on your Mongolia eSIM, Pirate Mobile makes it easy to top up your data plan. Simply visit our website, log into your account, and purchase an additional data package. The new data will be added to your existing eSIM profile without any need for reactivation. Alternatively, you can opt for an auto-renewal plan to ensure you always have data available during your stay in Mongolia."
+      }
+    }]
+  }
+}

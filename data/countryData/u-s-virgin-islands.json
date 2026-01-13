@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with US Virgin Islands",
+  "seo_meta_title": "Get US Virgin Islands eSIM Now – Pirate Mobile",
+  "meta_description": "Get instant connectivity in US Virgin Islands with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How quickly can I get my Pirate Mobile US Virgin Islands eSIM after purchasing?",
+      "answer": "After purchasing the US Virgin Islands eSIM from Pirate Mobile, you’ll receive your eSIM QR code instantly via email. The activation process only takes a few minutes, allowing you to stay connected as soon as you land or even before you travel."
+    },
+    {
+      "question": "Can I keep my home SIM active while using Pirate Mobile’s US Virgin Islands eSIM?",
+      "answer": "Yes, with Pirate Mobile’s US Virgin Islands eSIM, you can use the dual-SIM feature on compatible devices. This allows you to keep your home SIM active for calls and texts while using Pirate Mobile’s eSIM for local data in the US Virgin Islands."
+    },
+    {
+      "question": "Is Pirate Mobile’s eSIM service available throughout all of the US Virgin Islands?",
+      "answer": "Pirate Mobile's eSIM provides reliable service across the US Virgin Islands, including the main islands of Saint Thomas, Saint John, and Saint Croix. Our eSIM connects to major local carriers, ensuring strong coverage even in less populated areas."
+    },
+    {
+      "question": "What happens if I accidentally delete my Pirate Mobile US Virgin Islands eSIM?",
+      "answer": "If you accidentally delete your Pirate Mobile eSIM, simply contact our customer support team. We’ll help you reactivate your eSIM, and if necessary, issue a new QR code to get you back online quickly."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "US Virgin Islands eSIm",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/u-s-virgin-islands",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How quickly can I get my Pirate Mobile US Virgin Islands eSIM after purchasing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing the US Virgin Islands eSIM from Pirate Mobile, you’ll receive your eSIM QR code instantly via email. The activation process only takes a few minutes, allowing you to stay connected as soon as you land or even before you travel."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my home SIM active while using Pirate Mobile’s US Virgin Islands eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with Pirate Mobile’s US Virgin Islands eSIM, you can use the dual-SIM feature on compatible devices. This allows you to keep your home SIM active for calls and texts while using Pirate Mobile’s eSIM for local data in the US Virgin Islands."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is Pirate Mobile’s eSIM service available throughout all of the US Virgin Islands?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile's eSIM provides reliable service across the US Virgin Islands, including the main islands of Saint Thomas, Saint John, and Saint Croix. Our eSIM connects to major local carriers, ensuring strong coverage even in less populated areas."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I accidentally delete my Pirate Mobile US Virgin Islands eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you accidentally delete your Pirate Mobile eSIM, simply contact our customer support team. We’ll help you reactivate your eSIM, and if necessary, issue a new QR code to get you back online quickly."
+      }
+    }]
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "slug": "belgium",
+    "description": "Get an eSIM for Belgium and enjoy reliable and affordable internet access on your trip.",
+    "heroImage": "/images/countries/belgium-hero.jpg",
+    "trustScore": 4.9,
+    "reviewsCount": 1250,
+    "deviceCompatibility": true
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "flag": "🇫🇷",
+    "slug": "france",
+    "description": "Get an eSIM for France and enjoy reliable and affordable internet access on your trip.",
+    "heroImage": "/images/countries/france-hero.jpg",
+    "trustScore": 4.8,
+    "reviewsCount": 2100,
+    "deviceCompatibility": true
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "slug": "germany",
+    "description": "Get an eSIM for Germany and enjoy reliable and affordable internet access on your trip.",
+    "heroImage": "/images/countries/germany-hero.jpg",
+    "trustScore": 4.7,
+    "reviewsCount": 1800,
+    "deviceCompatibility": true
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "slug": "spain",
+    "description": "Get an eSIM for Spain and enjoy reliable and affordable internet access on your trip.",
+    "heroImage": "/images/countries/spain-hero.jpg",
+    "trustScore": 4.6,
+    "reviewsCount": 1950,
+    "deviceCompatibility": true
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "slug": "italy",
+    "description": "Get an eSIM for Italy and enjoy reliable and affordable internet access on your trip.",
+    "heroImage": "/images/countries/italy-hero.jpg",
+    "trustScore": 4.5,
+    "reviewsCount": 1650,
+    "deviceCompatibility": true
+  }
+]

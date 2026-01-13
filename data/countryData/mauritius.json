@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Mauritius",
+  "seo_meta_title": "Buy Mauritius eSIM – Starting at $14.99",
+  "meta_description": "Get connected instantly in Mauritius with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "Is my phone compatible with the Mauritius eSIM?",
+      "answer": "Most newer smartphones, such as the iPhone XR and above, Samsung Galaxy S20 series and later, and Google Pixel models, support eSIM. Check your phone's settings to confirm compatibility."
+    },
+    {
+      "question": "How do I activate my Mauritius eSIM?",
+      "answer": "After purchasing the eSIM from Pirate Mobile, you’ll receive a QR code. Simply scan this code on your device to activate the eSIM and connect to the local network in Mauritius."
+    },
+    {
+      "question": "Can I use the Mauritius eSIM for both data and voice services?",
+      "answer": "Yes, our Mauritius eSIM supports both data and voice services, depending on the plan you select. Be sure to check the plan details when purchasing."
+    },
+    {
+      "question": "Can I keep my regular SIM while using the Mauritius eSIM?",
+      "answer": "Yes, if your phone supports dual SIM functionality, you can use both your regular physical SIM and the Mauritius eSIM simultaneously."
+    },
+    {
+      "question": "How long does it take to activate the Mauritius eSIM?",
+      "answer": "Activation is almost instant. Once you scan the QR code on your compatible device, your eSIM should be ready to use in just a few minutes."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "eSIM Mauritius",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/mauritius",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Is my phone compatible with the Mauritius eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most newer smartphones, such as the iPhone XR and above, Samsung Galaxy S20 series and later, and Google Pixel models, support eSIM. Check your phone's settings to confirm compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Mauritius eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing the eSIM from Pirate Mobile, you’ll receive a QR code. Simply scan this code on your device to activate the eSIM and connect to the local network in Mauritius."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Mauritius eSIM for both data and voice services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, our Mauritius eSIM supports both data and voice services, depending on the plan you select. Be sure to check the plan details when purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my regular SIM while using the Mauritius eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if your phone supports dual SIM functionality, you can use both your regular physical SIM and the Mauritius eSIM simultaneously."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long does it take to activate the Mauritius eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Activation is almost instant. Once you scan the QR code on your compatible device, your eSIM should be ready to use in just a few minutes."
+      }
+    }]
+  }
+}

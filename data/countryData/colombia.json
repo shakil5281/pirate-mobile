@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Colombia eSIM",
+  "seo_meta_title": "Colombia eSIM Deals – Starting at $6.99 | Pirate Mobile",
+  "meta_description": "Get your Colombia eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How does Pirate Mobile’s Colombia eSIM work?",
+      "answer": "Pirate Mobile’s Colombia eSIM allows you to connect to local networks in Colombia without needing a physical SIM card. Simply activate the eSIM by scanning the QR code, and you’re ready to stay connected throughout your trip."
+    },
+    {
+      "question": "Can I activate my Colombia eSIM before arriving in Colombia?",
+      "answer": "Yes, you can activate your Pirate Mobile eSIM for Colombia before you travel. This allows you to land with an active connection, ensuring you're immediately connected upon arrival."
+    },
+    {
+      "question": "What coverage can I expect with Pirate Mobile’s Colombia eSIM?",
+      "answer": "Pirate Mobile’s Colombia eSIM connects you to leading network providers in the country, ensuring reliable coverage in both major cities and more remote areas of Colombia."
+    },
+    {
+      "question": "What should I do if I need more data while using the Colombia eSIM?",
+      "answer": "If you run out of data, you can easily top up through Pirate Mobile’s website. You can add more data to ensure uninterrupted connectivity throughout your stay."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Colombia eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/colombia",
+      "priceCurrency": "USD",
+      "lowPrice": "6.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Q1: Can I use Pirate Mobile’s China eSIM for unrestricted internet access in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Pirate Mobile’s eSIM provides connectivity in China, internet access may be subject to local restrictions. You may need a VPN to access certain websites or apps that are restricted within the country."
+      }
+    },{
+      "@type": "Question",
+      "name": "Q2: Can I activate my Colombia eSIM before arriving in Colombia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can activate your Pirate Mobile eSIM for Colombia before you travel. This allows you to land with an active connection, ensuring you're immediately connected upon arrival."
+      }
+    },{
+      "@type": "Question",
+      "name": "What coverage can I expect with Pirate Mobile’s Colombia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Colombia eSIM connects you to leading network providers in the country, ensuring reliable coverage in both major cities and more remote areas of Colombia."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I need more data while using the Colombia eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you run out of data, you can easily top up through Pirate Mobile’s website. You can add more data to ensure uninterrupted connectivity throughout your stay."
+      }
+    }]
+  }
+}

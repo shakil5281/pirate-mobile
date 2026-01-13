@@ -1,0 +1,102 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Sri Lanka",
+  "seo_meta_title": "Buy Your Sri Lanka eSIM Now – Starting at $4.99",
+  "meta_description": "Get instant connectivity in Sri Lanka with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How does it differ from a traditional SIM card in Sri Lanka?",
+      "answer": "An eSIM (embedded SIM) is a digital SIM embedded in your device, allowing you to activate a cellular plan without needing a physical SIM card. Unlike traditional SIMs, which require manual insertion, eSIMs can be activated and switched between multiple plans directly through your device's settings. This flexibility makes eSIMs ideal for travelers in Sri Lanka, as you can easily switch to a local carrier without the hassle of changing physical cards."
+    },
+    {
+      "question": "What should I do if my eSIM doesn’t work after arriving in Sri Lanka?",
+      "answer": "If you encounter issues with your eSIM upon arrival, first check that it’s activated in your device settings and that you have a strong signal. Restart your device and ensure that you are in an area with network coverage. If problems persist, contact your eSIM provider’s customer support for assistance; they can help troubleshoot the issue or provide a new QR code if necessary."
+    },
+    {
+      "question": "Can I switch eSIM plans while in Sri Lanka?",
+      "answer": "Yes, one of the benefits of using an eSIM is the ability to switch between different carriers or plans easily. If you find that your current plan doesn’t meet your needs or if a better deal becomes available, you can simply purchase a new eSIM plan and activate it using the QR code provided. This flexibility is especially useful for travelers who may need different data capacities throughout their trip."
+    },
+    {
+      "question": "How can I monitor my data usage while using an eSIM in Sri Lanka?",
+      "answer": "Monitoring your data usage with an eSIM is straightforward. You can access this information through your device’s settings under the mobile data or cellular section. Additionally, many eSIM providers offer apps or online portals that allow you to track your data consumption in real time, helping you avoid overages and manage your usage effectively."
+    },
+    {
+      "question": "Is there customer support available for eSIM users in Sri Lanka?",
+      "answer": "Most eSIM providers, including Pirate Mobile, offer dedicated customer support for users in Sri Lanka. Whether you have questions about activation, plan selection, or troubleshooting, you can reach out to their support team via email, chat, or phone. Having access to reliable customer support can provide peace of mind during your travels, ensuring you can stay connected without hassle."
+    },
+    {
+      "question": "What happens if I delete my eSIM profile by mistake in Sri Lanka?",
+      "answer": "If you accidentally delete your eSIM profile, you can usually recover it by contacting your eSIM provider. They can provide you with a new QR code to reactivate your service. Be prepared to verify your identity and provide details about your initial purchase to facilitate the recovery process. Most providers have straightforward procedures in place to assist users in such situations."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sri Lanka eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/sri-lanka",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How does it differ from a traditional SIM card in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM (embedded SIM) is a digital SIM embedded in your device, allowing you to activate a cellular plan without needing a physical SIM card. Unlike traditional SIMs, which require manual insertion, eSIMs can be activated and switched between multiple plans directly through your device's settings. This flexibility makes eSIMs ideal for travelers in Sri Lanka, as you can easily switch to a local carrier without the hassle of changing physical cards."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if my eSIM doesn’t work after arriving in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you encounter issues with your eSIM upon arrival, first check that it’s activated in your device settings and that you have a strong signal. Restart your device and ensure that you are in an area with network coverage. If problems persist, contact your eSIM provider’s customer support for assistance; they can help troubleshoot the issue or provide a new QR code if necessary."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I switch eSIM plans while in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, one of the benefits of using an eSIM is the ability to switch between different carriers or plans easily. If you find that your current plan doesn’t meet your needs or if a better deal becomes available, you can simply purchase a new eSIM plan and activate it using the QR code provided. This flexibility is especially useful for travelers who may need different data capacities throughout their trip."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I monitor my data usage while using an eSIM in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Monitoring your data usage with an eSIM is straightforward. You can access this information through your device’s settings under the mobile data or cellular section. Additionally, many eSIM providers offer apps or online portals that allow you to track your data consumption in real time, helping you avoid overages and manage your usage effectively."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is there customer support available for eSIM users in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most eSIM providers, including Pirate Mobile, offer dedicated customer support for users in Sri Lanka. Whether you have questions about activation, plan selection, or troubleshooting, you can reach out to their support team via email, chat, or phone. Having access to reliable customer support can provide peace of mind during your travels, ensuring you can stay connected without hassle."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I delete my eSIM profile by mistake in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you accidentally delete your eSIM profile, you can usually recover it by contacting your eSIM provider. They can provide you with a new QR code to reactivate your service. Be prepared to verify your identity and provide details about your initial purchase to facilitate the recovery process. Most providers have straightforward procedures in place to assist users in such situations."
+      }
+    }]
+  }
+}

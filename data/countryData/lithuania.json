@@ -1,0 +1,102 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Lithuania",
+  "seo_meta_title": "Buy Lithuania eSIM – Starting at $4.99 | Best Prices",
+  "meta_description": "Get instant connectivity in Lithuania with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "Can I use the Lithuania eSIM for both data and calls?",
+      "answer": "Yes, depending on the plan you choose, Pirate Mobile's Lithuania eSIM can support both data and voice calls. However, some plans may be data-only, so be sure to check the specifics when purchasing."
+    },
+    {
+      "question": "How do I activate the Lithuania eSIM?",
+      "answer": "After purchasing, Pirate Mobile will send you a QR code. Simply scan the QR code on your eSIM-compatible device, and your Lithuania eSIM will be activated."
+    },
+    {
+      "question": "Can I use the Lithuania eSIM with my current phone number?",
+      "answer": "The Lithuania eSIM can coexist with your current SIM card, allowing you to use your primary phone number while also benefiting from local rates in Lithuania."
+    },
+    {
+      "question": "Is the Lithuania eSIM compatible with my device?",
+      "answer": "Lithuania eSIM works with most newer smartphones that support eSIM functionality, including models from Apple, Google, and Samsung. Check your device specifications to ensure compatibility."
+    },
+    {
+      "question": "How long does it take to activate the Lithuania eSIM?",
+      "answer": "Activation is almost instant. Once you receive and scan the QR code from Pirate Mobile, your eSIM should be ready for use within minutes."
+    },
+    {
+      "question": "Can I use the Lithuania eSIM outside of Lithuania?",
+      "answer": "The Lithuania eSIM is primarily for use within Lithuania. However, some plans may offer roaming options for nearby countries. Check your plan details for coverage options."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lithuania eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/lithuania",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I use the Lithuania eSIM for both data and calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, depending on the plan you choose, Pirate Mobile's Lithuania eSIM can support both data and voice calls. However, some plans may be data-only, so be sure to check the specifics when purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate the Lithuania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, Pirate Mobile will send you a QR code. Simply scan the QR code on your eSIM-compatible device, and your Lithuania eSIM will be activated."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Lithuania eSIM with my current phone number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Lithuania eSIM can coexist with your current SIM card, allowing you to use your primary phone number while also benefiting from local rates in Lithuania."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Lithuania eSIM compatible with my device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lithuania eSIM works with most newer smartphones that support eSIM functionality, including models from Apple, Google, and Samsung. Check your device specifications to ensure compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long does it take to activate the Lithuania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Activation is almost instant. Once you receive and scan the QR code from Pirate Mobile, your eSIM should be ready for use within minutes."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Lithuania eSIM outside of Lithuania?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Lithuania eSIM is primarily for use within Lithuania. However, some plans may offer roaming options for nearby countries. Check your plan details for coverage options."
+      }
+    }]
+  }
+}

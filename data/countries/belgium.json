@@ -1,0 +1,138 @@
+{
+  "id": "belgium",
+  "name": "Belgium",
+  "flag": "🇧🇪",
+  "description": "Get an eSIM for Belgium and enjoy reliable and affordable internet access on your trip.",
+  "heroImage": "/images/countries/belgium-hero.jpg",
+  "trustScore": 4.9,
+  "reviewsCount": 1250,
+  "deviceCompatibility": true,
+  "plans": {
+    "regular": [
+      {
+        "id": "belgium-1gb-7d",
+        "dataAmount": "1 GB",
+        "duration": "7 Days",
+        "price": "$4.49",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "1 GB",
+        "validity": "7 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-3gb-7d",
+        "dataAmount": "3 GB",
+        "duration": "7 Days",
+        "price": "$8.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "3 GB",
+        "validity": "7 days",
+        "popular": true
+      },
+      {
+        "id": "belgium-5gb-7d",
+        "dataAmount": "5 GB",
+        "duration": "7 Days",
+        "price": "$12.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "5 GB",
+        "validity": "7 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-10gb-7d",
+        "dataAmount": "10 GB",
+        "duration": "7 Days",
+        "price": "$19.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "10 GB",
+        "validity": "7 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-1gb-15d",
+        "dataAmount": "1 GB",
+        "duration": "15 Days",
+        "price": "$6.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "1 GB",
+        "validity": "15 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-3gb-15d",
+        "dataAmount": "3 GB",
+        "duration": "15 Days",
+        "price": "$11.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "3 GB",
+        "validity": "15 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-5gb-15d",
+        "dataAmount": "5 GB",
+        "duration": "15 Days",
+        "price": "$16.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "5 GB",
+        "validity": "15 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-10gb-15d",
+        "dataAmount": "10 GB",
+        "duration": "15 Days",
+        "price": "$24.99",
+        "type": "Data Only (4G/5G)",
+        "dataValue": "10 GB",
+        "validity": "15 days",
+        "popular": false
+      }
+    ],
+    "unlimited": [
+      {
+        "id": "belgium-unlimited-7d",
+        "dataAmount": "Unlimited",
+        "duration": "7 Days",
+        "price": "$29.99",
+        "type": "Unlimited Data (4G/5G)",
+        "dataValue": "Unlimited",
+        "validity": "7 days",
+        "popular": false
+      },
+      {
+        "id": "belgium-unlimited-15d",
+        "dataAmount": "Unlimited",
+        "duration": "15 Days",
+        "price": "$49.99",
+        "type": "Unlimited Data (4G/5G)",
+        "dataValue": "Unlimited",
+        "validity": "15 days",
+        "popular": true
+      },
+      {
+        "id": "belgium-unlimited-30d",
+        "dataAmount": "Unlimited",
+        "duration": "30 Days",
+        "price": "$79.99",
+        "type": "Unlimited Data (4G/5G)",
+        "dataValue": "Unlimited",
+        "validity": "30 days",
+        "popular": false
+      }
+    ]
+  },
+  "features": [
+    "Instant activation",
+    "No roaming charges",
+    "4G/5G coverage",
+    "Easy setup",
+    "24/7 support"
+  ],
+  "coverage": {
+    "cities": ["Brussels", "Antwerp", "Ghent", "Bruges", "Liège"],
+    "coverage": "99%",
+    "network": "Proximus, Orange, Telenet"
+  }
+}

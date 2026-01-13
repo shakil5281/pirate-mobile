@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Togo",
+  "seo_meta_title": "Get Your Togo eSIM Now – Starting at $39.99",
+  "meta_description": "Get instant connectivity in Togo with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I purchase Pirate Mobile’s Togo eSIM?",
+      "answer": "You can easily purchase Pirate Mobile’s Togo eSIM by visiting our website, choosing the Togo eSIM plan that suits your needs, and completing the payment. Once purchased, you will receive a QR code via email to activate the eSIM."
+    },
+    {
+      "question": "Can I keep my home SIM active while using Pirate Mobile’s Togo eSIM?",
+      "answer": "Yes, Pirate Mobile’s Togo eSIM allows dual-SIM functionality. This means you can use the eSIM for data in Togo while keeping your physical SIM card active for calls and texts from your home country."
+    },
+    {
+      "question": "What happens if I delete my Pirate Mobile Togo eSIM?",
+      "answer": "If you accidentally delete your Pirate Mobile Togo eSIM, simply reach out to our customer support team. We’ll help you reissue a new QR code so you can reactivate your eSIM and regain access to mobile data."
+    },
+    {
+      "question": "Is Pirate Mobile’s Togo eSIM reliable in rural areas?",
+      "answer": "Pirate Mobile’s Togo eSIM provides excellent coverage by partnering with top local networks. While coverage in rural areas might vary slightly, Pirate Mobile works to ensure you have consistent access to mobile data throughout the country."
+    },
+    {
+      "question": "Can I extend or top up my Pirate Mobile eSIM plan while in Togo?",
+      "answer": "Yes, if you need more data during your stay, you can easily top up or extend your Pirate Mobile Togo eSIM plan directly from our website. Simply log in to your account, choose the desired plan, and top up your data."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Togo eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/togo",
+      "priceCurrency": "USD",
+      "lowPrice": "39.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase Pirate Mobile’s Togo eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily purchase Pirate Mobile’s Togo eSIM by visiting our website, choosing the Togo eSIM plan that suits your needs, and completing the payment. Once purchased, you will receive a QR code via email to activate the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my home SIM active while using Pirate Mobile’s Togo eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s Togo eSIM allows dual-SIM functionality. This means you can use the eSIM for data in Togo while keeping your physical SIM card active for calls and texts from your home country."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I delete my Pirate Mobile Togo eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you accidentally delete your Pirate Mobile Togo eSIM, simply reach out to our customer support team. We’ll help you reissue a new QR code so you can reactivate your eSIM and regain access to mobile data."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is Pirate Mobile’s Togo eSIM reliable in rural areas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Togo eSIM provides excellent coverage by partnering with top local networks. While coverage in rural areas might vary slightly, Pirate Mobile works to ensure you have consistent access to mobile data throughout the country."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I extend or top up my Pirate Mobile eSIM plan while in Togo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you need more data during your stay, you can easily top up or extend your Pirate Mobile Togo eSIM plan directly from our website. Simply log in to your account, choose the desired plan, and top up your data."
+      }
+    }]
+  }
+}

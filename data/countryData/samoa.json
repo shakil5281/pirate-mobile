@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Samoa",
+  "seo_meta_title": "Get Samoa eSIM Now – Starting at $14.99",
+  "meta_description": "Get instant connectivity in Samoa with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How can I purchase a Samoa eSIM?",
+      "answer": "You can buy a Samoa eSIM through Pirate Mobile’s website. Simply select the Samoa eSIM option, choose a data plan that suits your travel needs, and complete the payment process. After purchase, you will receive a QR code via email to activate your eSIM upon arrival in Samoa."
+    },
+    {
+      "question": "Are there specific data plans available for Samoa?",
+      "answer": "Yes, Pirate Mobile offers various data plans tailored for Samoa, including options for daily, weekly, and monthly usage. Each plan provides different data limits to accommodate travelers, whether you’re a tourist or on a business trip. Be sure to review the plan details to select the one that best fits your needs."
+    },
+    {
+      "question": "Can I use my Samoa eSIM for calls and texts?",
+      "answer": "Yes, the Samoa eSIM supports voice calls and text messaging, depending on the data plan you choose. When connected to a local network, you can make and receive calls and send texts just like you would with a traditional SIM card, often at lower rates than roaming charges."
+    },
+    {
+      "question": "What devices are compatible with Samoa eSIM?",
+      "answer": "Most modern smartphones, including newer models from Apple, Google, and Samsung, support eSIM technology. To ensure compatibility, check your device specifications for eSIM capability. If you’re unsure, you can visit the manufacturer’s website or contact customer support for assistance."
+    },
+    {
+      "question": "What should I do if I experience connectivity issues with my eSIM in Samoa?",
+      "answer": "If you encounter connectivity issues, first ensure that your eSIM is activated correctly and that your device settings are configured for mobile data. Restart your device and check for any software updates. If problems persist, contact Pirate Mobile’s customer support for further assistance."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Samoa eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/samoa",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How can I purchase a Samoa eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can buy a Samoa eSIM through Pirate Mobile’s website. Simply select the Samoa eSIM option, choose a data plan that suits your travel needs, and complete the payment process. After purchase, you will receive a QR code via email to activate your eSIM upon arrival in Samoa."
+      }
+    },{
+      "@type": "Question",
+      "name": "Are there specific data plans available for Samoa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile offers various data plans tailored for Samoa, including options for daily, weekly, and monthly usage. Each plan provides different data limits to accommodate travelers, whether you’re a tourist or on a business trip. Be sure to review the plan details to select the one that best fits your needs."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Samoa eSIM for calls and texts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, the Samoa eSIM supports voice calls and text messaging, depending on the data plan you choose. When connected to a local network, you can make and receive calls and send texts just like you would with a traditional SIM card, often at lower rates than roaming charges."
+      }
+    },{
+      "@type": "Question",
+      "name": "What devices are compatible with Samoa eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones, including newer models from Apple, Google, and Samsung, support eSIM technology. To ensure compatibility, check your device specifications for eSIM capability. If you’re unsure, you can visit the manufacturer’s website or contact customer support for assistance."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I experience connectivity issues with my eSIM in Samoa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you encounter connectivity issues, first ensure that your eSIM is activated correctly and that your device settings are configured for mobile data. Restart your device and check for any software updates. If problems persist, contact Pirate Mobile’s customer support for further assistance."
+      }
+    }]
+  }
+}

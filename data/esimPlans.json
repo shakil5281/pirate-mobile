@@ -1,0 +1,84 @@
+[
+  {
+    "country": "United States",
+    "flag": "us",
+    "pathName": "united-states",
+    "image": "/images/country/us.png",
+    "plans": {
+      "regular": [
+        {
+          "label": "1 GB",
+          "validity": "7 Days",
+          "price": 2.99,
+          "oldPrice": 5.00,
+          "pathName": "1gb-7days"
+        },
+        {
+          "label": "3 GB",
+          "validity": "15 Days",
+          "price": 6.99,
+          "oldPrice": 10.00,
+          "mostPopular": true,
+          "pathName": "3gb-15days"
+        },
+        {
+          "label": "1 GB",
+          "validity": "7 Days",
+          "price": 2.99,
+          "oldPrice": 5.00,
+          "pathName": "1gb-7days"
+        },
+        {
+          "label": "1 GB",
+          "validity": "7 Days",
+          "price": 2.99,
+          "oldPrice": 5.00,
+          "pathName": "1gb-7days"
+        }
+      ],
+      "unlimited": [
+        {
+          "label": "Unlimited",
+          "validity": "3 Days",
+          "price": 9.99,
+          "oldPrice": 15.00,
+          "pathName": "unlimited-3days"
+        }
+      ]
+    }
+  },
+  {
+    "country": "India",
+    "flag": "in",
+    "pathName": "india",
+    "image": "/images/country/us.png",
+    "plans": {
+      "regular": [
+        {
+          "label": "1 GB",
+          "validity": "7 Days",
+          "price": 0.99,
+          "oldPrice": 2.00,
+          "pathName": "1gb-7days"
+        },
+        {
+          "label": "5 GB",
+          "validity": "15 Days",
+          "price": 4.99,
+          "oldPrice": 8.00,
+          "pathName": "5gb-15days"
+        }
+      ],
+      "unlimited": [
+        {
+          "label": "Unlimited",
+          "validity": "5 Days",
+          "price": 6.99,
+          "oldPrice": 10.00,
+          "mostPopular": true,
+          "pathName": "unlimited-5days"
+        }
+      ]
+    }
+  }
+]

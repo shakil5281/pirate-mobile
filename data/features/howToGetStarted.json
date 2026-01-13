@@ -1,0 +1,24 @@
+{
+  "title": "How to Get Started",
+  "subtitle": "with eSIM in 3 Simple Steps",
+  "steps": [
+    {
+      "id": 1,
+      "title": "Choose Your Destination",
+      "description": "Select your destination and get the best eSIM plan—fast, reliable internet with no roaming fees.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/countries_ncbFytBA-?updatedAt=1760402914678"
+    },
+    {
+      "id": 2,
+      "title": "Choose a Data Plan",
+      "description": "Browse our local, regional, or global eSIM plans. Pick the one that fits your travel destination and data needs.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Frame%202608694.svg?updatedAt=1760402136696"
+    },
+    {
+      "id": 3,
+      "title": "Scan the QR Code",
+      "description": "After purchase, you'll receive a QR code instantly. Just scan it with your phone's camera to install your eSIM profile.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/Download-app/Frame6.svg?updatedAt=1760402370983"
+    }
+  ]
+}

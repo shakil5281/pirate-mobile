@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Madagascar",
+  "seo_meta_title": "Buy Madagascar eSIM – Starting at $14.99 | Pirate Mobile",
+  "meta_description": "Looking for a hassle-free way to stay connected in Madagascar? Pirate Mobile’s eSIM offers flexible data plans and instant activation. No physical SIM needed!",
+  "faqs": [
+    {
+      "question": "Can I use the Madagascar eSIM for data, calls, and texts?",
+      "answer": "Yes, Pirate Mobile's Madagascar eSIM provides data services. For calls and texts, it depends on the specific plan you choose. Check the plan details for voice and SMS options."
+    },
+    {
+      "question": "Is my device compatible with the Madagascar eSIM?",
+      "answer": "Most newer smartphones, such as the latest iPhone, Samsung Galaxy, and Google Pixel models, support eSIM technology. Please check your device’s specifications to ensure eSIM compatibility."
+    },
+    {
+      "question": "How do I activate the Madagascar eSIM on my phone?",
+      "answer": "After purchasing, you'll receive a QR code via email. Simply scan the code in your phone's mobile settings, and the eSIM profile will be installed and activated."
+    },
+    {
+      "question": "Can I use the Madagascar eSIM with my existing number?",
+      "answer": "The Madagascar eSIM is primarily for data usage, but some plans may offer a temporary local number. You can still keep your original number active on your primary SIM card."
+    },
+    {
+      "question": "How long does the Madagascar eSIM plan last?",
+      "answer": "The duration of the Madagascar eSIM plan depends on the package you select. Options range from a few days to several weeks, based on your travel needs."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Madagascar eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/madagascar",
+      "priceCurrency": "USD",
+      "lowPrice": "14.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I use the Madagascar eSIM for data, calls, and texts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile's Madagascar eSIM provides data services. For calls and texts, it depends on the specific plan you choose. Check the plan details for voice and SMS options."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with the Madagascar eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most newer smartphones, such as the latest iPhone, Samsung Galaxy, and Google Pixel models, support eSIM technology. Please check your device’s specifications to ensure eSIM compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate the Madagascar eSIM on my phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, you'll receive a QR code via email. Simply scan the code in your phone's mobile settings, and the eSIM profile will be installed and activated."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Madagascar eSIM with my existing number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Madagascar eSIM is primarily for data usage, but some plans may offer a temporary local number. You can still keep your original number active on your primary SIM card."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long does the Madagascar eSIM plan last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of the Madagascar eSIM plan depends on the package you select. Options range from a few days to several weeks, based on your travel needs."
+      }
+    }]
+  }
+}

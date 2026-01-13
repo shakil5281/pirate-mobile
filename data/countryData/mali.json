@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Mali",
+  "seo_meta_title": "Get Your Mali eSIM – Starting at $19.99",
+  "meta_description": "Get connected instantly in Mali with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "What are the benefits of using a Mali eSIM over a physical SIM card?",
+      "answer": "eSIMs offer easier activation, the ability to switch carriers without needing a new SIM, and more convenience when traveling."
+    },
+    {
+      "question": "Are there any specific data plans available for Mali?",
+      "answer": "Yes, Pirate Mobile offers various data plans tailored to travelers in Mali, including short-term and long-term options."
+    },
+    {
+      "question": "How do I manage my data usage on the Mali eSIM?",
+      "answer": "You can monitor your data usage through your phone’s settings or the Pirate Mobile app, allowing you to stay within your plan limits."
+    },
+    {
+      "question": "Is customer support available if I face issues with my Mali eSIM?",
+      "answer": "Yes, Pirate Mobile provides 24/7 customer support to assist with any issues or questions regarding your eSIM."
+    },
+    {
+      "question": "Can I switch between multiple eSIM profiles on my device while in Mali?",
+      "answer": "Yes, if your device supports multiple eSIM profiles, you can switch between them easily in your device settings."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Mali eSIM ",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/mali",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What are the benefits of using a Mali eSIM over a physical SIM card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "eSIMs offer easier activation, the ability to switch carriers without needing a new SIM, and more convenience when traveling."
+      }
+    },{
+      "@type": "Question",
+      "name": "Are there any specific data plans available for Mali?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile offers various data plans tailored to travelers in Mali, including short-term and long-term options."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I manage my data usage on the Mali eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can monitor your data usage through your phone’s settings or the Pirate Mobile app, allowing you to stay within your plan limits."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is customer support available if I face issues with my Mali eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile provides 24/7 customer support to assist with any issues or questions regarding your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I switch between multiple eSIM profiles on my device while in Mali?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if your device supports multiple eSIM profiles, you can switch between them easily in your device settings."
+      }
+    }]
+  }
+}

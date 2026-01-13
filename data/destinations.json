@@ -1,0 +1,345 @@
+[
+  {
+    "flag": "us",
+    "name": "United States",
+    "price": 2.50,
+    "pathName": "united-states",
+    "category": "popular"
+  },
+  {
+    "flag": "gb",
+    "name": "United Kingdom",
+    "price": 2.50,
+    "pathName": "united-kingdom",
+    "category": "popular"
+  },
+  {
+    "flag": "ca",
+    "name": "Canada",
+    "price": 4.20,
+    "pathName": "canada",
+    "category": "regional"
+  },
+  {
+    "flag": "in",
+    "name": "India",
+    "price": 1.00,
+    "pathName": "india",
+    "category": "popular"
+  },
+  {
+    "flag": "de",
+    "name": "Germany",
+    "price": 3.00,
+    "pathName": "germany",
+    "category": "regional"
+  },
+  {
+    "flag": "tr",
+    "name": "Turkey",
+    "price": 2.00,
+    "pathName": "turkey",
+    "category": "popular"
+  },
+  {
+    "flag": "au",
+    "name": "Australia",
+    "price": 3.00,
+    "pathName": "australia",
+    "category": "popular"
+  },
+  {
+    "flag": "sa",
+    "name": "Saudi Arabia",
+    "price": 2.00,
+    "pathName": "saudi-arabia",
+    "category": "regional"
+  },
+  {
+    "flag": "fr",
+    "name": "France",
+    "price": 3.10,
+    "pathName": "france",
+    "category": "popular"
+  },
+  {
+    "flag": "es",
+    "name": "Spain",
+    "price": 3.00,
+    "pathName": "spain",
+    "category": "regional"
+  },
+  {
+    "flag": "jp",
+    "name": "Japan",
+    "price": 4.00,
+    "pathName": "japan",
+    "category": "popular"
+  },
+  {
+    "flag": "cn",
+    "name": "China",
+    "price": 2.80,
+    "pathName": "china",
+    "category": "local"
+  },
+  {
+    "flag": "br",
+    "name": "Brazil",
+    "price": 3.30,
+    "pathName": "brazil",
+    "category": "popular"
+  },
+  {
+    "flag": "mx",
+    "name": "Mexico",
+    "price": 2.50,
+    "pathName": "mexico",
+    "category": "popular"
+  },
+  {
+    "flag": "it",
+    "name": "Italy",
+    "price": 3.20,
+    "pathName": "italy",
+    "category": "local"
+  },
+  {
+    "flag": "kr",
+    "name": "South Korea",
+    "price": 4.10,
+    "pathName": "south-korea",
+    "category": "popular"
+  },
+  {
+    "flag": "ng",
+    "name": "Nigeria",
+    "price": 2.00,
+    "pathName": "nigeria",
+    "category": "popular"
+  },
+  {
+    "flag": "za",
+    "name": "South Africa",
+    "price": 2.70,
+    "pathName": "south-africa",
+    "category": "popular"
+  },
+  {
+    "flag": "bd",
+    "name": "Bangladesh",
+    "price": 1.50,
+    "pathName": "bangladesh",
+    "category": "local"
+  },
+  {
+    "flag": "pk",
+    "name": "Pakistan",
+    "price": 1.60,
+    "pathName": "pakistan",
+    "category": "popular"
+  },
+  {
+    "flag": "ae",
+    "name": "UAE",
+    "price": 2.10,
+    "pathName": "uae",
+    "category": "popular"
+  },
+  {
+    "flag": "sg",
+    "name": "Singapore",
+    "price": 3.00,
+    "pathName": "singapore",
+    "category": "popular"
+  },
+  {
+    "flag": "hk",
+    "name": "Hong Kong",
+    "price": 3.20,
+    "pathName": "hong-kong",
+    "category": "local"
+  },
+  {
+    "flag": "th",
+    "name": "Thailand",
+    "price": 2.60,
+    "pathName": "thailand",
+    "category": "popular"
+  },
+  {
+    "flag": "ru",
+    "name": "Russia",
+    "price": 3.50,
+    "pathName": "russia",
+    "category": "popular"
+  },
+  {
+    "flag": "ir",
+    "name": "Iran",
+    "price": 2.20,
+    "pathName": "iran",
+    "category": "popular"
+  },
+  {
+    "flag": "eg",
+    "name": "Egypt",
+    "price": 2.40,
+    "pathName": "egypt",
+    "category": "popular"
+  },
+  {
+    "flag": "ar",
+    "name": "Argentina",
+    "price": 3.30,
+    "pathName": "argentina",
+    "category": "popular"
+  },
+  {
+    "flag": "ph",
+    "name": "Philippines",
+    "price": 2.90,
+    "pathName": "philippines",
+    "category": "popular"
+  },
+  {
+    "flag": "id",
+    "name": "Indonesia",
+    "price": 2.80,
+    "pathName": "indonesia",
+    "category": "popular"
+  },
+  {
+    "flag": "vn",
+    "name": "Vietnam",
+    "price": 2.70,
+    "pathName": "vietnam",
+    "category": "popular"
+  },
+  {
+    "flag": "pl",
+    "name": "Poland",
+    "price": 2.90,
+    "pathName": "poland",
+    "category": "popular"
+  },
+  {
+    "flag": "nl",
+    "name": "Netherlands",
+    "price": 3.10,
+    "pathName": "netherlands",
+    "category": "popular"
+  },
+  {
+    "flag": "ch",
+    "name": "Switzerland",
+    "price": 3.30,
+    "pathName": "switzerland",
+    "category": "popular"
+  },
+  {
+    "flag": "be",
+    "name": "Belgium",
+    "price": 3.00,
+    "pathName": "belgium",
+    "category": "popular"
+  },
+  {
+    "flag": "se",
+    "name": "Sweden",
+    "price": 3.20,
+    "pathName": "sweden",
+    "category": "popular"
+  },
+  {
+    "flag": "no",
+    "name": "Norway",
+    "price": 3.40,
+    "pathName": "norway",
+    "category": "popular"
+  },
+  {
+    "flag": "fi",
+    "name": "Finland",
+    "price": 3.00,
+    "pathName": "finland",
+    "category": "popular"
+  },
+  {
+    "flag": "dk",
+    "name": "Denmark",
+    "price": 3.10,
+    "pathName": "denmark",
+    "category": "popular"
+  },
+  {
+    "flag": "ie",
+    "name": "Ireland",
+    "price": 3.00,
+    "pathName": "ireland",
+    "category": "popular"
+  },
+  {
+    "flag": "my",
+    "name": "Malaysia",
+    "price": 2.50,
+    "pathName": "malaysia",
+    "category": "popular"
+  },
+  {
+    "flag": "ke",
+    "name": "Kenya",
+    "price": 2.20,
+    "pathName": "kenya",
+    "category": "popular"
+  },
+  {
+    "flag": "gh",
+    "name": "Ghana",
+    "price": 2.10,
+    "pathName": "ghana",
+    "category": "popular"
+  },
+  {
+    "flag": "ua",
+    "name": "Ukraine",
+    "price": 2.90,
+    "pathName": "ukraine",
+    "category": "popular"
+  },
+  {
+    "flag": "cl",
+    "name": "Chile",
+    "price": 3.10,
+    "pathName": "chile",
+    "category": "popular"
+  },
+  {
+    "flag": "co",
+    "name": "Colombia",
+    "price": 3.00,
+    "pathName": "colombia",
+    "category": "popular"
+  },
+  {
+    "flag": "nz",
+    "name": "New Zealand",
+    "price": 3.20,
+    "pathName": "new-zealand",
+    "category": "popular"
+  },
+  {
+    "flag": "cz",
+    "name": "Czech Republic",
+    "price": 3.00,
+    "pathName": "czech-republic",
+    "category": "popular"
+  },
+  {
+    "flag": "at",
+    "name": "Austria",
+    "price": 3.10,
+    "pathName": "austria",
+    "category": "popular"
+  }
+]

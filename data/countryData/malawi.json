@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Malawi",
+  "seo_meta_title": "Get Your Malawi eSIM – Starting at $19.99",
+  "meta_description": "Activate your Malawi eSIM from Pirate Mobile for fast, affordable data during your trip. Simple setup, no physical SIM needed, and full mobile connectivity.",
+  "faqs": [
+    {
+      "question": "Can I keep my physical SIM while using the Malawi eSIM?",
+      "answer": "Yes, you can use the eSIM while keeping your physical SIM in your phone. This allows you to have dual SIM functionality, making it easy to switch between networks."
+    },
+    {
+      "question": "What happens if I delete my Malawi eSIM?",
+      "answer": "If you accidentally delete your Malawi eSIM, contact Pirate Mobile for assistance. Depending on the situation, you may be able to recover or replace the eSIM."
+    },
+    {
+      "question": "Can I use the Malawi eSIM for both data and voice calls?",
+      "answer": "Our Malawi eSIM primarily supports data services, but some plans may include voice and SMS options. Check the specific details of your plan when purchasing."
+    },
+    {
+      "question": "How do I top up my Malawi eSIM data plan?",
+      "answer": "You can easily top up your data plan via the Pirate Mobile website. Choose the desired data package, and the additional data will be added to your eSIM."
+    },
+    {
+      "question": "Can I use the Malawi eSIM outside of Malawi?",
+      "answer": "Pirate Mobile’s Malawi eSIM is designed for use within Malawi. If you plan to travel to other countries, you may need a different eSIM plan tailored to that location."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Malawi eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/malawi",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I keep my physical SIM while using the Malawi eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use the eSIM while keeping your physical SIM in your phone. This allows you to have dual SIM functionality, making it easy to switch between networks."
+      }
+    },{
+      "@type": "Question",
+      "name": "What happens if I delete my Malawi eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you accidentally delete your Malawi eSIM, contact Pirate Mobile for assistance. Depending on the situation, you may be able to recover or replace the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Malawi eSIM for both data and voice calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Malawi eSIM primarily supports data services, but some plans may include voice and SMS options. Check the specific details of your plan when purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I top up my Malawi eSIM data plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily top up your data plan via the Pirate Mobile website. Choose the desired data package, and the additional data will be added to your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Malawi eSIM outside of Malawi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Malawi eSIM is designed for use within Malawi. If you plan to travel to other countries, you may need a different eSIM plan tailored to that location."
+      }
+    }]
+  }
+}

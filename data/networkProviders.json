@@ -1,0 +1,79 @@
+{
+  "belgium": {
+    "providers": [
+      {
+        "name": "Proximus",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Proximus_logo.svg",
+        "bgColor": "bg-purple-600"
+      },
+      {
+        "name": "Base",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Base_logo_2022.svg",
+        "bgColor": "bg-yellow-500"
+      },
+      {
+        "name": "Orange Belgium",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Orange_logo.svg",
+        "bgColor": "bg-orange-500"
+      }
+    ]
+  },
+  "united-states": {
+    "providers": [
+      {
+        "name": "Verizon",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Verizon_Logo_2000_to_2015.svg",
+        "bgColor": "bg-red-600"
+      },
+      {
+        "name": "AT&T",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/AT%26T_logo_2016.svg",
+        "bgColor": "bg-blue-600"
+      },
+      {
+        "name": "T-Mobile",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Deutsche_Telekom_2022.svg",
+        "bgColor": "bg-pink-500"
+      }
+    ]
+  },
+  "saudi-arabia": {
+    "providers": [
+      {
+        "name": "STC",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/Saudi_Telecom_Company_logo.svg",
+        "bgColor": "bg-purple-600"
+      },
+      {
+        "name": "Mobily",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/44/Mobily_logo.svg",
+        "bgColor": "bg-green-600"
+      },
+      {
+        "name": "Zain",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Zain_logo.svg",
+        "bgColor": "bg-blue-600"
+      }
+    ]
+  },
+  "default": {
+    "providers": [
+      {
+        "name": "Network 1",
+        "logo": null,
+        "bgColor": "bg-purple-600"
+      },
+      {
+        "name": "Network 2",
+        "logo": null,
+        "bgColor": "bg-yellow-500"
+      },
+      {
+        "name": "Network 3",
+        "logo": null,
+        "bgColor": "bg-orange-500"
+      }
+    ]
+  }
+}
+

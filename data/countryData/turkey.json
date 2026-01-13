@@ -1,0 +1,79 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Turkey eSIM Services",
+  "seo_meta_title": "Buy Turkey eSIM Now - From $3.99 | Pirate Mobile",
+  "meta_description": "Stay connected in Turkey with Pirate Mobile's eSIM. Easy activation, instant setup, and reliable service for your travels.",
+  "faqs": [
+    {
+      "question": "What benefits does Pirate Mobile’s Turkey eSIM offer?",
+      "answer": "Pirate Mobile’s Turkey eSIM provides hassle-free activation, competitive data plans, and reliable connectivity throughout Turkey, making it perfect for both travelers and locals."
+    },
+    {
+      "question": "How do I buy a Turkey eSIM from Pirate Mobile?",
+      "answer": "Go to our website, select the Turkey eSIM plan that suits you, and complete the purchase. You’ll receive a QR code by email for quick activation."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s Turkey eSIM on any device?",
+      "answer": "The Turkey eSIM is compatible with most eSIM-enabled devices. Ensure your device supports eSIM before purchasing."
+    },
+    {
+      "question": "How do I activate my Turkey eSIM once I receive it?",
+      "answer": "Scan the QR code sent to your email, follow the setup instructions on your device, and your Turkey eSIM will be activated and ready to use."
+    },
+    {
+      "question": "What if I encounter issues with my Turkey eSIM?",
+      "answer": "If you face any problems, refer to our troubleshooting guide or contact Pirate Mobile’s customer support for immediate assistance."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Turkey eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/turkey",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Q1: What benefits does Pirate Mobile’s Turkey eSIM offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A1: Pirate Mobile’s Turkey eSIM provides hassle-free activation, competitive data plans, and reliable connectivity throughout Turkey, making it perfect for both travelers and locals."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I buy a Turkey eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Go to our website, select the Turkey eSIM plan that suits you, and complete the purchase. You’ll receive a QR code by email for quick activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use Pirate Mobile’s Turkey eSIM on any device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Turkey eSIM is compatible with most eSIM-enabled devices. Ensure your device supports eSIM before purchasing."
+      }
+    }]
+  }
+
+
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Greece eSIM",
+  "seo_meta_title": "Greece eSIM Deals – Starting at $3.99 | Pirate Mobile",
+  "meta_description": "Get your Greece eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is a Greece eSIM, and why should I use it?",
+      "answer": "A Greece eSIM is a digital SIM card that allows you to connect to mobile networks in Greece without the need for a physical SIM card. It offers convenience, instant activation, and seamless connectivity throughout your stay."
+    },
+    {
+      "question": "How do I purchase and activate a Greece eSIM from Pirate Mobile?",
+      "answer": "To purchase a Greece eSIM, visit our website, choose your desired plan, and complete your purchase. You will receive an eSIM QR code via email. Scan this code using your device’s settings to activate the eSIM."
+    },
+    {
+      "question": "Can I use the Greece eSIM on multiple devices?",
+      "answer": "The eSIM is typically linked to a single device. If you need to use it on another device, you may need to reconfigure it or purchase a new eSIM, depending on your device’s compatibility and settings."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Greece eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/greece",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is a Greece eSIM, and why should I use it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Greece eSIM is a digital SIM card that allows you to connect to mobile networks in Greece without the need for a physical SIM card. It offers convenience, instant activation, and seamless connectivity throughout your stay."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I purchase and activate a Greece eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To purchase a Greece eSIM, visit our website, choose your desired plan, and complete your purchase. You will receive an eSIM QR code via email. Scan this code using your device’s settings to activate the eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Greece eSIM on multiple devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The eSIM is typically linked to a single device. If you need to use it on another device, you may need to reconfigure it or purchase a new eSIM, depending on your device’s compatibility and settings."
+      }
+    }]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Cyprus eSIM",
+  "seo_meta_title": "Cyprus eSIM Deals – Starting at $3.99 | Pirate Mobile",
+  "meta_description": "Get your Cyprus eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What are the advantages of using a Pirate Mobile Cyprus eSIM for my trip?",
+      "answer": "Pirate Mobile’s Cyprus eSIM offers instant activation, no need for physical SIM cards, and access to top local networks. Enjoy seamless connectivity from the moment you arrive."
+    },
+    {
+      "question": "How quickly can I activate my Cyprus eSIM after purchase?",
+      "answer": "Once you purchase your Cyprus eSIM, you’ll receive an activation QR code via email. You can activate it instantly by scanning the code on your eSIM-compatible device."
+    },
+    {
+      "question": "Will Pirate Mobile’s Cyprus eSIM work with my phone?",
+      "answer": "Most modern devices support eSIM. Check your device’s settings or our compatibility guide on the website to confirm your phone is eSIM-compatible."
+    },
+    {
+      "question": "Can I use Pirate Mobile’s Cyprus eSIM for both data and calls?",
+      "answer": "Pirate Mobile’s Cyprus eSIM offers data services primarily. For voice calls, we recommend using VoIP services like WhatsApp or Skype."
+    },
+    {
+      "question": "Is there a limit on data usage with the Cyprus eSIM?",
+      "answer": "Your data limit depends on the plan you choose. Review the details of each plan to select the one that meets your travel needs, and top up as needed."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cyprus eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/cyprus",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What are the advantages of using a Pirate Mobile Cyprus eSIM for my trip?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile’s Cyprus eSIM offers instant activation, no need for physical SIM cards, and access to top local networks. Enjoy seamless connectivity from the moment you arrive."
+      }
+    },{
+      "@type": "Question",
+      "name": "How quickly can I activate my Cyprus eSIM after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you purchase your Cyprus eSIM, you’ll receive an activation QR code via email. You can activate it instantly by scanning the code on your eSIM-compatible device."
+      }
+    },{
+      "@type": "Question",
+      "name": "Will Pirate Mobile’s Cyprus eSIM work with my phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern devices support eSIM. Check your device’s settings or our compatibility guide on the website to confirm your phone is eSIM-compatible."
+      }
+    }]
+  }
+
+}

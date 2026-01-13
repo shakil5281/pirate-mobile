@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Ireland",
+  "seo_meta_title": "Ireland eSIM Deals – Starting at $4.99 | Best Prices",
+  "meta_description": "Get your Ireland eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "What is an eSIM and how does it work in Ireland?",
+      "answer": "An eSIM is a digital SIM card embedded in your device, allowing you to connect to mobile networks without needing a physical SIM card. In Ireland, Pirate Mobile’s eSIM provides you with instant access to local networks upon activation."
+    },
+    {
+      "question": "How can I purchase an eSIM for Ireland from Pirate Mobile?",
+      "answer": "Purchase your Ireland eSIM directly from our website. Select your desired plan, complete the payment, and receive an activation QR code via email. Follow the instructions to set up your eSIM."
+    },
+    {
+      "question": "Is my device compatible with Pirate Mobile’s Ireland eSIM?",
+      "answer": "Most modern smartphones and tablets that support eSIM technology are compatible. Check your device’s specifications or our compatibility list to confirm."
+    },
+    {
+      "question": "How do I activate my Ireland eSIM?",
+      "answer": "After receiving your eSIM QR code, open your device’s settings, scan the QR code, and follow the on-screen instructions to activate your eSIM. It’s a quick and simple process."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Ireland eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/ireland",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is an eSIM and how does it work in Ireland?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An eSIM is a digital SIM card embedded in your device, allowing you to connect to mobile networks without needing a physical SIM card. In Ireland, Pirate Mobile’s eSIM provides you with instant access to local networks upon activation."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I purchase an eSIM for Ireland from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Purchase your Ireland eSIM directly from our website. Select your desired plan, complete the payment, and receive an activation QR code via email. Follow the instructions to set up your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my device compatible with Pirate Mobile’s Ireland eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones and tablets that support eSIM technology are compatible. Check your device’s specifications or our compatibility list to confirm."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Ireland eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After receiving your eSIM QR code, open your device’s settings, scan the QR code, and follow the on-screen instructions to activate your eSIM. It’s a quick and simple process."
+      }
+    }]
+  }
+}

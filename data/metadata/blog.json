@@ -1,0 +1,25 @@
+{
+    "title": "Blog – Insights & Updates | Pirate Mobile",
+    "seo_meta_title": "Pirate Mobile Blog | eSIM News, Tips & Company Updates",
+    "meta_description": "Read the latest news, eSIM travel tips, and company updates from Pirate Mobile.",
+    "openGraph": {
+      "title": "Pirate Mobile Blog | eSIM News, Tips & Company Updates",
+      "description": "Read the latest news, eSIM travel tips, and company updates from Pirate Mobile.",
+      "images": ["/og/blog-cover.jpg"],
+      "url": "https://www.piratemobile.gg/blog"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Pirate Mobile Blog | eSIM News, Tips & Company Updates",
+      "description": "Read the latest news, eSIM travel tips, and company updates from Pirate Mobile.",
+      "images": ["/og/blog-cover.jpg"]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Blog",
+      "name": "Pirate Mobile Blog",
+      "url": "https://www.piratemobile.gg/blog",
+      "description": "Read the latest news, eSIM travel tips, and company updates from Pirate Mobile."
+    }
+  }
+  

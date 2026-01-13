@@ -1,0 +1,95 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Kyrgyzstan",
+  "seo_meta_title": "Buy Kyrgyzstan eSIM – Starting at $19.99 | Best Prices",
+  "meta_description": "Get instant connectivity in Kyrgyzstan with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "Can I use the Kyrgyzstan eSIM with any phone?",
+      "answer": "The Kyrgyzstan eSIM can be used with eSIM-compatible devices such as the latest iPhones, Google Pixel phones, and some Samsung models. Check your phone’s settings to confirm eSIM support."
+    },
+    {
+      "question": "How do I activate my Kyrgyzstan eSIM with Pirate Mobile?",
+      "answer": "Once you purchase the Kyrgyzstan eSIM from Pirate Mobile, you will receive a QR code. Scan it in your phone’s eSIM settings to instantly activate the service."
+    },
+    {
+      "question": "Can I use data and make calls with the Kyrgyzstan eSIM?",
+      "answer": "Yes, Pirate Mobile’s Kyrgyzstan eSIM allows you to use mobile data, send SMS, and make voice calls, depending on the plan you choose."
+    },
+    {
+      "question": "Is the Kyrgyzstan eSIM reusable for future trips?",
+      "answer": "eSIMs are typically single-use and expire once the plan ends. For future trips to Kyrgyzstan, you’ll need to purchase a new eSIM plan from Pirate Mobile."
+    },
+    {
+      "question": "Can I keep my regular SIM while using the Kyrgyzstan eSIM?",
+      "answer": "Yes, you can keep your physical SIM card and switch between it and the eSIM when needed. This is especially helpful for managing both your home and Kyrgyzstan mobile services."
+    },
+    {
+      "question": "What should I do if I accidentally delete my Kyrgyzstan eSIM?",
+      "answer": "Contact Pirate Mobile’s customer support. In many cases, we can help you reinstall the eSIM profile, or we’ll issue a replacement if necessary."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Kyrgyzstan eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/kyrgyzstan",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Can I use the Kyrgyzstan eSIM with any phone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Kyrgyzstan eSIM can be used with eSIM-compatible devices such as the latest iPhones, Google Pixel phones, and some Samsung models. Check your phone’s settings to confirm eSIM support."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Kyrgyzstan eSIM with Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you purchase the Kyrgyzstan eSIM from Pirate Mobile, you will receive a QR code. Scan it in your phone’s eSIM settings to instantly activate the service."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use data and make calls with the Kyrgyzstan eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile’s Kyrgyzstan eSIM allows you to use mobile data, send SMS, and make voice calls, depending on the plan you choose."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is the Kyrgyzstan eSIM reusable for future trips?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "eSIMs are typically single-use and expire once the plan ends. For future trips to Kyrgyzstan, you’ll need to purchase a new eSIM plan from Pirate Mobile."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I keep my regular SIM while using the Kyrgyzstan eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can keep your physical SIM card and switch between it and the eSIM when needed. This is especially helpful for managing both your home and Kyrgyzstan mobile services."
+      }
+    }]
+  }
+}

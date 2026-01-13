@@ -1,0 +1,80 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Martinique",
+  "seo_meta_title": "Get Your Martinique eSIM – Starting at $9.99",
+  "meta_description": "Get connected instantly in Martinique with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "What is a Martinique eSIM?",
+      "answer": "A Martinique eSIM is a digital SIM card that allows you to connect to local mobile networks without needing a physical SIM card, offering convenience for travelers."
+    },
+    {
+      "question": "How do I activate my Martinique eSIM?",
+      "answer": "After purchasing, you'll receive a QR code via email. Simply scan this code in your device’s settings to activate your eSIM."
+    },
+    {
+      "question": "Is my phone compatible with a Martinique eSIM?",
+      "answer": "Most recent smartphones, including the latest models of iPhone and Android, support eSIM. Check your device’s compatibility on our website."
+    },
+    {
+      "question": "Can I use a Martinique eSIM for both data and calls?",
+      "answer": "Yes, you can use the Martinique eSIM for data services, and some plans may include voice and SMS options. Check your selected plan for details."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Martinique eSIM  ",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/martinique",
+      "priceCurrency": "USD",
+      "lowPrice": "9.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "What is a Martinique eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Martinique eSIM is a digital SIM card that allows you to connect to local mobile networks without needing a physical SIM card, offering convenience for travelers."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Martinique eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, you'll receive a QR code via email. Simply scan this code in your device’s settings to activate your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my phone compatible with a Martinique eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most recent smartphones, including the latest models of iPhone and Android, support eSIM. Check your device’s compatibility on our website."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use a Martinique eSIM for both data and calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use the Martinique eSIM for data services, and some plans may include voice and SMS options. Check your selected plan for details."
+      }
+    }]
+  }
+}

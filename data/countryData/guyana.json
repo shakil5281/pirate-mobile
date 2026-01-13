@@ -1,0 +1,81 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Guyana eSIM",
+  "seo_meta_title": "Guyana eSIM Deals – Starting at $14.99 | Best Prices",
+  "meta_description": "Get your Guyana eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "How quickly can I activate my Pirate Mobile Guyana eSIM?",
+      "answer": "Activation is instant! After purchasing the eSIM, you will receive a QR code that you can scan to activate your service immediately."
+    },
+    {
+      "question": "Can I purchase the Pirate Mobile Guyana eSIM before arriving in the country?",
+      "answer": "Yes, you can buy and activate the Guyana eSIM from anywhere in the world before you arrive, ensuring you have connectivity as soon as you land."
+    },
+    {
+      "question": "Do I need a local phone number to use the Guyana eSIM?",
+      "answer": "No local phone number is needed. Pirate Mobile’s eSIM provides data connectivity without the hassle of getting a local SIM."
+    },
+    {
+      "question": "How much data can I get with the Guyana eSIM?",
+      "answer": "Pirate Mobile offers flexible data plans to meet your needs. You can choose from different data packages depending on how much you plan to use during your stay in Guyana."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guyana eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/guyana",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema":{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How quickly can I activate my Pirate Mobile Guyana eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Activation is instant! After purchasing the eSIM, you will receive a QR code that you can scan to activate your service immediately."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I purchase the Pirate Mobile Guyana eSIM before arriving in the country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can buy and activate the Guyana eSIM from anywhere in the world before you arrive, ensuring you have connectivity as soon as you land."
+      }
+    },{
+      "@type": "Question",
+      "name": "Do I need a local phone number to use the Guyana eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No local phone number is needed. Pirate Mobile’s eSIM provides data connectivity without the hassle of getting a local SIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "How much data can I get with the Guyana eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile offers flexible data plans to meet your needs. You can choose from different data packages depending on how much you plan to use during your stay in Guyana."
+      }
+    }]
+  }
+
+}

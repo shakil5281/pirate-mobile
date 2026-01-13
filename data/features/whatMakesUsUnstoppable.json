@@ -1,0 +1,31 @@
+{
+  "title": "What Makes Pirate Mobile Unstoppable",
+  "subtitle": "From instant eSIM activation to global coverage and zero roaming fees — Pirate Mobile delivers powerful, hassle-free connectivity wherever you go.",
+  "features": [
+    {
+      "id": 1,
+      "title": "Global Coverage",
+      "description": "Access networks in over 200 countries with our comprehensive eSIM solutions.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/about/Global%20Coverage.svg?updatedAt=1760355737788"
+    },
+    {
+      "id": 2,
+      "title": "Flexible Plans",
+      "description": "Choose from a variety of data plans tailored to your travel needs and budget.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/about/Flexible%20Plans.svg?updatedAt=1760355737788"
+    },
+    {
+      "id": 3,
+      "title": "Instant Activation",
+      "description": "Download and activate your eSIM profile in just a few clicks, eliminating the need for physical SIMs.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/about/Instant%20Activation.svg?updatedAt=1760355737788"
+    },
+    {
+      "id": 4,
+      "title": "Secure & Reliable",
+      "description": "Our platform is built with state-of-the-art security measures to protect your data & privacy.",
+      "image": "https://ik.imagekit.io/odc49ttmc/Pirate-mobile/about/Secure%20&%20Reliable.svg?updatedAt=1760355737389"
+    }
+  ]
+}
+

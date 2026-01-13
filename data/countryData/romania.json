@@ -1,0 +1,84 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Romania",
+  "seo_meta_title": "Buy Romania eSIM Now – Starting at $4.99",
+  "meta_description": "Get instant connectivity in Romania with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I purchase a Romania eSIM from Pirate Mobile?",
+      "answer": "You can purchase a Romania eSIM through Pirate Mobile's website by selecting the Romania eSIM option, choosing your preferred data plan, and completing the payment. You will then receive a QR code via email to activate your eSIM."
+    },
+    {
+      "question": "Which devices are compatible with Romania eSIMs?",
+      "answer": "Most modern smartphones and tablets support eSIM technology, including iPhones (XS and newer), Google Pixel models, and some Samsung devices. Please ensure that your device is unlocked and supports eSIM before purchasing."
+    },
+    {
+      "question": "Can I activate the Romania eSIM before arriving in the country?",
+      "answer": "Yes, you can activate your Romania eSIM before arriving in the country. However, it is recommended to activate it upon arrival to ensure the best possible connection to the local network."
+    },
+    {
+      "question": "How do I activate my Romania eSIM?",
+      "answer": "Once you've purchased your Romania eSIM, you'll receive a QR code via email. To activate it, go to your phone’s settings, choose 'Mobile Data' or 'Cellular,' select 'Add Cellular Plan,' and scan the QR code to complete activation."
+    },
+    {
+      "question": "Can I use the Romania eSIM for both data and voice calls?",
+      "answer": "Pirate Mobile's Romania eSIM is primarily designed for data usage. Some eSIM plans may support VoIP services like WhatsApp or Skype for voice calls, but check the specifics of your plan for voice call capabilities."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Romania eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/romania",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I purchase a Romania eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can purchase a Romania eSIM through Pirate Mobile's website by selecting the Romania eSIM option, choosing your preferred data plan, and completing the payment. You will then receive a QR code via email to activate your eSIM."
+      }
+    },{
+      "@type": "Question",
+      "name": "Which devices are compatible with Romania eSIMs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most modern smartphones and tablets support eSIM technology, including iPhones (XS and newer), Google Pixel models, and some Samsung devices. Please ensure that your device is unlocked and supports eSIM before purchasing."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I activate the Romania eSIM before arriving in the country?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can activate your Romania eSIM before arriving in the country. However, it is recommended to activate it upon arrival to ensure the best possible connection to the local network."
+      }
+    },{
+      "@type": "Question",
+      "name": "How do I activate my Romania eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you've purchased your Romania eSIM, you'll receive a QR code via email. To activate it, go to your phone’s settings, choose \"Mobile Data\" or \"Cellular,\" select \"Add Cellular Plan,\" and scan the QR code to complete activation."
+      }
+    }]
+  }
+}

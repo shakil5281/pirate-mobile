@@ -1,0 +1,77 @@
+{
+  "title": "Connect Seamlessly Across the Globe with China eSIM",
+  "seo_meta_title": "China eSIM Deals – Starting at $11.99 | Pirate Mobile",
+  "meta_description": "Traveling to China? Stay connected with Pirate Mobile’s eSIMs – fast activation, affordable rates, and nationwide coverage.",
+  "faqs": [
+    {
+      "question": "Can I use Pirate Mobile’s China eSIM for unrestricted internet access in China?",
+      "answer": "While Pirate Mobile’s eSIM provides connectivity in China, internet access may be subject to local restrictions. You may need a VPN to access certain websites or apps that are restricted within the country."
+    },
+    {
+      "question": "How quickly can I activate my China eSIM after purchase?",
+      "answer": "The China eSIM can be activated immediately after purchase. Simply scan the QR code we provide, and you’ll be connected within minutes."
+    },
+    {
+      "question": "Does Pirate Mobile’s China eSIM support 5G networks?",
+      "answer": "Yes, if 5G is available in your location and your device supports it, Pirate Mobile’s eSIM will connect to 5G networks for faster speeds."
+    },
+    {
+      "question": "Will I receive a local Chinese phone number with my eSIM?",
+      "answer": "Pirate Mobile’s eSIM primarily focuses on providing data services. If you require a local phone number for calls or texts, you may need to explore alternative options or use VoIP services."
+    },
+    {
+      "question": "What happens if I encounter issues with my China eSIM?",
+      "answer": "If you experience issues, try restarting your device or re-scanning the QR code. If the issue persists, our customer support team is available to assist you 24/7."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "China eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/china",
+      "priceCurrency": "USD",
+      "lowPrice": "11.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema":{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Q1: Can I use Pirate Mobile’s China eSIM for unrestricted internet access in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Pirate Mobile’s eSIM provides connectivity in China, internet access may be subject to local restrictions. You may need a VPN to access certain websites or apps that are restricted within the country."
+      }
+    },{
+      "@type": "Question",
+      "name": "How quickly can I activate my China eSIM after purchase?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The China eSIM can be activated immediately after purchase. Simply scan the QR code we provide, and you’ll be connected within minutes."
+      }
+    },{
+      "@type": "Question",
+      "name": "Does Pirate Mobile’s China eSIM support 5G networks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if 5G is available in your location and your device supports it, Pirate Mobile’s eSIM will connect to 5G networks for faster speeds."
+      }
+    }]
+  }
+}

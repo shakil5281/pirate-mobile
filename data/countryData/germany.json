@@ -1,0 +1,80 @@
+{
+  "title": "Affordable Germany eSIM Plans – Easy Online Activation",
+  "seo_meta_title": "Get Your Germany eSIM Instantly - From $3.99",
+  "meta_description": "Get your Germany eSIM instantly with easy online activation from Pirate Mobile. Hassle-free setup, affordable plans for travelers and locals.",
+  "faqs": [
+    {
+      "question": "Is eSIM available in Germany?",
+      "answer": "Yes, eSIM is widely available in Germany. You can use it in major cities like Berlin, Munich, and Frankfurt, as well as across the country. Simply purchase an eSIM plan compatible with Germany, and you'll be able to connect seamlessly."
+    },
+    {
+      "question": "How to get eSIM in Berlin?",
+      "answer": "To get an eSIM in Berlin, visit our website, choose the Germany or Berlin-specific eSIM plan, and complete your purchase. You'll receive a QR code via email, which you can scan with your device to activate the eSIM instantly."
+    },
+    {
+      "question": "Does eSIM support 5G?",
+      "answer": "Yes, eSIMs in Germany support 5G, provided that your device is 5G-capable and you're in an area with 5G coverage. This allows you to enjoy faster internet speeds and a better overall experience."
+    },
+    {
+      "question": "Can I keep my phone number with eSIM?",
+      "answer": "Yes, you can keep your phone number when using an eSIM. If you're transferring from a physical SIM to an eSIM, you can port your existing number during the setup process. Be sure to follow the instructions provided by your current carrier or on our website."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "esim germany",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/germany",
+      "priceCurrency": "USD",
+      "lowPrice": "3.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "1. Is eSIM available in Germany?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1. Is eSIM available in Germany? Yes, eSIM is widely available in Germany. You can use it in major cities like Berlin, Munich, and Frankfurt, as well as across the country. Simply purchase an eSIM plan compatible with Germany, and you'll be able to connect seamlessly."
+      }
+    },{
+      "@type": "Question",
+      "name": "2. How to get eSIM in Berlin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To get an eSIM in Berlin, visit our website, choose the Germany or Berlin-specific eSIM plan, and complete your purchase. You'll receive a QR code via email, which you can scan with your device to activate the eSIM instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "3. Does eSIM support 5G?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, eSIMs in Germany support 5G, provided that your device is 5G-capable and you're in an area with 5G coverage. This allows you to enjoy faster internet speeds and a better overall experience."
+      }
+    },{
+      "@type": "Question",
+      "name": "4. Can I keep my phone number with eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can keep your phone number when using an eSIM. If you're transferring from a physical SIM to an eSIM, you can port your existing number during the setup process. Be sure to follow the instructions provided by your current carrier or on our website."
+      }
+    }]
+  }
+}

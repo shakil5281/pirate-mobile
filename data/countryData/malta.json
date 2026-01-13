@@ -1,0 +1,91 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Malta",
+  "seo_meta_title": "Get Your Malta eSIM – Starting at $4.99",
+  "meta_description": "Get connected instantly in Malta with Pirate Mobile’s eSIM. No physical SIM required! Enjoy seamless data and voice services with easy activation.",
+  "faqs": [
+    {
+      "question": "How do I activate my Malta eSIM?",
+      "answer": "After purchasing, you will receive a QR code via email. Simply scan it using your eSIM-compatible device to activate your service."
+    },
+    {
+      "question": "Is my phone compatible with a Malta eSIM?",
+      "answer": "Most recent smartphones, including newer models from Apple, Samsung, and Google, support eSIM technology. Check your device settings for compatibility."
+    },
+    {
+      "question": "Can I use my Malta eSIM for both data and calls?",
+      "answer": "Yes, depending on the plan you choose, you can use your Malta eSIM for data, voice calls, and SMS."
+    },
+    {
+      "question": "How can I top up my Malta eSIM data plan?",
+      "answer": "You can easily top up your data through the Pirate Mobile website. Choose your desired package, and the additional data will be added instantly."
+    },
+    {
+      "question": "What should I do if I lose my eSIM QR code?",
+      "answer": "If you lose your QR code, contact Pirate Mobile support, and we can assist you in reissuing a new QR code for your Malta eSIM."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Malta eSIM ",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/malta",
+      "priceCurrency": "USD",
+      "lowPrice": "4.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I activate my Malta eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "After purchasing, you will receive a QR code via email. Simply scan it using your eSIM-compatible device to activate your service."
+      }
+    },{
+      "@type": "Question",
+      "name": "Is my phone compatible with a Malta eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most recent smartphones, including newer models from Apple, Samsung, and Google, support eSIM technology. Check your device settings for compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use my Malta eSIM for both data and calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, depending on the plan you choose, you can use your Malta eSIM for data, voice calls, and SMS."
+      }
+    },{
+      "@type": "Question",
+      "name": "How can I top up my Malta eSIM data plan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can easily top up your data through the Pirate Mobile website. Choose your desired package, and the additional data will be added instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "What should I do if I lose my eSIM QR code?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you lose your QR code, contact Pirate Mobile support, and we can assist you in reissuing a new QR code for your Malta eSIM."
+      }
+    }]
+  }
+}

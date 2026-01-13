@@ -1,0 +1,29 @@
+{
+    "title": "Pirate Mobile – Global eSIM Solutions",
+    "seo_meta_title": "eSIM for Travel, Business & More | Pirate Mobile",
+    "meta_description": "Pirate Mobile eSIM is a revolutionary technology that allows you to activate a mobile connection without a physical SIM card during international travel with affordable plans.",
+    "openGraph": {
+      "title": "eSIM for Travel, Business & More | Pirate Mobile",
+      "description": "Pirate Mobile eSIM is a revolutionary technology that allows you to activate a mobile connection without a physical SIM card during international travel with affordable plans.",
+      "images": ["/og/home-cover.jpg"],
+      "url": "https://www.piratemobile.gg/"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "eSIM for Travel, Business & More | Pirate Mobile",
+      "description": "Pirate Mobile eSIM is a revolutionary technology that allows you to activate a mobile connection without a physical SIM card during international travel with affordable plans.",
+      "images": ["/og/home-cover.jpg"]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Pirate Mobile",
+      "url": "https://www.piratemobile.gg",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.piratemobile.gg/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  }
+  

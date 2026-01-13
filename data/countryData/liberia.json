@@ -1,0 +1,102 @@
+{
+  "title": "Connect Seamlessly Across the Globe with Liberia",
+  "seo_meta_title": "Buy Liberia eSIM – Starting at $19.99 | Best Prices",
+  "meta_description": "Get instant connectivity in Liberia with Pirate Mobile's eSIM. No physical SIM card needed – enjoy seamless data plans for your trip.",
+  "faqs": [
+    {
+      "question": "How do I activate a Liberia eSIM from Pirate Mobile?",
+      "answer": "Once you purchase the eSIM, you will receive a QR code via email. Scan it with your compatible device to activate your eSIM and connect to a local network."
+    },
+    {
+      "question": "Can I use a Liberia eSIM on my current device?",
+      "answer": "If your device supports eSIM technology, such as the latest iPhone or Android models, you can use the Liberia eSIM. Check your device settings to confirm eSIM compatibility."
+    },
+    {
+      "question": "Do I need a local SIM card when traveling to Liberia with Pirate Mobile’s eSIM?",
+      "answer": "No, Pirate Mobile's Liberia eSIM eliminates the need for a physical local SIM card, allowing you to connect to Liberia's networks instantly."
+    },
+    {
+      "question": "Can I use the Liberia eSIM for both data and voice calls?",
+      "answer": "Pirate Mobile's Liberia eSIM is primarily designed for data usage. Voice calls may require a separate app, such as WhatsApp or Skype, for making calls over the internet."
+    },
+    {
+      "question": "How long is the Liberia eSIM valid for?",
+      "answer": "The validity period of your Liberia eSIM depends on the specific plan you choose. Pirate Mobile offers different durations, so you can pick one that fits your travel needs."
+    },
+    {
+      "question": "Can I top up my Liberia eSIM once my data runs out?",
+      "answer": "Yes, Pirate Mobile allows users to top up their Liberia eSIM with additional data as needed during their stay."
+    }
+  ],
+  "schema": {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Liberia eSIM",
+    "image": "",
+    "description": "Pirate Mobile Limited, a company incorporated under the laws of Guernsey, whose company number is 71908 and whose registered office is at Avenue House, St. Julians Avenue, ST. Peters Port, Guernsey, GY11WA",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pirate Mobile"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "url": "https://www.piratemobile.gg/esim/liberia",
+      "priceCurrency": "USD",
+      "lowPrice": "19.99"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "bestRating": "5",
+      "worstRating": "4",
+      "ratingCount": "133"
+    }
+  },
+  "faqSchema":{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "How do I activate a Liberia eSIM from Pirate Mobile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you purchase the eSIM, you will receive a QR code via email. Scan it with your compatible device to activate your eSIM and connect to a local network."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use a Liberia eSIM on my current device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your device supports eSIM technology, such as the latest iPhone or Android models, you can use the Liberia eSIM. Check your device settings to confirm eSIM compatibility."
+      }
+    },{
+      "@type": "Question",
+      "name": "Do I need a local SIM card when traveling to Liberia with Pirate Mobile’s eSIM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, Pirate Mobile's Liberia eSIM eliminates the need for a physical local SIM card, allowing you to connect to Liberia's networks instantly."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I use the Liberia eSIM for both data and voice calls?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pirate Mobile's Liberia eSIM is primarily designed for data usage. Voice calls may require a separate app, such as WhatsApp or Skype, for making calls over the internet."
+      }
+    },{
+      "@type": "Question",
+      "name": "How long is the Liberia eSIM valid for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The validity period of your Liberia eSIM depends on the specific plan you choose. Pirate Mobile offers different durations, so you can pick one that fits your travel needs."
+      }
+    },{
+      "@type": "Question",
+      "name": "Can I top up my Liberia eSIM once my data runs out?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Pirate Mobile allows users to top up their Liberia eSIM with additional data as needed during their stay."
+      }
+    }]
+  }
+}
