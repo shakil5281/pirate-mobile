@@ -3,15 +3,17 @@ frontend:
   phases:
     preBuild:
       commands:
-        - echo "Installing Node version from .nvmrc: $(cat .nvmrc)"
-        - nvm install $(cat .nvmrc)
-        - nvm use $(cat .nvmrc)
-        - node -v
-        - yarn -v
-        - yarn install --frozen-lockfile
+        - "export NODE_OPTIONS=--no-deprecation"
+        - "echo Installing Node version from .nvmrc"
+        - "nvm install $(cat .nvmrc)"
+        - "nvm use $(cat .nvmrc)"
+        - "node -v"
+        - "yarn -v"
+        - "yarn install --frozen-lockfile"
     build:
       commands:
-        - yarn build
+        - "export NODE_OPTIONS=--no-deprecation"
+        - "yarn build"
   artifacts:
     baseDirectory: .next
     files:
