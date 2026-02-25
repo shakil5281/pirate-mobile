@@ -19,7 +19,7 @@ export default function PaymentCancelPage() {
   }, [router])
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-red-50 via-yellow-50 to-orange-50 py-28">
+    <div className="min-h-screen bg-checkout-gradient py-28">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Cancel Animation */}
         <div className="text-center mb-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
@@ -51,7 +51,7 @@ export default function PaymentCancelPage() {
               </ul>
               <div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
                 <p className="text-sm text-blue-800">
-                  <strong>Don't worry!</strong> No charges have been made to your account. 
+                  <strong>Don't worry!</strong> No charges have been made to your account.
                   Your selected eSIM package is still available for purchase.
                 </p>
               </div>
@@ -112,7 +112,7 @@ export default function PaymentCancelPage() {
 
         {/* Action Buttons */}
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-400">
-          <Button 
+          <Button
             onClick={() => router.back()}
             size="lg"
             className="bg-secondary hover:bg-yellow-500 text-black font-semibold"
@@ -120,7 +120,7 @@ export default function PaymentCancelPage() {
             <ArrowLeft className="w-5 h-5 mr-2" />
             Try Again
           </Button>
-          <Button 
+          <Button
             onClick={() => router.push('/countries')}
             variant="outline"
             size="lg"
@@ -129,7 +129,7 @@ export default function PaymentCancelPage() {
             <ShoppingCart className="w-5 h-5 mr-2" />
             Browse Plans
           </Button>
-          <Button 
+          <Button
             onClick={() => router.push('/')}
             variant="outline"
             size="lg"
@@ -145,8 +145,8 @@ export default function PaymentCancelPage() {
           <p className="text-sm text-gray-600 mb-2">
             Need help? We're here for you!
           </p>
-          <Button 
-            variant="link" 
+          <Button
+            variant="link"
             onClick={() => router.push('/contact-us')}
             className="text-yellow-600 hover:text-yellow-700"
           >

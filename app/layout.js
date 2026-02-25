@@ -7,6 +7,7 @@ import { AuthProvider } from "@/contexts/AuthContext";
 import { readJsonFromData } from "@/lib/data";
 import GlobalErrorHandler from "@/components/shared/GlobalErrorHandler";
 import AppInitializer from "@/components/shared/AppInitializer";
+import { LanguageProvider } from "@/contexts/LanguageContext";
 
 const manrope = Manrope({
   variable: "--font-manrope",
@@ -49,14 +50,32 @@ export default function RootLayout({ children }) {
           strategy="lazyOnload"
         />
         <GlobalErrorHandler />
-          <AuthProvider>
-            <CurrencyProvider>
+        <AuthProvider>
+          <CurrencyProvider>
+            <LanguageProvider>
               <AppInitializer>
                 {children}
               </AppInitializer>
               <Toaster position="top-center" richColors />
-            </CurrencyProvider>
-          </AuthProvider>
+            </LanguageProvider>
+          </CurrencyProvider>
+        </AuthProvider>
+
+        <Script
+          src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+          strategy="lazyOnload"
+        />
+        <Script id="google-translate-script" strategy="lazyOnload">
+          {`
+              function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                  pageLanguage: 'en',
+                  autoDisplay: false,
+                  includedLanguages: 'en,es,de,th,ar,ja,it',
+                }, 'google_translate_element');
+              }
+            `}
+        </Script>
       </body>
     </html>
   );

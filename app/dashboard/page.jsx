@@ -1,23 +1,23 @@
 "use client"
 import EsimGauge from "@/components/dashboard/EsimGauge"
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs"
-import { useICCID } from "@/contexts/ICCIDContext"
 import { formatICCID, getICCIDStatus } from "@/lib/utils/iccidHelpers"
 import { Button } from "@/components/ui/button"
 import { Copy, CheckCircle, Clock, AlertCircle, ArrowUpDown, Timer, Download } from "lucide-react"
 import { Spinner } from "@/components/ui/spinner"
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle } from "@/components/ui/dialog"
-import { useState } from "react"
+import { useEffect, useState } from "react"
+import { getToken } from "@/lib/utils/tokenStorage"
+
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || "https://api.piratemobile.gg"
 
 export default function Page() {
-  const {
-    getActiveESIMs,
-    getQueuedESIMs,
-    getExpiredESIMs,
-    activateESIM,
-    loading,
-    error
-  } = useICCID()
+  const [activeESIMs, setActiveESIMs] = useState([])
+  const [queuedESIMs, setQueuedESIMs] = useState([])
+  const [expiredESIMs, setExpiredESIMs] = useState([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
+  const [reloadKey, setReloadKey] = useState(0)
 
   const [copiedICCID, setCopiedICCID] = useState(null)
   const [selectedESIM, setSelectedESIM] = useState(null)
@@ -25,9 +25,130 @@ export default function Page() {
   const [topUpOpen, setTopUpOpen] = useState(false)
   const [topUpESIM, setTopUpESIM] = useState(null)
 
-  const activeESIMs = getActiveESIMs()
-  const queuedESIMs = getQueuedESIMs()
-  const expiredESIMs = getExpiredESIMs()
+  // Normalize API response to match UI expectations
+  const normalizeESIM = (item, statusOverride = null) => {
+    // Convert dataAmount from MB to GB format (e.g., 3000 MB -> "3 GB")
+    const formatDataAmount = (mb) => {
+      if (!mb && mb !== 0) return null
+      const gb = mb / 1000
+      return gb >= 1 ? `${gb % 1 === 0 ? gb : gb.toFixed(1)} GB` : `${mb} MB`
+    }
+
+    // Convert bytes to GB format
+    const formatBytesToGB = (bytes) => {
+      if (!bytes && bytes !== 0) return null
+      const gb = bytes / 1e9
+      return gb >= 1 ? `${gb % 1 === 0 ? gb : gb.toFixed(1)} GB` : `${(bytes / 1e6).toFixed(0)} MB`
+    }
+
+    // Calculate expiresAt from assignmentDateTime + duration
+    const calculateExpiresAt = () => {
+      if (!item.assignmentDateTime) return null
+      const assignmentDate = new Date(item.assignmentDateTime)
+      if (Number.isNaN(assignmentDate.getTime())) return null
+      const durationDays = item.duration || 0
+      const expiresDate = new Date(assignmentDate.getTime() + durationDays * 24 * 60 * 60 * 1000)
+      return expiresDate.toISOString()
+    }
+
+    // Map status based on which array it came from (for getICCIDStatus compatibility)
+    // getICCIDStatus expects: 'generated' -> 'queued', 'activated' -> 'active'
+    let status = statusOverride
+    if (!status) {
+      const bundleState = (item.bundleState || "").toLowerCase()
+      if (bundleState === "active" || bundleState === "activated") {
+        status = "activated"
+      } else if (bundleState === "expired" || bundleState === "deactivated") {
+        status = "expired"
+      } else {
+        status = "generated" // queued items
+      }
+    }
+
+    // For expired items, ensure expiresAt is in the past
+    let expiresAt = calculateExpiresAt()
+    if (status === "expired" && expiresAt && new Date(expiresAt) > new Date()) {
+      expiresAt = new Date(Date.now() - 1000).toISOString()
+    }
+
+    return {
+      iccid: item.iccid,
+      countryName: item.countryName,
+      countryCode: item.countryIso,
+      flag: item.countryFlag,
+      dataAmount: formatDataAmount(item.dataAmount) || formatBytesToGB(item.initialQuantity) || "N/A",
+      remainingData: formatBytesToGB(item.remainingQuantity) || formatDataAmount(item.dataAmount) || "N/A",
+      status: status,
+      expiresAt: expiresAt,
+      duration: item.duration,
+      qrCode: item.eSimQrCode,
+      installUrl: item.appleInstallUrl,
+      createdAt: item.assignmentDateTime,
+      planType: item.bundle || item.name,
+      order: item.order,
+      raw: item
+    }
+  }
+
+  useEffect(() => {
+    const controller = new AbortController()
+
+    const fetchESIMs = async () => {
+      setLoading(true)
+      setError(null)
+
+      try {
+        const token = getToken()
+
+        if (!token) {
+          setLoading(false)
+          return
+        }
+
+        const response = await fetch(`${API_BASE_URL}/e-sim`, {
+          headers: {
+            Authorization: `Bearer ${token}`,
+            "Content-Type": "application/json"
+          },
+          cache: "no-store",
+          signal: controller.signal
+        })
+
+        if (!response.ok) {
+          const body = await response.json().catch(() => ({}))
+          const message = body?.message || `Unable to fetch eSIMs (${response.status})`
+          throw new Error(message)
+        }
+
+        const payload = await response.json()
+        
+        // Extract arrays from response structure: { all: [], active: [], queued: [], expired: [] }
+        // Normalize each array separately and set them directly (no re-filtering needed)
+        const activeList = Array.isArray(payload.active) ? payload.active.map(item => normalizeESIM(item, "activated")) : []
+        const queuedList = Array.isArray(payload.queued) ? payload.queued.map(item => normalizeESIM(item, "generated")) : []
+        const expiredList = Array.isArray(payload.expired) ? payload.expired.map(item => normalizeESIM(item, "expired")) : []
+        
+        // Set each array directly - API already categorizes them correctly
+        setActiveESIMs(activeList)
+        setQueuedESIMs(queuedList)
+        setExpiredESIMs(expiredList)
+      } catch (err) {
+        if (controller.signal.aborted) return
+        console.error("Error fetching eSIMs:", err)
+        setError(err?.message || "Unable to load your eSIMs right now.")
+      } finally {
+        if (!controller.signal.aborted) {
+          setLoading(false)
+        }
+      }
+    }
+
+    fetchESIMs()
+
+    return () => {
+      controller.abort()
+    }
+  }, [reloadKey])
 
   const copyICCID = async (iccid) => {
     try {
@@ -40,7 +161,13 @@ export default function Page() {
   }
 
   const handleActivateESIM = (iccid) => {
-    activateESIM(iccid)
+    // Find the eSIM in queued list
+    const esimToActivate = queuedESIMs.find(esim => esim.iccid === iccid)
+    if (!esimToActivate) return
+
+    // Remove from queued and add to active
+    setQueuedESIMs(prev => prev.filter(esim => esim.iccid !== iccid))
+    setActiveESIMs(prev => [...prev, { ...esimToActivate, status: "activated", activatedAt: new Date().toISOString() }])
   }
 
   const openDetails = (esim) => {
@@ -349,14 +476,55 @@ export default function Page() {
   )
 
   const renderErrorState = () => (
-    <div className="col-span-full text-center py-12">
-      <div className="text-red-500 mb-4">
-        <AlertCircle className="w-12 h-12 mx-auto" />
+    <div className="col-span-full flex items-center justify-center py-10 sm:py-14">
+      <div className="w-full max-w-xl rounded-3xl border border-red-100 bg-gradient-to-b from-red-50 to-white p-6 sm:p-8 shadow-sm">
+        <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-2xl bg-white shadow-sm ring-1 ring-red-100">
+          <AlertCircle className="h-6 w-6 text-red-600" />
+        </div>
+
+        <div className="mt-4 text-center">
+          <h3 className="text-lg sm:text-xl font-semibold text-gray-900">We couldn&apos;t load your eSIMs</h3>
+          <p className="mt-2 text-sm sm:text-base text-gray-600 break-words">
+            {error || "Something went wrong while loading your eSIMs."}
+          </p>
+        </div>
+
+        <div className="mt-6 flex flex-col sm:flex-row gap-3 justify-center">
+          <Button
+            className="h-11 rounded-full bg-secondary text-black font-semibold hover:bg-yellow-300"
+            onClick={() => setReloadKey((k) => k + 1)}
+          >
+            Try again
+          </Button>
+          <Button
+            variant="outline"
+            className="h-11 rounded-full"
+            onClick={() => window.location.reload()}
+          >
+            Reload page
+          </Button>
+        </div>
       </div>
-      <h3 className="text-lg font-medium text-gray-900 mb-2">We couldn&apos;t load your eSIMs</h3>
-      <p className="text-gray-500">{error || 'Something went wrong while loading your eSIMs.'}</p>
     </div>
   )
+
+  const hasAnyESIMs = activeESIMs.length > 0 || queuedESIMs.length > 0 || expiredESIMs.length > 0
+
+  if (!loading && error && !hasAnyESIMs) {
+    return (
+      <div className="flex flex-col gap-6 lg:min-h-[calc(100vh-300px)]">
+        <div className="flex items-center justify-between">
+          <div>
+            <h1 className="text-[28px] font-bold text-center md:text-left">My eSIMs</h1>
+            <p className="text-sm text-gray-500 text-center md:text-left">View and manage any eSIMs you&apos;ve purchased</p>
+          </div>
+        </div>
+        <div className="flex-1 flex items-center justify-center">
+          {renderErrorState()}
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="flex flex-col gap-6 lg:min-h-[calc(100vh-300px)]">
@@ -372,11 +540,6 @@ export default function Page() {
             </div>
           </div>
 
-          {error && (
-            <div className="bg-red-50 border border-red-200 rounded-lg p-4">
-              <p className="text-red-700 text-sm">{error}</p>
-            </div>
-          )}
           <TabsList className="flex gap-2 rounded-full bg-white p-1 h-auto border mb-4">
             <TabsTrigger
               value="active"

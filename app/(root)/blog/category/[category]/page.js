@@ -1,6 +1,6 @@
 import { initializeApollo } from "@/lib/apolloInstance";
 import LoadMoreBlog from "@/app/(root)/blog/category/[category]/LoadMoreBlog";
-import {gql} from "@apollo/client";
+import { gql } from "@apollo/client";
 import BlogHeader from "@/components/features/blog/BlogHeader";
 
 export const CATEGORY_SLUGS_QUERY = gql`
@@ -55,15 +55,15 @@ export const POSTS_BY_CATEGORY_QUERY = gql`
 export async function generateStaticParams() {
     try {
         const client = initializeApollo();
-        
+
         // Add timeout to prevent hanging during build
         const timeoutPromise = new Promise((_, reject) => {
             setTimeout(() => reject(new Error('Category slugs query timeout')), 10000);
         });
-        
-        const queryPromise = client.query({ 
+
+        const queryPromise = client.query({
             query: CATEGORY_SLUGS_QUERY,
-            fetchPolicy: 'network-only',
+            fetchPolicy: 'cache-first',
         });
 
         const { data } = await Promise.race([queryPromise, timeoutPromise]);
@@ -88,8 +88,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({
-                                           params,
-                                       }) {
+    params,
+}) {
 
     const resolvedParams = await params;
 
@@ -120,11 +120,11 @@ export default async function CategoryPage({ params }) {
         const postsTimeoutPromise = new Promise((_, reject) => {
             setTimeout(() => reject(new Error('Category posts query timeout')), 10000);
         });
-        
+
         const postsQueryPromise = client.query({
             query: POSTS_BY_CATEGORY_QUERY,
             variables: { categorySlugs: resolvedParams.category, first: 9 },
-            fetchPolicy: 'network-only',
+            fetchPolicy: 'cache-first',
         });
 
         // Fetch posts for this category
@@ -134,10 +134,10 @@ export default async function CategoryPage({ params }) {
         const categoriesTimeoutPromise = new Promise((_, reject) => {
             setTimeout(() => reject(new Error('Categories query timeout')), 5000);
         });
-        
+
         const categoriesQueryPromise = client.query({
             query: ALL_CATEGORIES_QUERY,
-            fetchPolicy: 'network-only',
+            fetchPolicy: 'cache-first',
         });
 
         // Fetch all categories for the filter
@@ -169,7 +169,7 @@ export default async function CategoryPage({ params }) {
         );
     } catch (error) {
         console.warn('Unable to load category page:', error.message);
-        
+
         // Return a fallback UI when WordPress API is unavailable
         return (
             <main>
@@ -179,8 +179,8 @@ export default async function CategoryPage({ params }) {
                     <p className="text-gray-600 mb-6">
                         We're having trouble connecting to our blog service. Please try again later.
                     </p>
-                    <a 
-                        href="/blog" 
+                    <a
+                        href="/blog"
                         className="inline-block px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors"
                     >
                         Back to All Posts

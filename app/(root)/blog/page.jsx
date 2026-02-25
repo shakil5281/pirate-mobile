@@ -1,7 +1,7 @@
 import BlogHeader from "@/components/features/blog/BlogHeader";
 import BlogListSection from "@/components/features/blog/BlogListSection";
-import {initializeApollo} from "@/lib/apolloInstance";
-import {gql} from "@apollo/client";
+import { initializeApollo } from "@/lib/apolloInstance";
+import { gql } from "@apollo/client";
 
 const POSTS_PER_PAGE = 10;
 
@@ -80,10 +80,10 @@ export default async function BlogPage({ searchParams }) {
     const categoriesTimeoutPromise = new Promise((_, reject) => {
       setTimeout(() => reject(new Error('Categories query timeout')), 5000);
     });
-    
+
     const categoriesQueryPromise = apolloClient.query({
       query: ALL_CATEGORIES_QUERY,
-      fetchPolicy: 'network-only',
+      fetchPolicy: 'cache-first',
     });
 
     const { data: categoriesData } = await Promise.race([categoriesQueryPromise, categoriesTimeoutPromise]);
@@ -105,15 +105,15 @@ export default async function BlogPage({ searchParams }) {
     const postsTimeoutPromise = new Promise((_, reject) => {
       setTimeout(() => reject(new Error('Posts query timeout')), 10000);
     });
-    
+
     const postsQueryPromise = apolloClient.query({
       query,
-      variables: { 
+      variables: {
         first: POSTS_PER_PAGE,
         categoryName: tag !== "All Articles" ? tag : undefined,
         search: search || undefined,
       },
-      fetchPolicy: 'network-only',
+      fetchPolicy: 'cache-first',
     });
 
     const result = await Promise.race([postsQueryPromise, postsTimeoutPromise]);
@@ -127,10 +127,10 @@ export default async function BlogPage({ searchParams }) {
     <main>
       <BlogHeader filters={filters} search={search} tag={tag} />
       <BlogListSection
-          initialPosts={data?.posts?.nodes || []}
-          initialPageInfo={data?.posts?.pageInfo}
-          categoryFilter={tag}
-          searchQuery={search}
+        initialPosts={data?.posts?.nodes || []}
+        initialPageInfo={data?.posts?.pageInfo}
+        categoryFilter={tag}
+        searchQuery={search}
       />
     </main>
   );
@@ -145,7 +145,7 @@ async function getBlogMetadata() {
   const apiUrl = `${base}/api/metadata/blog`;
 
   try {
-    const res = await fetch(apiUrl, { cache: "no-store" });
+    const res = await fetch(apiUrl);
     if (!res.ok) throw new Error("Not found");
     return await res.json();
   } catch {
@@ -170,8 +170,8 @@ export async function generateMetadata() {
     twitter: data.twitter || {},
     other: data.schema
       ? {
-          "application/ld+json": JSON.stringify(data.schema)
-        }
+        "application/ld+json": JSON.stringify(data.schema)
+      }
       : undefined
   };
 }

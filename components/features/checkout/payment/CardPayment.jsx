@@ -114,4 +114,3 @@ const SubmitPayment = ({ isPaying, setIsPaying }) => {
         </div>
     );
 };
-

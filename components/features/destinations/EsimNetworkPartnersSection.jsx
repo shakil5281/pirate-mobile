@@ -227,6 +227,7 @@ export default function EsimNetworkPartnersSection({
                       height={80}
                       className="object-contain p-2 w-full h-full"
                       sizes="80px"
+                      unoptimized={provider.logo?.includes('wikimedia.org')}
                     />
                   ) : (
                     <div className="w-full h-full flex items-center justify-center text-white font-semibold text-xs sm:text-sm text-center">

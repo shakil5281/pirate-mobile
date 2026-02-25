@@ -1,6 +1,6 @@
 export default function sitemap() {
   const baseUrl = 'https://piratemobile.gg';
-  
+
   return [
     {
       url: baseUrl,
@@ -45,7 +45,7 @@ export default function sitemap() {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/faq`,
+      url: `${baseUrl}/faqs`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,

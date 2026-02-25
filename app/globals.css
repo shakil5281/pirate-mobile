@@ -42,6 +42,10 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
+
+  /* Accordion smooth animations */
+  --animate-accordion-down: accordion-down 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --animate-accordion-up: accordion-up 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 :root {
@@ -117,6 +121,7 @@
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
     font-family: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
@@ -130,8 +135,87 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+
+  .bg-checkout-gradient {
+    background: linear-gradient(180deg,
+        rgba(255, 253, 233, 0.9) 0%,
+        rgba(255, 246, 186, 0.63) 37%,
+        rgba(255, 249, 205, 0.58) 58%,
+        rgba(255, 249, 205, 0.36) 76%,
+        rgba(255, 255, 255, 0) 100%);
+  }
 }
 
-button{
+/* ── Accordion animations ─────────────────────────── */
+@keyframes accordion-down {
+  from {
+    height: 0;
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+
+  to {
+    height: var(--radix-accordion-content-height);
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  to {
+    height: 0;
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+}
+
+/* Force animations on Radix attributes with better performance */
+[data-slot="accordion-content"] {
+  overflow: hidden;
+  will-change: height, opacity;
+}
+
+[data-slot="accordion-content"][data-state="open"] {
+  animation: accordion-down 350ms cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+[data-slot="accordion-content"][data-state="closed"] {
+  animation: accordion-up 300ms cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+button {
   @apply cursor-pointer;
+}
+
+/* Google Translate Overrides */
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+.skiptranslate>iframe {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+#goog-gt-tt,
+.goog-te-balloon-frame {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+}
+
+.goog-text-highlight {
+  background-color: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
 }

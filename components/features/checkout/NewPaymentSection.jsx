@@ -1,13 +1,16 @@
 "use client"
 
-import React, { useState } from 'react'
+import React, { useState, useMemo } from 'react'
 import { Lock, Check } from 'lucide-react'
+import Image from 'next/image'
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
+import countries from 'world-countries'
 
-const NewPaymentSection = ({ 
+const NewPaymentSection = ({
   onPaymentComplete,
-  amount = 0, 
+  amount = 0,
   currency = 'USD',
-  disabled = false 
+  disabled = false
 }) => {
   const [cardDetails, setCardDetails] = useState({
     cardNumber: '',
@@ -15,7 +18,24 @@ const NewPaymentSection = ({
     expiryDate: '',
     cvv: ''
   })
+  const [billingAddress, setBillingAddress] = useState({
+    country: '',
+    address: '',
+    city: '',
+    postalCode: ''
+  })
   const [isProcessing, setIsProcessing] = useState(false)
+
+  // Performance Optimization: Memoize sorted countries list
+  const sortedCountries = useMemo(() => {
+    return [...countries].sort((a, b) => a.name.common.localeCompare(b.name.common))
+  }, [])
+
+  // Performance Optimization: Memoize selected country for the flag display
+  const selectedCountry = useMemo(() => {
+    if (!billingAddress.country) return null
+    return countries.find(c => c.name.common === billingAddress.country)
+  }, [billingAddress.country])
 
   const handleCardInputChange = (e) => {
     const { name, value } = e.target
@@ -42,6 +62,14 @@ const NewPaymentSection = ({
     setCardDetails(prev => ({
       ...prev,
       [name]: formattedValue
+    }))
+  }
+
+  const handleBillingAddressChange = (e) => {
+    const { name, value } = e.target
+    setBillingAddress(prev => ({
+      ...prev,
+      [name]: value
     }))
   }
 
@@ -86,10 +114,17 @@ const NewPaymentSection = ({
         return
       }
 
+      // Validate billing address
+      if (!billingAddress.country || !billingAddress.address || !billingAddress.city || !billingAddress.postalCode) {
+        alert('Please fill in all billing address fields')
+        setIsProcessing(false)
+        return
+      }
+
       await new Promise(resolve => setTimeout(resolve, 2000))
-      console.log('Card payment processed:', cardDetails)
+      console.log('Card payment processed:', { cardDetails, billingAddress })
       if (onPaymentComplete) {
-        onPaymentComplete({ method: 'card', success: true, cardDetails })
+        onPaymentComplete({ method: 'card', success: true, cardDetails, billingAddress })
       }
     } catch (error) {
       console.error('Card payment error:', error)
@@ -107,7 +142,7 @@ const NewPaymentSection = ({
           </div>
         </div>
       )}
-      
+
       {/* Payment Details Header */}
       <div className="mb-6">
         <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-2">Payment Details</h2>
@@ -120,15 +155,14 @@ const NewPaymentSection = ({
         <button
           onClick={handleGooglePay}
           disabled={isProcessing}
-          className={`flex items-center justify-center py-3 px-4 rounded-lg border-2 transition-all duration-200 bg-white hover:border-yellow-300 hover:shadow-sm ${
-            isProcessing ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer border-gray-200'
-          }`}
+          className={`flex items-center justify-center py-3 px-4 rounded-lg border-2 transition-all duration-200 bg-white hover:border-yellow-300 hover:shadow-sm ${isProcessing ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer border-gray-200'
+            }`}
         >
           <svg viewBox="0 0 48 48" className="w-16 h-6">
-            <path fill="#4285F4" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
-            <path fill="#34A853" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
-            <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/>
-            <path fill="#EA4335" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+            <path fill="#4285F4" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z" />
+            <path fill="#34A853" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z" />
+            <path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z" />
+            <path fill="#EA4335" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z" />
           </svg>
         </button>
 
@@ -136,12 +170,11 @@ const NewPaymentSection = ({
         <button
           onClick={handleApplePay}
           disabled={isProcessing}
-          className={`flex items-center justify-center py-3 px-4 rounded-lg border-2 transition-all duration-200 bg-black hover:bg-gray-900 ${
-            isProcessing ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer border-black'
-          }`}
+          className={`flex items-center justify-center py-3 px-4 rounded-lg border-2 transition-all duration-200 bg-black hover:bg-gray-900 ${isProcessing ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer border-black'
+            }`}
         >
           <svg viewBox="0 0 24 24" className="w-12 h-6 fill-white">
-            <path d="M17.05 20.28c-.98.95-2.05.88-3.08.4-1.09-.5-2.08-.48-3.24 0-1.44.62-2.2.44-3.06-.4C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z"/>
+            <path d="M17.05 20.28c-.98.95-2.05.88-3.08.4-1.09-.5-2.08-.48-3.24 0-1.44.62-2.2.44-3.06-.4C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.54 4.09l.01-.01zM12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25z" />
           </svg>
         </button>
       </div>
@@ -162,11 +195,10 @@ const NewPaymentSection = ({
                 value={cardDetails.cardNumber}
                 onChange={handleCardInputChange}
                 placeholder="1234 5678 9101 3456"
-                className={`w-full px-4 py-3 pr-12 border-2 rounded-xl outline-none transition-all ${
-                  cardDetails.cardNumber.replace(/\s/g, '').length === 16
-                    ? 'border-green-500 focus:border-green-500'
-                    : 'border-gray-300 focus:border-yellow-400'
-                }`}
+                className={`w-full px-4 py-3 pr-12 border-2 rounded-xl outline-none transition-all ${cardDetails.cardNumber.replace(/\s/g, '').length === 16
+                  ? 'border-green-500 focus:border-green-500'
+                  : 'border-gray-300 focus:border-yellow-400'
+                  }`}
                 required
               />
               {cardDetails.cardNumber.replace(/\s/g, '').length === 16 && (
@@ -226,15 +258,135 @@ const NewPaymentSection = ({
           />
         </div>
 
+        {/* Billing Address Section */}
+        <div className="space-y-4 pt-2">
+          {/* Country */}
+          <div className="relative">
+            <label className="absolute -top-2 left-3 bg-white px-1 text-xs font-medium text-gray-600 z-10">
+              Country
+            </label>
+            <Select
+              value={billingAddress.country}
+              onValueChange={(value) => setBillingAddress(prev => ({ ...prev, country: value }))}
+              required
+            >
+              <SelectTrigger className="w-full px-4 py-6 border-2 border-gray-300 rounded-xl focus:border-yellow-400 outline-none transition-all h-auto">
+                <SelectValue placeholder="Select your country">
+                  {billingAddress.country && (
+                    <span className="flex items-center gap-3">
+                      {selectedCountry && (
+                        <div className="relative w-6 h-4 shrink-0 overflow-hidden rounded-sm border border-gray-100">
+                          <Image
+                            src={`https://flagcdn.com/w40/${selectedCountry.cca2.toLowerCase()}.png`}
+                            alt={selectedCountry.name.common}
+                            fill
+                            className="object-cover"
+                          />
+                        </div>
+                      )}
+                      <span>{billingAddress.country}</span>
+                    </span>
+                  )}
+                </SelectValue>
+              </SelectTrigger>
+              <SelectContent className="max-h-[300px]">
+                {sortedCountries.map((country) => (
+                  <SelectItem key={country.cca2} value={country.name.common}>
+                    <span className="flex items-center gap-3">
+                      <div className="relative w-6 h-4 shrink-0 overflow-hidden rounded-sm border border-gray-200">
+                        <Image
+                          src={`https://flagcdn.com/w40/${country.cca2.toLowerCase()}.png`}
+                          alt={country.name.common}
+                          fill
+                          className="object-cover"
+                        />
+                      </div>
+                      <span>{country.name.common}</span>
+                    </span>
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+
+          {/* Address */}
+          <div className="relative">
+            <label className="absolute -top-2 left-3 bg-white px-1 text-xs font-medium text-gray-600 z-10">
+              Address
+            </label>
+            <input
+              type="text"
+              name="address"
+              value={billingAddress.address}
+              onChange={handleBillingAddressChange}
+              placeholder="Enter your address"
+              className="w-full px-4 py-3 border-2 border-gray-300 rounded-xl focus:border-yellow-400 outline-none transition-all"
+              required
+            />
+          </div>
+
+          {/* City and Postal Code */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            {/* City */}
+            <div className="relative">
+              <label className="absolute -top-2 left-3 bg-white px-1 text-xs font-medium text-gray-600 z-10">
+                City
+              </label>
+              <input
+                type="text"
+                name="city"
+                value={billingAddress.city}
+                onChange={handleBillingAddressChange}
+                placeholder="Enter your city"
+                className="w-full px-4 py-3 border-2 border-gray-300 rounded-xl focus:border-yellow-400 outline-none transition-all"
+                required
+              />
+            </div>
+
+            {/* Postal Code */}
+            <div className="relative">
+              <label className="absolute -top-2 left-3 bg-white px-1 text-xs font-medium text-gray-600 z-10">
+                Postal Code
+              </label>
+              <input
+                type="text"
+                name="postalCode"
+                value={billingAddress.postalCode}
+                onChange={handleBillingAddressChange}
+                placeholder="Enter postal code"
+                className="w-full px-4 py-3 border-2 border-gray-300 rounded-xl focus:border-yellow-400 outline-none transition-all"
+                required
+              />
+            </div>
+          </div>
+        </div>
+
         {/* Pay Securely Button */}
         <button
           type="submit"
-          disabled={isProcessing}
-          className={`w-full py-4 rounded-xl font-semibold transition-all duration-200 flex items-center justify-center gap-2 ${
-            isProcessing
-              ? 'bg-gray-400 cursor-not-allowed text-white'
-              : 'bg-yellow-400 hover:bg-yellow-500 text-black shadow-lg hover:shadow-xl'
-          }`}
+          disabled={
+            isProcessing ||
+            !cardDetails.cardNumber ||
+            !cardDetails.cardName ||
+            !cardDetails.expiryDate ||
+            !cardDetails.cvv ||
+            !billingAddress.country ||
+            !billingAddress.address ||
+            !billingAddress.city ||
+            !billingAddress.postalCode
+          }
+          className={`w-full py-4 rounded-xl font-semibold transition-all duration-200 flex items-center justify-center gap-2 ${isProcessing ||
+            !cardDetails.cardNumber ||
+            !cardDetails.cardName ||
+            !cardDetails.expiryDate ||
+            !cardDetails.cvv ||
+            !billingAddress.country ||
+            !billingAddress.address ||
+            !billingAddress.city ||
+            !billingAddress.postalCode
+            ? 'bg-gray-400 cursor-not-allowed text-white'
+            : 'bg-yellow-400 hover:bg-yellow-500 text-black shadow-lg hover:shadow-xl'
+            }`}
         >
           {isProcessing ? (
             <>

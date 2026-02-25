@@ -83,8 +83,9 @@ export default function GlobalConnectivityPartners() {
                       alt={partner.alt}
                       width={160}
                       height={64}
-                      style={{ height: 'auto' ,width: 'auto'}}
+                      style={{ height: 'auto', width: 'auto' }}
                       className="max-h-16 w-auto object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
+                      unoptimized={partner.logo?.includes('wikimedia.org')}
                     />
                   </div>
                 </div>
@@ -104,8 +105,9 @@ export default function GlobalConnectivityPartners() {
                       alt={partner.alt}
                       width={160}
                       height={64}
-                      style={{ height: 'auto' ,width: 'auto'}}
+                      style={{ height: 'auto', width: 'auto' }}
                       className="max-h-16 w-auto object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
+                      unoptimized={partner.logo?.includes('wikimedia.org')}
                     />
                   </div>
                 </div>

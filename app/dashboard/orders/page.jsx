@@ -17,6 +17,7 @@ import {
 import { useAuth } from '@/contexts/AuthContext';
 import { getToken as getStoredToken } from '@/lib/utils/tokenStorage';
 import { Spinner } from '@/components/ui/spinner';
+import { Button } from '@/components/ui/button';
 import {
   Pagination,
   PaginationContent,
@@ -193,6 +194,7 @@ export default function OrdersPage() {
   const [error, setError] = useState(null);
   const [detailFetching, setDetailFetching] = useState(false);
   const [page, setPage] = useState(1);
+  const [reloadKey, setReloadKey] = useState(0);
   const pageSize = 6;
 
   useEffect(() => {
@@ -246,7 +248,7 @@ export default function OrdersPage() {
     fetchOrders();
 
     return () => controller.abort();
-  }, [contextToken]);
+  }, [contextToken, reloadKey]);
 
   useEffect(() => {
     const totalPages = Math.max(1, Math.ceil(orders.length / pageSize));
@@ -360,6 +362,39 @@ export default function OrdersPage() {
 
   const paginationItems = getPaginationItems();
 
+  const renderErrorState = () => (
+    <div className="flex items-center justify-center py-10 sm:py-14">
+      <div className="w-full max-w-xl rounded-3xl border border-red-100 bg-gradient-to-b from-red-50 to-white p-6 sm:p-8 shadow-sm">
+        <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-2xl bg-white shadow-sm ring-1 ring-red-100">
+          <AlertTriangle className="h-6 w-6 text-red-600" />
+        </div>
+
+        <div className="mt-4 text-center">
+          <h3 className="text-lg sm:text-xl font-semibold text-gray-900">We couldn&apos;t load your orders</h3>
+          <p className="mt-2 text-sm sm:text-base text-gray-600 break-words">
+            {error || 'Something went wrong while loading your orders.'}
+          </p>
+        </div>
+
+        <div className="mt-6 flex flex-col sm:flex-row gap-3 justify-center">
+          <Button
+            className="h-11 rounded-full bg-secondary text-black font-semibold hover:bg-yellow-300"
+            onClick={() => setReloadKey((k) => k + 1)}
+          >
+            Try again
+          </Button>
+          <Button
+            variant="outline"
+            className="h-11 rounded-full"
+            onClick={() => window.location.reload()}
+          >
+            Reload page
+          </Button>
+        </div>
+      </div>
+    </div>
+  );
+
   return (
     <div className="flex flex-col gap-6 lg:min-h-[calc(100vh-300px)]">
       {/* Header */}
@@ -368,7 +403,9 @@ export default function OrdersPage() {
         <p className="text-sm text-gray-500">View and manage any eSIMs you&apos;ve purchased</p>
       </div>
 
-      {error && (
+      {!loading && error && !hasOrders ? (
+        renderErrorState()
+      ) : error && (
         <div className="rounded-lg border border-red-200 bg-red-50 px-3 py-2 text-sm text-red-700 flex items-center gap-2">
           <AlertTriangle className="w-4 h-4 text-red-600" />
           <span>{error}</span>

@@ -13,6 +13,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
 import CurrencySelector from "@/components/layout/currency-selector"
+import LanguageSelector from "@/components/layout/LanguageSelector"
 import Link from 'next/link'
 import { usePathname, useRouter } from 'next/navigation'
 import NextImage from 'next/image'
@@ -127,7 +128,7 @@ export default function Header() {
           })}
         </nav>
 
-        {/* Right: currency, whatsapp, sign in, burger */}
+        {/* Right: currency, language, whatsapp, sign in, burger */}
         <div className="flex items-center gap-2 sm:gap-3">
           {/* Currency Selector - Hidden on very small screens */}
           <div className="hidden sm:block">
@@ -136,6 +137,11 @@ export default function Header() {
               onCurrencyChange={handleCurrencyChange}
               whiteText={isHajjPage || isEuropePage}
             />
+          </div>
+
+          {/* Language Selector - Hidden on very small screens */}
+          <div className="hidden sm:block">
+            <LanguageSelector />
           </div>
 
           {/* WhatsApp Contact Button - Hidden on small screens */}
@@ -284,13 +290,14 @@ export default function Header() {
               </Link>
               <div className="flex">
                 <div className="">
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center justify-center gap-2">
                     <CurrencySelector
                       selectedCurrency={selectedCurrency}
                       onCurrencyChange={handleCurrencyChange}
                       showOnMobile={true}
                       className="w-full max-w-xs"
                     />
+                    <LanguageSelector showOnMobile={true} className="w-full max-w-[140px]" />
                   </div>
                 </div>
                 <button

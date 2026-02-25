@@ -23,7 +23,7 @@ const MainHero = memo(function MainHero() {
         setLoading(true)
         const apiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.piratemobile.gg';
         const response = await fetch(`${apiBaseUrl}/e-sim/countries`);
-        
+
         if (response.ok) {
           const data = await response.json();
           setCountries(data.countries || []);
@@ -41,8 +41,8 @@ const MainHero = memo(function MainHero() {
   // Close dropdown when clicking outside
   useEffect(() => {
     const handleClickOutside = (event) => {
-      if (dropdownRef.current && !dropdownRef.current.contains(event.target) && 
-          inputRef.current && !inputRef.current.contains(event.target)) {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target) &&
+        inputRef.current && !inputRef.current.contains(event.target)) {
         setIsDropdownOpen(false);
       }
     };
@@ -95,7 +95,7 @@ const MainHero = memo(function MainHero() {
       <div className="relative z-10 flex w-full max-w-6xl 2xl:max-w-7xl mx-auto h-full">
 
         {/* Left side: Text & Search */}
-        <div className="w-full flex flex-col items-center lg:items-start text-center lg:text-left  h-full lg:pb-12 2xl:pb-28">
+        <div className="flex-1 flex flex-col items-center lg:items-start text-center lg:text-left h-full lg:pb-12 2xl:pb-28">
           <h1 className="font-bold text-[9vw] sm:text-5xl lg:text-5xl 2xl:text-[64px] text-slate-900 leading-tight mb-3">
             Travel Freely<br />
             Connect Instantly<br />
@@ -112,32 +112,32 @@ const MainHero = memo(function MainHero() {
             <div
               ref={inputRef}
               className="w-full flex items-center bg-white shadow-md border border-gray-200 p-1 rounded-full overflow-hidden"
-          >
-            {/* Location Icon */}
+            >
+              {/* Location Icon */}
               <div className="flex items-center justify-center w-10 h-10 rounded-full bg-gray-100 ml-1">
-                <Image 
-                  src="https://ik.imagekit.io/odc49ttmc/Pirate-mobile/home/maps-global-01.svg?updatedAt=1760169285456" 
-                  alt="Search" 
-                  width={20} 
-                  height={20} 
+                <Image
+                  src="https://ik.imagekit.io/odc49ttmc/Pirate-mobile/home/maps-global-01.svg?updatedAt=1760169285456"
+                  alt="Search"
+                  width={20}
+                  height={20}
                 />
-            </div>
+              </div>
 
-            {/* Search Input */}
+              {/* Search Input */}
               <input
                 className="flex-1 px-2 py-2 border-none outline-none shadow-none bg-transparent text-gray-700 placeholder:text-gray-400"
                 type="text"
-              placeholder="Search for destination"
-              value={query}
+                placeholder="Search for destination"
+                value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onFocus={handleInputFocus}
-            />
+              />
 
-            {/* Search Button */}
-            <Button
-              size="lg"
-              className="ml-1 px-6 py-3 bg-secondary hover:bg-secondary-foreground text-slate-900 font-semibold shadow-none flex items-center gap-2 rounded-full"
-            >
+              {/* Search Button */}
+              <Button
+                size="lg"
+                className="ml-1 px-6 py-3 bg-secondary hover:bg-secondary-foreground text-slate-900 font-semibold shadow-none flex items-center gap-2 rounded-full"
+              >
                 <svg
                   width="16"
                   height="16"
@@ -153,8 +153,8 @@ const MainHero = memo(function MainHero() {
                     strokeLinejoin="round"
                   />
                 </svg>
-              <span className='hidden md:block'>Search</span>
-            </Button>
+                <span className='hidden md:block'>Search</span>
+              </Button>
             </div>
 
             {/* Dropdown with countries list */}
@@ -211,7 +211,7 @@ const MainHero = memo(function MainHero() {
         </div>
 
         {/* Right side: Mobile phone visual - Optimized */}
-        <div className="absolute right-0 bottom-0 w-full md:w-1/2 lg:flex justify-end items-end min-h-[300px] mb-0 hidden">
+        <div className="w-full md:w-1/2 lg:flex justify-end items-end self-end min-h-[300px] mb-0 hidden">
           <Image
             width={637}
             height={818}
