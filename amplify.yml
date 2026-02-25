@@ -9,7 +9,7 @@ frontend:
         - "nvm use $(cat .nvmrc)"
         - "node -v"
         - "yarn -v"
-        - "yarn install --frozen-lockfile"
+        - "yarn install"
     build:
       commands:
         - "export NODE_OPTIONS=--no-deprecation"
