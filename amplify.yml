@@ -4,9 +4,8 @@ frontend:
     preBuild:
       commands:
         - "export NODE_OPTIONS=--no-deprecation"
-        - "echo Installing Node version from .nvmrc"
-        - "nvm install $(cat .nvmrc)"
-        - "nvm use $(cat .nvmrc)"
+        - "nvm install 22"
+        - "nvm use 22"
         - "node -v"
         - "yarn -v"
         - "yarn install"
